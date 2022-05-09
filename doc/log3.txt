@@ -1,0 +1,6600 @@
+### Run 0	2022-05-03 21:10:35	### Run Time: 24.6027
+Total count: 1e+07
+Source position : (0,150,0)
+Source energy: 0.04652
+Detection efficiency: 0.00146675
+
+### Run 1	2022-05-03 21:10:59	### Run Time: 24.191
+Total count: 1e+07
+Source position : (0,155,0)
+Source energy: 0.04652
+Detection efficiency: 0.00138495
+
+### Run 2	2022-05-03 21:11:24	### Run Time: 24.4528
+Total count: 1e+07
+Source position : (0,160,0)
+Source energy: 0.04652
+Detection efficiency: 0.00132015
+
+### Run 3	2022-05-03 21:11:48	### Run Time: 24.4422
+Total count: 1e+07
+Source position : (0,165,0)
+Source energy: 0.04652
+Detection efficiency: 0.00122875
+
+### Run 4	2022-05-03 21:12:12	### Run Time: 23.9527
+Total count: 1e+07
+Source position : (0,170,0)
+Source energy: 0.04652
+Detection efficiency: 0.00117155
+
+### Run 5	2022-05-03 21:12:36	### Run Time: 24.3684
+Total count: 1e+07
+Source position : (0,175,0)
+Source energy: 0.04652
+Detection efficiency: 0.0010954
+
+### Run 6	2022-05-03 21:13:00	### Run Time: 23.9212
+Total count: 1e+07
+Source position : (0,180,0)
+Source energy: 0.04652
+Detection efficiency: 0.0010467
+
+### Run 7	2022-05-03 21:13:24	### Run Time: 23.9131
+Total count: 1e+07
+Source position : (0,185,0)
+Source energy: 0.04652
+Detection efficiency: 0.00099225
+
+### Run 8	2022-05-03 21:13:48	### Run Time: 23.86
+Total count: 1e+07
+Source position : (0,190,0)
+Source energy: 0.04652
+Detection efficiency: 0.000953
+
+### Run 9	2022-05-03 21:14:12	### Run Time: 23.7389
+Total count: 1e+07
+Source position : (0,195,0)
+Source energy: 0.04652
+Detection efficiency: 0.00090795
+
+### Run 10	2022-05-03 21:14:36	### Run Time: 23.8967
+Total count: 1e+07
+Source position : (0,200,0)
+Source energy: 0.04652
+Detection efficiency: 0.00086255
+
+### Run 11	2022-05-03 21:15:00	### Run Time: 23.8668
+Total count: 1e+07
+Source position : (0,205,0)
+Source energy: 0.04652
+Detection efficiency: 0.00082825
+
+### Run 12	2022-05-03 21:15:23	### Run Time: 23.7257
+Total count: 1e+07
+Source position : (0,210,0)
+Source energy: 0.04652
+Detection efficiency: 0.000798
+
+### Run 13	2022-05-03 21:15:47	### Run Time: 23.8034
+Total count: 1e+07
+Source position : (0,215,0)
+Source energy: 0.04652
+Detection efficiency: 0.0007461
+
+### Run 14	2022-05-03 21:16:11	### Run Time: 24.0728
+Total count: 1e+07
+Source position : (0,220,0)
+Source energy: 0.04652
+Detection efficiency: 0.0007221
+
+### Run 15	2022-05-03 21:16:35	### Run Time: 23.6282
+Total count: 1e+07
+Source position : (0,225,0)
+Source energy: 0.04652
+Detection efficiency: 0.00069305
+
+### Run 16	2022-05-03 21:16:59	### Run Time: 23.8655
+Total count: 1e+07
+Source position : (0,230,0)
+Source energy: 0.04652
+Detection efficiency: 0.00065945
+
+### Run 17	2022-05-03 21:17:23	### Run Time: 23.7675
+Total count: 1e+07
+Source position : (0,235,0)
+Source energy: 0.04652
+Detection efficiency: 0.00063905
+
+### Run 18	2022-05-03 21:17:46	### Run Time: 23.655
+Total count: 1e+07
+Source position : (0,240,0)
+Source energy: 0.04652
+Detection efficiency: 0.00061265
+
+### Run 19	2022-05-03 21:18:10	### Run Time: 23.8923
+Total count: 1e+07
+Source position : (0,245,0)
+Source energy: 0.04652
+Detection efficiency: 0.0005882
+
+### Run 20	2022-05-03 21:18:34	### Run Time: 23.8712
+Total count: 1e+07
+Source position : (0,250,0)
+Source energy: 0.04652
+Detection efficiency: 0.00056965
+
+### Run 21	2022-05-03 21:18:58	### Run Time: 23.7611
+Total count: 1e+07
+Source position : (0,255,0)
+Source energy: 0.04652
+Detection efficiency: 0.00054455
+
+### Run 22	2022-05-03 21:19:22	### Run Time: 23.8062
+Total count: 1e+07
+Source position : (0,260,0)
+Source energy: 0.04652
+Detection efficiency: 0.0005279
+
+### Run 23	2022-05-03 21:19:45	### Run Time: 23.9623
+Total count: 1e+07
+Source position : (0,265,0)
+Source energy: 0.04652
+Detection efficiency: 0.0005036
+
+### Run 24	2022-05-03 21:20:09	### Run Time: 23.7961
+Total count: 1e+07
+Source position : (0,270,0)
+Source energy: 0.04652
+Detection efficiency: 0.00049445
+
+### Run 25	2022-05-03 21:20:33	### Run Time: 23.6385
+Total count: 1e+07
+Source position : (0,275,0)
+Source energy: 0.04652
+Detection efficiency: 0.00046785
+
+### Run 26	2022-05-03 21:20:57	### Run Time: 23.6484
+Total count: 1e+07
+Source position : (0,280,0)
+Source energy: 0.04652
+Detection efficiency: 0.00046305
+
+### Run 27	2022-05-03 21:21:20	### Run Time: 23.7766
+Total count: 1e+07
+Source position : (0,285,0)
+Source energy: 0.04652
+Detection efficiency: 0.00044275
+
+### Run 28	2022-05-03 21:21:44	### Run Time: 23.8826
+Total count: 1e+07
+Source position : (0,290,0)
+Source energy: 0.04652
+Detection efficiency: 0.0004264
+
+### Run 29	2022-05-03 21:22:08	### Run Time: 23.6492
+Total count: 1e+07
+Source position : (0,295,0)
+Source energy: 0.04652
+Detection efficiency: 0.00041665
+
+### Run 30	2022-05-03 21:22:32	### Run Time: 23.7335
+Total count: 1e+07
+Source position : (0,300,0)
+Source energy: 0.04652
+Detection efficiency: 0.00040225
+
+### Run 31	2022-05-03 21:22:55	### Run Time: 23.7501
+Total count: 1e+07
+Source position : (0,305,0)
+Source energy: 0.04652
+Detection efficiency: 0.0003816
+
+### Run 32	2022-05-03 21:23:19	### Run Time: 23.7051
+Total count: 1e+07
+Source position : (0,310,0)
+Source energy: 0.04652
+Detection efficiency: 0.0003766
+
+### Run 33	2022-05-03 21:23:43	### Run Time: 23.6773
+Total count: 1e+07
+Source position : (0,315,0)
+Source energy: 0.04652
+Detection efficiency: 0.0003641
+
+### Run 34	2022-05-03 21:24:07	### Run Time: 23.8141
+Total count: 1e+07
+Source position : (0,320,0)
+Source energy: 0.04652
+Detection efficiency: 0.0003557
+
+### Run 35	2022-05-03 21:24:30	### Run Time: 23.7206
+Total count: 1e+07
+Source position : (0,325,0)
+Source energy: 0.04652
+Detection efficiency: 0.0003421
+
+### Run 36	2022-05-03 21:24:54	### Run Time: 23.7164
+Total count: 1e+07
+Source position : (0,330,0)
+Source energy: 0.04652
+Detection efficiency: 0.00033835
+
+### Run 37	2022-05-03 21:25:18	### Run Time: 23.6046
+Total count: 1e+07
+Source position : (0,335,0)
+Source energy: 0.04652
+Detection efficiency: 0.00032835
+
+### Run 38	2022-05-03 21:25:41	### Run Time: 23.7464
+Total count: 1e+07
+Source position : (0,340,0)
+Source energy: 0.04652
+Detection efficiency: 0.00031755
+
+### Run 39	2022-05-03 21:26:05	### Run Time: 23.699
+Total count: 1e+07
+Source position : (0,345,0)
+Source energy: 0.04652
+Detection efficiency: 0.00029985
+
+### Run 40	2022-05-03 21:26:29	### Run Time: 23.6034
+Total count: 1e+07
+Source position : (0,350,0)
+Source energy: 0.04652
+Detection efficiency: 0.00029235
+
+### Run 41	2022-05-03 21:26:52	### Run Time: 23.6747
+Total count: 1e+07
+Source position : (0,355,0)
+Source energy: 0.04652
+Detection efficiency: 0.0002846
+
+### Run 42	2022-05-03 21:27:16	### Run Time: 23.5352
+Total count: 1e+07
+Source position : (0,360,0)
+Source energy: 0.04652
+Detection efficiency: 0.0002768
+
+### Run 43	2022-05-03 21:27:40	### Run Time: 24.2095
+Total count: 1e+07
+Source position : (0,365,0)
+Source energy: 0.04652
+Detection efficiency: 0.00026985
+
+### Run 44	2022-05-03 21:28:04	### Run Time: 23.5438
+Total count: 1e+07
+Source position : (0,370,0)
+Source energy: 0.04652
+Detection efficiency: 0.0002708
+
+### Run 45	2022-05-03 21:28:27	### Run Time: 23.4656
+Total count: 1e+07
+Source position : (0,375,0)
+Source energy: 0.04652
+Detection efficiency: 0.0002613
+
+### Run 46	2022-05-03 21:28:51	### Run Time: 23.9938
+Total count: 1e+07
+Source position : (0,380,0)
+Source energy: 0.04652
+Detection efficiency: 0.0002523
+
+### Run 47	2022-05-03 21:29:15	### Run Time: 23.5798
+Total count: 1e+07
+Source position : (0,385,0)
+Source energy: 0.04652
+Detection efficiency: 0.00024945
+
+### Run 48	2022-05-03 21:29:38	### Run Time: 23.6653
+Total count: 1e+07
+Source position : (0,390,0)
+Source energy: 0.04652
+Detection efficiency: 0.00024255
+
+### Run 49	2022-05-03 21:30:02	### Run Time: 23.7496
+Total count: 1e+07
+Source position : (0,395,0)
+Source energy: 0.04652
+Detection efficiency: 0.0002289
+
+### Run 50	2022-05-03 21:30:26	### Run Time: 23.6991
+Total count: 1e+07
+Source position : (0,400,0)
+Source energy: 0.04652
+Detection efficiency: 0.00022385
+
+### Run 51	2022-05-03 21:30:49	### Run Time: 23.5729
+Total count: 1e+07
+Source position : (0,405,0)
+Source energy: 0.04652
+Detection efficiency: 0.0002227
+
+### Run 52	2022-05-03 21:31:13	### Run Time: 23.7003
+Total count: 1e+07
+Source position : (0,410,0)
+Source energy: 0.04652
+Detection efficiency: 0.00021555
+
+### Run 53	2022-05-03 21:31:37	### Run Time: 23.7019
+Total count: 1e+07
+Source position : (0,415,0)
+Source energy: 0.04652
+Detection efficiency: 0.0002158
+
+### Run 54	2022-05-03 21:32:00	### Run Time: 23.6678
+Total count: 1e+07
+Source position : (0,420,0)
+Source energy: 0.04652
+Detection efficiency: 0.0002063
+
+### Run 55	2022-05-03 21:32:24	### Run Time: 23.5948
+Total count: 1e+07
+Source position : (0,425,0)
+Source energy: 0.04652
+Detection efficiency: 0.00020435
+
+### Run 56	2022-05-03 21:32:48	### Run Time: 23.6802
+Total count: 1e+07
+Source position : (0,430,0)
+Source energy: 0.04652
+Detection efficiency: 0.00020025
+
+### Run 57	2022-05-03 21:33:11	### Run Time: 23.6994
+Total count: 1e+07
+Source position : (0,435,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001911
+
+### Run 58	2022-05-03 21:33:35	### Run Time: 23.6702
+Total count: 1e+07
+Source position : (0,440,0)
+Source energy: 0.04652
+Detection efficiency: 0.00019625
+
+### Run 59	2022-05-03 21:33:59	### Run Time: 23.6596
+Total count: 1e+07
+Source position : (0,445,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001919
+
+### Run 60	2022-05-03 21:34:23	### Run Time: 24.1411
+Total count: 1e+07
+Source position : (0,450,0)
+Source energy: 0.04652
+Detection efficiency: 0.000176
+
+### Run 61	2022-05-03 21:34:47	### Run Time: 23.884
+Total count: 1e+07
+Source position : (0,455,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001779
+
+### Run 62	2022-05-03 21:35:10	### Run Time: 23.6916
+Total count: 1e+07
+Source position : (0,460,0)
+Source energy: 0.04652
+Detection efficiency: 0.00017195
+
+### Run 63	2022-05-03 21:35:34	### Run Time: 23.7203
+Total count: 1e+07
+Source position : (0,465,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001701
+
+### Run 64	2022-05-03 21:35:58	### Run Time: 23.7909
+Total count: 1e+07
+Source position : (0,470,0)
+Source energy: 0.04652
+Detection efficiency: 0.00016735
+
+### Run 65	2022-05-03 21:36:22	### Run Time: 23.6892
+Total count: 1e+07
+Source position : (0,475,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001662
+
+### Run 66	2022-05-03 21:36:45	### Run Time: 23.5573
+Total count: 1e+07
+Source position : (0,480,0)
+Source energy: 0.04652
+Detection efficiency: 0.00016075
+
+### Run 67	2022-05-03 21:37:09	### Run Time: 23.7652
+Total count: 1e+07
+Source position : (0,485,0)
+Source energy: 0.04652
+Detection efficiency: 0.00015435
+
+### Run 68	2022-05-03 21:37:33	### Run Time: 23.9559
+Total count: 1e+07
+Source position : (0,490,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001473
+
+### Run 69	2022-05-03 21:37:57	### Run Time: 23.7069
+Total count: 1e+07
+Source position : (0,495,0)
+Source energy: 0.04652
+Detection efficiency: 0.00015045
+
+### Run 70	2022-05-03 21:38:20	### Run Time: 23.6175
+Total count: 1e+07
+Source position : (0,500,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001508
+
+### Run 71	2022-05-03 21:38:44	### Run Time: 23.7476
+Total count: 1e+07
+Source position : (0,505,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001421
+
+### Run 72	2022-05-03 21:39:08	### Run Time: 23.7603
+Total count: 1e+07
+Source position : (0,510,0)
+Source energy: 0.04652
+Detection efficiency: 0.00014315
+
+### Run 73	2022-05-03 21:39:31	### Run Time: 23.6501
+Total count: 1e+07
+Source position : (0,515,0)
+Source energy: 0.04652
+Detection efficiency: 0.00013935
+
+### Run 74	2022-05-03 21:39:55	### Run Time: 23.7585
+Total count: 1e+07
+Source position : (0,520,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001358
+
+### Run 75	2022-05-03 21:40:19	### Run Time: 23.5329
+Total count: 1e+07
+Source position : (0,525,0)
+Source energy: 0.04652
+Detection efficiency: 0.00013585
+
+### Run 76	2022-05-03 21:40:43	### Run Time: 24.0687
+Total count: 1e+07
+Source position : (0,530,0)
+Source energy: 0.04652
+Detection efficiency: 0.00013545
+
+### Run 77	2022-05-03 21:41:06	### Run Time: 23.4885
+Total count: 1e+07
+Source position : (0,535,0)
+Source energy: 0.04652
+Detection efficiency: 0.00012815
+
+### Run 78	2022-05-03 21:41:30	### Run Time: 23.5307
+Total count: 1e+07
+Source position : (0,540,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001259
+
+### Run 79	2022-05-03 21:41:54	### Run Time: 23.9857
+Total count: 1e+07
+Source position : (0,545,0)
+Source energy: 0.04652
+Detection efficiency: 0.00012535
+
+### Run 80	2022-05-03 21:42:18	### Run Time: 23.7766
+Total count: 1e+07
+Source position : (0,550,0)
+Source energy: 0.04652
+Detection efficiency: 0.00012615
+
+### Run 81	2022-05-03 21:42:41	### Run Time: 23.6423
+Total count: 1e+07
+Source position : (0,555,0)
+Source energy: 0.04652
+Detection efficiency: 0.00012275
+
+### Run 82	2022-05-03 21:43:05	### Run Time: 23.7393
+Total count: 1e+07
+Source position : (0,560,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001148
+
+### Run 83	2022-05-03 21:43:29	### Run Time: 23.7462
+Total count: 1e+07
+Source position : (0,565,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001163
+
+### Run 84	2022-05-03 21:43:52	### Run Time: 23.6099
+Total count: 1e+07
+Source position : (0,570,0)
+Source energy: 0.04652
+Detection efficiency: 0.00011795
+
+### Run 85	2022-05-03 21:44:16	### Run Time: 23.6814
+Total count: 1e+07
+Source position : (0,575,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001132
+
+### Run 86	2022-05-03 21:44:40	### Run Time: 23.7901
+Total count: 1e+07
+Source position : (0,580,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001153
+
+### Run 87	2022-05-03 21:45:03	### Run Time: 23.6771
+Total count: 1e+07
+Source position : (0,585,0)
+Source energy: 0.04652
+Detection efficiency: 0.00011255
+
+### Run 88	2022-05-03 21:45:27	### Run Time: 23.5802
+Total count: 1e+07
+Source position : (0,590,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001051
+
+### Run 89	2022-05-03 21:45:51	### Run Time: 23.7193
+Total count: 1e+07
+Source position : (0,595,0)
+Source energy: 0.04652
+Detection efficiency: 0.00010385
+
+### Run 90	2022-05-03 21:46:14	### Run Time: 23.7389
+Total count: 1e+07
+Source position : (0,600,0)
+Source energy: 0.04652
+Detection efficiency: 0.00010545
+
+### Run 91	2022-05-03 21:46:38	### Run Time: 23.678
+Total count: 1e+07
+Source position : (0,605,0)
+Source energy: 0.04652
+Detection efficiency: 9.645e-05
+
+### Run 92	2022-05-03 21:47:02	### Run Time: 23.543
+Total count: 1e+07
+Source position : (0,610,0)
+Source energy: 0.04652
+Detection efficiency: 0.0001007
+
+### Run 93	2022-05-03 21:47:25	### Run Time: 23.7167
+Total count: 1e+07
+Source position : (0,615,0)
+Source energy: 0.04652
+Detection efficiency: 0.00010065
+
+### Run 94	2022-05-03 21:47:49	### Run Time: 23.764
+Total count: 1e+07
+Source position : (0,620,0)
+Source energy: 0.04652
+Detection efficiency: 9.79e-05
+
+### Run 95	2022-05-03 21:48:13	### Run Time: 23.6164
+Total count: 1e+07
+Source position : (0,625,0)
+Source energy: 0.04652
+Detection efficiency: 9.49e-05
+
+### Run 96	2022-05-03 21:48:37	### Run Time: 23.7487
+Total count: 1e+07
+Source position : (0,630,0)
+Source energy: 0.04652
+Detection efficiency: 9.475e-05
+
+### Run 97	2022-05-03 21:49:00	### Run Time: 23.7629
+Total count: 1e+07
+Source position : (0,635,0)
+Source energy: 0.04652
+Detection efficiency: 9.22e-05
+
+### Run 98	2022-05-03 21:49:24	### Run Time: 23.7829
+Total count: 1e+07
+Source position : (0,640,0)
+Source energy: 0.04652
+Detection efficiency: 9.04e-05
+
+### Run 99	2022-05-03 21:49:48	### Run Time: 23.5797
+Total count: 1e+07
+Source position : (0,645,0)
+Source energy: 0.04652
+Detection efficiency: 9.11e-05
+
+### Run 100	2022-05-03 21:50:12	### Run Time: 23.9063
+Total count: 1e+07
+Source position : (0,150,0)
+Source energy: 0.05954
+Detection efficiency: 0.003331
+
+### Run 101	2022-05-03 21:50:35	### Run Time: 23.8776
+Total count: 1e+07
+Source position : (0,155,0)
+Source energy: 0.05954
+Detection efficiency: 0.003129
+
+### Run 102	2022-05-03 21:50:59	### Run Time: 23.8347
+Total count: 1e+07
+Source position : (0,160,0)
+Source energy: 0.05954
+Detection efficiency: 0.0029606
+
+### Run 103	2022-05-03 21:51:23	### Run Time: 23.7484
+Total count: 1e+07
+Source position : (0,165,0)
+Source energy: 0.05954
+Detection efficiency: 0.00279865
+
+### Run 104	2022-05-03 21:51:47	### Run Time: 23.9012
+Total count: 1e+07
+Source position : (0,170,0)
+Source energy: 0.05954
+Detection efficiency: 0.00265895
+
+### Run 105	2022-05-03 21:52:11	### Run Time: 23.8502
+Total count: 1e+07
+Source position : (0,175,0)
+Source energy: 0.05954
+Detection efficiency: 0.0025092
+
+### Run 106	2022-05-03 21:52:35	### Run Time: 23.7898
+Total count: 1e+07
+Source position : (0,180,0)
+Source energy: 0.05954
+Detection efficiency: 0.00237205
+
+### Run 107	2022-05-03 21:52:58	### Run Time: 23.7104
+Total count: 1e+07
+Source position : (0,185,0)
+Source energy: 0.05954
+Detection efficiency: 0.0022614
+
+### Run 108	2022-05-03 21:53:22	### Run Time: 24.0422
+Total count: 1e+07
+Source position : (0,190,0)
+Source energy: 0.05954
+Detection efficiency: 0.00216055
+
+### Run 109	2022-05-03 21:53:46	### Run Time: 23.8036
+Total count: 1e+07
+Source position : (0,195,0)
+Source energy: 0.05954
+Detection efficiency: 0.00203505
+
+### Run 110	2022-05-03 21:54:10	### Run Time: 23.7337
+Total count: 1e+07
+Source position : (0,200,0)
+Source energy: 0.05954
+Detection efficiency: 0.001951
+
+### Run 111	2022-05-03 21:54:34	### Run Time: 23.8268
+Total count: 1e+07
+Source position : (0,205,0)
+Source energy: 0.05954
+Detection efficiency: 0.00186995
+
+### Run 112	2022-05-03 21:54:57	### Run Time: 23.6032
+Total count: 1e+07
+Source position : (0,210,0)
+Source energy: 0.05954
+Detection efficiency: 0.0017753
+
+### Run 113	2022-05-03 21:55:22	### Run Time: 24.2037
+Total count: 1e+07
+Source position : (0,215,0)
+Source energy: 0.05954
+Detection efficiency: 0.00169675
+
+### Run 114	2022-05-03 21:55:46	### Run Time: 24.7854
+Total count: 1e+07
+Source position : (0,220,0)
+Source energy: 0.05954
+Detection efficiency: 0.00161825
+
+### Run 115	2022-05-03 21:56:10	### Run Time: 24.0748
+Total count: 1e+07
+Source position : (0,225,0)
+Source energy: 0.05954
+Detection efficiency: 0.001572
+
+### Run 116	2022-05-03 21:56:34	### Run Time: 24.0232
+Total count: 1e+07
+Source position : (0,230,0)
+Source energy: 0.05954
+Detection efficiency: 0.00148995
+
+### Run 117	2022-05-03 21:56:58	### Run Time: 23.7636
+Total count: 1e+07
+Source position : (0,235,0)
+Source energy: 0.05954
+Detection efficiency: 0.0014339
+
+### Run 118	2022-05-03 21:57:22	### Run Time: 23.6746
+Total count: 1e+07
+Source position : (0,240,0)
+Source energy: 0.05954
+Detection efficiency: 0.0013863
+
+### Run 119	2022-05-03 21:57:46	### Run Time: 23.8029
+Total count: 1e+07
+Source position : (0,245,0)
+Source energy: 0.05954
+Detection efficiency: 0.0013226
+
+### Run 120	2022-05-03 21:58:09	### Run Time: 23.8027
+Total count: 1e+07
+Source position : (0,250,0)
+Source energy: 0.05954
+Detection efficiency: 0.00128965
+
+### Run 121	2022-05-03 21:58:33	### Run Time: 23.7439
+Total count: 1e+07
+Source position : (0,255,0)
+Source energy: 0.05954
+Detection efficiency: 0.0012427
+
+### Run 122	2022-05-03 21:58:57	### Run Time: 23.6798
+Total count: 1e+07
+Source position : (0,260,0)
+Source energy: 0.05954
+Detection efficiency: 0.00119985
+
+### Run 123	2022-05-03 21:59:21	### Run Time: 23.8061
+Total count: 1e+07
+Source position : (0,265,0)
+Source energy: 0.05954
+Detection efficiency: 0.00114995
+
+### Run 124	2022-05-03 21:59:44	### Run Time: 23.7877
+Total count: 1e+07
+Source position : (0,270,0)
+Source energy: 0.05954
+Detection efficiency: 0.0011089
+
+### Run 125	2022-05-03 22:00:08	### Run Time: 23.7429
+Total count: 1e+07
+Source position : (0,275,0)
+Source energy: 0.05954
+Detection efficiency: 0.00106475
+
+### Run 126	2022-05-03 22:00:32	### Run Time: 23.8762
+Total count: 1e+07
+Source position : (0,280,0)
+Source energy: 0.05954
+Detection efficiency: 0.00102745
+
+### Run 127	2022-05-03 22:00:56	### Run Time: 23.8772
+Total count: 1e+07
+Source position : (0,285,0)
+Source energy: 0.05954
+Detection efficiency: 0.0009994
+
+### Run 128	2022-05-03 22:01:20	### Run Time: 23.769
+Total count: 1e+07
+Source position : (0,290,0)
+Source energy: 0.05954
+Detection efficiency: 0.0009602
+
+### Run 129	2022-05-03 22:01:43	### Run Time: 23.6145
+Total count: 1e+07
+Source position : (0,295,0)
+Source energy: 0.05954
+Detection efficiency: 0.0009193
+
+### Run 130	2022-05-03 22:02:07	### Run Time: 23.7844
+Total count: 1e+07
+Source position : (0,300,0)
+Source energy: 0.05954
+Detection efficiency: 0.0008982
+
+### Run 131	2022-05-03 22:02:31	### Run Time: 23.7403
+Total count: 1e+07
+Source position : (0,305,0)
+Source energy: 0.05954
+Detection efficiency: 0.00087575
+
+### Run 132	2022-05-03 22:02:55	### Run Time: 23.7133
+Total count: 1e+07
+Source position : (0,310,0)
+Source energy: 0.05954
+Detection efficiency: 0.0008536
+
+### Run 133	2022-05-03 22:03:18	### Run Time: 23.6185
+Total count: 1e+07
+Source position : (0,315,0)
+Source energy: 0.05954
+Detection efficiency: 0.0008168
+
+### Run 134	2022-05-03 22:03:42	### Run Time: 23.7496
+Total count: 1e+07
+Source position : (0,320,0)
+Source energy: 0.05954
+Detection efficiency: 0.0008028
+
+### Run 135	2022-05-03 22:04:06	### Run Time: 23.7582
+Total count: 1e+07
+Source position : (0,325,0)
+Source energy: 0.05954
+Detection efficiency: 0.0007667
+
+### Run 136	2022-05-03 22:04:29	### Run Time: 23.6457
+Total count: 1e+07
+Source position : (0,330,0)
+Source energy: 0.05954
+Detection efficiency: 0.0007594
+
+### Run 137	2022-05-03 22:04:53	### Run Time: 23.6479
+Total count: 1e+07
+Source position : (0,335,0)
+Source energy: 0.05954
+Detection efficiency: 0.00072355
+
+### Run 138	2022-05-03 22:05:17	### Run Time: 23.7625
+Total count: 1e+07
+Source position : (0,340,0)
+Source energy: 0.05954
+Detection efficiency: 0.0007158
+
+### Run 139	2022-05-03 22:05:41	### Run Time: 23.7406
+Total count: 1e+07
+Source position : (0,345,0)
+Source energy: 0.05954
+Detection efficiency: 0.00068685
+
+### Run 140	2022-05-03 22:06:04	### Run Time: 23.5649
+Total count: 1e+07
+Source position : (0,350,0)
+Source energy: 0.05954
+Detection efficiency: 0.0006788
+
+### Run 141	2022-05-03 22:06:28	### Run Time: 23.5127
+Total count: 1e+07
+Source position : (0,355,0)
+Source energy: 0.05954
+Detection efficiency: 0.0006549
+
+### Run 142	2022-05-03 22:06:52	### Run Time: 24.0538
+Total count: 1e+07
+Source position : (0,360,0)
+Source energy: 0.05954
+Detection efficiency: 0.00062835
+
+### Run 143	2022-05-03 22:07:15	### Run Time: 23.5033
+Total count: 1e+07
+Source position : (0,365,0)
+Source energy: 0.05954
+Detection efficiency: 0.00062475
+
+### Run 144	2022-05-03 22:07:39	### Run Time: 23.5114
+Total count: 1e+07
+Source position : (0,370,0)
+Source energy: 0.05954
+Detection efficiency: 0.000598
+
+### Run 145	2022-05-03 22:08:03	### Run Time: 24.0101
+Total count: 1e+07
+Source position : (0,375,0)
+Source energy: 0.05954
+Detection efficiency: 0.0005857
+
+### Run 146	2022-05-03 22:08:27	### Run Time: 23.9126
+Total count: 1e+07
+Source position : (0,380,0)
+Source energy: 0.05954
+Detection efficiency: 0.00056545
+
+### Run 147	2022-05-03 22:08:50	### Run Time: 23.6556
+Total count: 1e+07
+Source position : (0,385,0)
+Source energy: 0.05954
+Detection efficiency: 0.00055535
+
+### Run 148	2022-05-03 22:09:14	### Run Time: 23.6384
+Total count: 1e+07
+Source position : (0,390,0)
+Source energy: 0.05954
+Detection efficiency: 0.00054255
+
+### Run 149	2022-05-03 22:09:38	### Run Time: 23.7184
+Total count: 1e+07
+Source position : (0,395,0)
+Source energy: 0.05954
+Detection efficiency: 0.00053455
+
+### Run 150	2022-05-03 22:10:01	### Run Time: 23.6992
+Total count: 1e+07
+Source position : (0,400,0)
+Source energy: 0.05954
+Detection efficiency: 0.0005209
+
+### Run 151	2022-05-03 22:10:25	### Run Time: 23.5854
+Total count: 1e+07
+Source position : (0,405,0)
+Source energy: 0.05954
+Detection efficiency: 0.00049975
+
+### Run 152	2022-05-03 22:10:49	### Run Time: 23.6969
+Total count: 1e+07
+Source position : (0,410,0)
+Source energy: 0.05954
+Detection efficiency: 0.00050015
+
+### Run 153	2022-05-03 22:11:12	### Run Time: 23.7272
+Total count: 1e+07
+Source position : (0,415,0)
+Source energy: 0.05954
+Detection efficiency: 0.0004713
+
+### Run 154	2022-05-03 22:11:36	### Run Time: 23.6799
+Total count: 1e+07
+Source position : (0,420,0)
+Source energy: 0.05954
+Detection efficiency: 0.00046795
+
+### Run 155	2022-05-03 22:12:00	### Run Time: 23.5849
+Total count: 1e+07
+Source position : (0,425,0)
+Source energy: 0.05954
+Detection efficiency: 0.00046655
+
+### Run 156	2022-05-03 22:12:23	### Run Time: 23.714
+Total count: 1e+07
+Source position : (0,430,0)
+Source energy: 0.05954
+Detection efficiency: 0.00044945
+
+### Run 157	2022-05-03 22:12:47	### Run Time: 23.8593
+Total count: 1e+07
+Source position : (0,435,0)
+Source energy: 0.05954
+Detection efficiency: 0.0004386
+
+### Run 158	2022-05-03 22:13:11	### Run Time: 23.6425
+Total count: 1e+07
+Source position : (0,440,0)
+Source energy: 0.05954
+Detection efficiency: 0.00043265
+
+### Run 159	2022-05-03 22:13:34	### Run Time: 23.6233
+Total count: 1e+07
+Source position : (0,445,0)
+Source energy: 0.05954
+Detection efficiency: 0.00042545
+
+### Run 160	2022-05-03 22:13:58	### Run Time: 23.7457
+Total count: 1e+07
+Source position : (0,450,0)
+Source energy: 0.05954
+Detection efficiency: 0.0004168
+
+### Run 161	2022-05-03 22:14:22	### Run Time: 23.7057
+Total count: 1e+07
+Source position : (0,455,0)
+Source energy: 0.05954
+Detection efficiency: 0.00040525
+
+### Run 162	2022-05-03 22:14:45	### Run Time: 23.6172
+Total count: 1e+07
+Source position : (0,460,0)
+Source energy: 0.05954
+Detection efficiency: 0.00039255
+
+### Run 163	2022-05-03 22:15:09	### Run Time: 23.6593
+Total count: 1e+07
+Source position : (0,465,0)
+Source energy: 0.05954
+Detection efficiency: 0.00037955
+
+### Run 164	2022-05-03 22:15:33	### Run Time: 23.7442
+Total count: 1e+07
+Source position : (0,470,0)
+Source energy: 0.05954
+Detection efficiency: 0.00037795
+
+### Run 165	2022-05-03 22:15:57	### Run Time: 23.6649
+Total count: 1e+07
+Source position : (0,475,0)
+Source energy: 0.05954
+Detection efficiency: 0.0003829
+
+### Run 166	2022-05-03 22:16:20	### Run Time: 23.5248
+Total count: 1e+07
+Source position : (0,480,0)
+Source energy: 0.05954
+Detection efficiency: 0.0003685
+
+### Run 167	2022-05-03 22:16:44	### Run Time: 23.7471
+Total count: 1e+07
+Source position : (0,485,0)
+Source energy: 0.05954
+Detection efficiency: 0.0003509
+
+### Run 168	2022-05-03 22:17:08	### Run Time: 23.7499
+Total count: 1e+07
+Source position : (0,490,0)
+Source energy: 0.05954
+Detection efficiency: 0.0003502
+
+### Run 169	2022-05-03 22:17:31	### Run Time: 23.6279
+Total count: 1e+07
+Source position : (0,495,0)
+Source energy: 0.05954
+Detection efficiency: 0.00033815
+
+### Run 170	2022-05-03 22:17:55	### Run Time: 23.5811
+Total count: 1e+07
+Source position : (0,500,0)
+Source energy: 0.05954
+Detection efficiency: 0.0003374
+
+### Run 171	2022-05-03 22:18:18	### Run Time: 23.4765
+Total count: 1e+07
+Source position : (0,505,0)
+Source energy: 0.05954
+Detection efficiency: 0.00032435
+
+### Run 172	2022-05-03 22:18:42	### Run Time: 24.0546
+Total count: 1e+07
+Source position : (0,510,0)
+Source energy: 0.05954
+Detection efficiency: 0.00032565
+
+### Run 173	2022-05-03 22:19:06	### Run Time: 23.497
+Total count: 1e+07
+Source position : (0,515,0)
+Source energy: 0.05954
+Detection efficiency: 0.0003161
+
+### Run 174	2022-05-03 22:19:30	### Run Time: 23.8331
+Total count: 1e+07
+Source position : (0,520,0)
+Source energy: 0.05954
+Detection efficiency: 0.00030925
+
+### Run 175	2022-05-03 22:19:53	### Run Time: 23.6189
+Total count: 1e+07
+Source position : (0,525,0)
+Source energy: 0.05954
+Detection efficiency: 0.0003078
+
+### Run 176	2022-05-03 22:20:17	### Run Time: 23.6402
+Total count: 1e+07
+Source position : (0,530,0)
+Source energy: 0.05954
+Detection efficiency: 0.00029475
+
+### Run 177	2022-05-03 22:20:41	### Run Time: 23.7397
+Total count: 1e+07
+Source position : (0,535,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002855
+
+### Run 178	2022-05-03 22:21:04	### Run Time: 23.4958
+Total count: 1e+07
+Source position : (0,540,0)
+Source energy: 0.05954
+Detection efficiency: 0.00028735
+
+### Run 179	2022-05-03 22:21:28	### Run Time: 23.4848
+Total count: 1e+07
+Source position : (0,545,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002784
+
+### Run 180	2022-05-03 22:21:52	### Run Time: 24.0336
+Total count: 1e+07
+Source position : (0,550,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002755
+
+### Run 181	2022-05-03 22:22:15	### Run Time: 23.7094
+Total count: 1e+07
+Source position : (0,555,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002721
+
+### Run 182	2022-05-03 22:22:39	### Run Time: 23.6068
+Total count: 1e+07
+Source position : (0,560,0)
+Source energy: 0.05954
+Detection efficiency: 0.000263
+
+### Run 183	2022-05-03 22:23:03	### Run Time: 23.625
+Total count: 1e+07
+Source position : (0,565,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002666
+
+### Run 184	2022-05-03 22:23:26	### Run Time: 23.4405
+Total count: 1e+07
+Source position : (0,570,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002581
+
+### Run 185	2022-05-03 22:23:50	### Run Time: 24.0241
+Total count: 1e+07
+Source position : (0,575,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002476
+
+### Run 186	2022-05-03 22:24:14	### Run Time: 23.654
+Total count: 1e+07
+Source position : (0,580,0)
+Source energy: 0.05954
+Detection efficiency: 0.00024925
+
+### Run 187	2022-05-03 22:24:37	### Run Time: 23.6695
+Total count: 1e+07
+Source position : (0,585,0)
+Source energy: 0.05954
+Detection efficiency: 0.00024915
+
+### Run 188	2022-05-03 22:25:01	### Run Time: 23.7254
+Total count: 1e+07
+Source position : (0,590,0)
+Source energy: 0.05954
+Detection efficiency: 0.00024495
+
+### Run 189	2022-05-03 22:25:25	### Run Time: 23.6746
+Total count: 1e+07
+Source position : (0,595,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002378
+
+### Run 190	2022-05-03 22:25:48	### Run Time: 23.5947
+Total count: 1e+07
+Source position : (0,600,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002361
+
+### Run 191	2022-05-03 22:26:12	### Run Time: 23.7349
+Total count: 1e+07
+Source position : (0,605,0)
+Source energy: 0.05954
+Detection efficiency: 0.00022845
+
+### Run 192	2022-05-03 22:26:36	### Run Time: 23.7131
+Total count: 1e+07
+Source position : (0,610,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002308
+
+### Run 193	2022-05-03 22:26:59	### Run Time: 23.6055
+Total count: 1e+07
+Source position : (0,615,0)
+Source energy: 0.05954
+Detection efficiency: 0.00022375
+
+### Run 194	2022-05-03 22:27:23	### Run Time: 23.6145
+Total count: 1e+07
+Source position : (0,620,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002145
+
+### Run 195	2022-05-03 22:27:47	### Run Time: 23.7316
+Total count: 1e+07
+Source position : (0,625,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002197
+
+### Run 196	2022-05-03 22:28:10	### Run Time: 23.6647
+Total count: 1e+07
+Source position : (0,630,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002104
+
+### Run 197	2022-05-03 22:28:34	### Run Time: 23.6979
+Total count: 1e+07
+Source position : (0,635,0)
+Source energy: 0.05954
+Detection efficiency: 0.00020945
+
+### Run 198	2022-05-03 22:28:58	### Run Time: 23.6851
+Total count: 1e+07
+Source position : (0,640,0)
+Source energy: 0.05954
+Detection efficiency: 0.0002029
+
+### Run 199	2022-05-03 22:29:22	### Run Time: 23.7071
+Total count: 1e+07
+Source position : (0,645,0)
+Source energy: 0.05954
+Detection efficiency: 0.00019945
+
+### Run 200	2022-05-03 22:29:45	### Run Time: 23.8927
+Total count: 1e+07
+Source position : (0,150,0)
+Source energy: 0.08803
+Detection efficiency: 0.00561525
+
+### Run 201	2022-05-03 22:30:09	### Run Time: 23.7686
+Total count: 1e+07
+Source position : (0,155,0)
+Source energy: 0.08803
+Detection efficiency: 0.00531545
+
+### Run 202	2022-05-03 22:30:33	### Run Time: 23.936
+Total count: 1e+07
+Source position : (0,160,0)
+Source energy: 0.08803
+Detection efficiency: 0.00497105
+
+### Run 203	2022-05-03 22:30:57	### Run Time: 23.7246
+Total count: 1e+07
+Source position : (0,165,0)
+Source energy: 0.08803
+Detection efficiency: 0.00472535
+
+### Run 204	2022-05-03 22:31:21	### Run Time: 24.182
+Total count: 1e+07
+Source position : (0,170,0)
+Source energy: 0.08803
+Detection efficiency: 0.0044548
+
+### Run 205	2022-05-03 22:31:45	### Run Time: 23.6614
+Total count: 1e+07
+Source position : (0,175,0)
+Source energy: 0.08803
+Detection efficiency: 0.00421165
+
+### Run 206	2022-05-03 22:32:09	### Run Time: 23.851
+Total count: 1e+07
+Source position : (0,180,0)
+Source energy: 0.08803
+Detection efficiency: 0.00402505
+
+### Run 207	2022-05-03 22:32:32	### Run Time: 23.7919
+Total count: 1e+07
+Source position : (0,185,0)
+Source energy: 0.08803
+Detection efficiency: 0.00383995
+
+### Run 208	2022-05-03 22:32:56	### Run Time: 23.7467
+Total count: 1e+07
+Source position : (0,190,0)
+Source energy: 0.08803
+Detection efficiency: 0.0036331
+
+### Run 209	2022-05-03 22:33:20	### Run Time: 23.7783
+Total count: 1e+07
+Source position : (0,195,0)
+Source energy: 0.08803
+Detection efficiency: 0.0034944
+
+### Run 210	2022-05-03 22:33:44	### Run Time: 23.8488
+Total count: 1e+07
+Source position : (0,200,0)
+Source energy: 0.08803
+Detection efficiency: 0.0032956
+
+### Run 211	2022-05-03 22:34:08	### Run Time: 23.815
+Total count: 1e+07
+Source position : (0,205,0)
+Source energy: 0.08803
+Detection efficiency: 0.0031446
+
+### Run 212	2022-05-03 22:34:31	### Run Time: 23.6502
+Total count: 1e+07
+Source position : (0,210,0)
+Source energy: 0.08803
+Detection efficiency: 0.0030148
+
+### Run 213	2022-05-03 22:34:55	### Run Time: 23.876
+Total count: 1e+07
+Source position : (0,215,0)
+Source energy: 0.08803
+Detection efficiency: 0.0028898
+
+### Run 214	2022-05-03 22:35:19	### Run Time: 23.9532
+Total count: 1e+07
+Source position : (0,220,0)
+Source energy: 0.08803
+Detection efficiency: 0.0027702
+
+### Run 215	2022-05-03 22:35:43	### Run Time: 23.7094
+Total count: 1e+07
+Source position : (0,225,0)
+Source energy: 0.08803
+Detection efficiency: 0.0026426
+
+### Run 216	2022-05-03 22:36:06	### Run Time: 23.6279
+Total count: 1e+07
+Source position : (0,230,0)
+Source energy: 0.08803
+Detection efficiency: 0.0025495
+
+### Run 217	2022-05-03 22:36:30	### Run Time: 23.8876
+Total count: 1e+07
+Source position : (0,235,0)
+Source energy: 0.08803
+Detection efficiency: 0.0024318
+
+### Run 218	2022-05-03 22:36:54	### Run Time: 23.7878
+Total count: 1e+07
+Source position : (0,240,0)
+Source energy: 0.08803
+Detection efficiency: 0.00234635
+
+### Run 219	2022-05-03 22:37:18	### Run Time: 23.757
+Total count: 1e+07
+Source position : (0,245,0)
+Source energy: 0.08803
+Detection efficiency: 0.00225545
+
+### Run 220	2022-05-03 22:37:41	### Run Time: 23.6956
+Total count: 1e+07
+Source position : (0,250,0)
+Source energy: 0.08803
+Detection efficiency: 0.0021645
+
+### Run 221	2022-05-03 22:38:05	### Run Time: 23.7946
+Total count: 1e+07
+Source position : (0,255,0)
+Source energy: 0.08803
+Detection efficiency: 0.00208365
+
+### Run 222	2022-05-03 22:38:29	### Run Time: 23.7569
+Total count: 1e+07
+Source position : (0,260,0)
+Source energy: 0.08803
+Detection efficiency: 0.001992
+
+### Run 223	2022-05-03 22:38:53	### Run Time: 23.623
+Total count: 1e+07
+Source position : (0,265,0)
+Source energy: 0.08803
+Detection efficiency: 0.001926
+
+### Run 224	2022-05-03 22:39:16	### Run Time: 23.7721
+Total count: 1e+07
+Source position : (0,270,0)
+Source energy: 0.08803
+Detection efficiency: 0.00185445
+
+### Run 225	2022-05-03 22:39:40	### Run Time: 23.9994
+Total count: 1e+07
+Source position : (0,275,0)
+Source energy: 0.08803
+Detection efficiency: 0.0018091
+
+### Run 226	2022-05-03 22:40:04	### Run Time: 23.771
+Total count: 1e+07
+Source position : (0,280,0)
+Source energy: 0.08803
+Detection efficiency: 0.00173215
+
+### Run 227	2022-05-03 22:40:28	### Run Time: 23.6097
+Total count: 1e+07
+Source position : (0,285,0)
+Source energy: 0.08803
+Detection efficiency: 0.0016709
+
+### Run 228	2022-05-03 22:40:52	### Run Time: 23.8258
+Total count: 1e+07
+Source position : (0,290,0)
+Source energy: 0.08803
+Detection efficiency: 0.00162825
+
+### Run 229	2022-05-03 22:41:15	### Run Time: 23.7806
+Total count: 1e+07
+Source position : (0,295,0)
+Source energy: 0.08803
+Detection efficiency: 0.0015852
+
+### Run 230	2022-05-03 22:41:39	### Run Time: 23.7096
+Total count: 1e+07
+Source position : (0,300,0)
+Source energy: 0.08803
+Detection efficiency: 0.001529
+
+### Run 231	2022-05-03 22:42:03	### Run Time: 23.6042
+Total count: 1e+07
+Source position : (0,305,0)
+Source energy: 0.08803
+Detection efficiency: 0.00147495
+
+### Run 232	2022-05-03 22:42:27	### Run Time: 23.7771
+Total count: 1e+07
+Source position : (0,310,0)
+Source energy: 0.08803
+Detection efficiency: 0.00144435
+
+### Run 233	2022-05-03 22:42:50	### Run Time: 23.7906
+Total count: 1e+07
+Source position : (0,315,0)
+Source energy: 0.08803
+Detection efficiency: 0.00139905
+
+### Run 234	2022-05-03 22:43:15	### Run Time: 24.7432
+Total count: 1e+07
+Source position : (0,320,0)
+Source energy: 0.08803
+Detection efficiency: 0.00134815
+
+### Run 235	2022-05-03 22:43:39	### Run Time: 23.698
+Total count: 1e+07
+Source position : (0,325,0)
+Source energy: 0.08803
+Detection efficiency: 0.0013161
+
+### Run 236	2022-05-03 22:44:02	### Run Time: 23.716
+Total count: 1e+07
+Source position : (0,330,0)
+Source energy: 0.08803
+Detection efficiency: 0.0012928
+
+### Run 237	2022-05-03 22:44:27	### Run Time: 24.081
+Total count: 1e+07
+Source position : (0,335,0)
+Source energy: 0.08803
+Detection efficiency: 0.0012332
+
+### Run 238	2022-05-03 22:44:50	### Run Time: 23.5556
+Total count: 1e+07
+Source position : (0,340,0)
+Source energy: 0.08803
+Detection efficiency: 0.0011974
+
+### Run 239	2022-05-03 22:45:14	### Run Time: 23.5792
+Total count: 1e+07
+Source position : (0,345,0)
+Source energy: 0.08803
+Detection efficiency: 0.0011503
+
+### Run 240	2022-05-03 22:45:38	### Run Time: 24.064
+Total count: 1e+07
+Source position : (0,350,0)
+Source energy: 0.08803
+Detection efficiency: 0.0011372
+
+### Run 241	2022-05-03 22:46:01	### Run Time: 23.5357
+Total count: 1e+07
+Source position : (0,355,0)
+Source energy: 0.08803
+Detection efficiency: 0.00111
+
+### Run 242	2022-05-03 22:46:25	### Run Time: 23.7723
+Total count: 1e+07
+Source position : (0,360,0)
+Source energy: 0.08803
+Detection efficiency: 0.0010706
+
+### Run 243	2022-05-03 22:46:49	### Run Time: 23.722
+Total count: 1e+07
+Source position : (0,365,0)
+Source energy: 0.08803
+Detection efficiency: 0.0010457
+
+### Run 244	2022-05-03 22:47:12	### Run Time: 23.6096
+Total count: 1e+07
+Source position : (0,370,0)
+Source energy: 0.08803
+Detection efficiency: 0.0010192
+
+### Run 245	2022-05-03 22:47:36	### Run Time: 23.946
+Total count: 1e+07
+Source position : (0,375,0)
+Source energy: 0.08803
+Detection efficiency: 0.0009903
+
+### Run 246	2022-05-03 22:48:00	### Run Time: 23.5467
+Total count: 1e+07
+Source position : (0,380,0)
+Source energy: 0.08803
+Detection efficiency: 0.0009678
+
+### Run 247	2022-05-03 22:48:24	### Run Time: 23.8371
+Total count: 1e+07
+Source position : (0,385,0)
+Source energy: 0.08803
+Detection efficiency: 0.00094885
+
+### Run 248	2022-05-03 22:48:47	### Run Time: 23.7509
+Total count: 1e+07
+Source position : (0,390,0)
+Source energy: 0.08803
+Detection efficiency: 0.00091665
+
+### Run 249	2022-05-03 22:49:11	### Run Time: 23.7084
+Total count: 1e+07
+Source position : (0,395,0)
+Source energy: 0.08803
+Detection efficiency: 0.00089435
+
+### Run 250	2022-05-03 22:49:35	### Run Time: 23.7051
+Total count: 1e+07
+Source position : (0,400,0)
+Source energy: 0.08803
+Detection efficiency: 0.00087605
+
+### Run 251	2022-05-03 22:49:59	### Run Time: 23.7549
+Total count: 1e+07
+Source position : (0,405,0)
+Source energy: 0.08803
+Detection efficiency: 0.00086545
+
+### Run 252	2022-05-03 22:50:22	### Run Time: 23.7367
+Total count: 1e+07
+Source position : (0,410,0)
+Source energy: 0.08803
+Detection efficiency: 0.0008332
+
+### Run 253	2022-05-03 22:50:46	### Run Time: 23.7327
+Total count: 1e+07
+Source position : (0,415,0)
+Source energy: 0.08803
+Detection efficiency: 0.0008203
+
+### Run 254	2022-05-03 22:51:10	### Run Time: 23.708
+Total count: 1e+07
+Source position : (0,420,0)
+Source energy: 0.08803
+Detection efficiency: 0.0007921
+
+### Run 255	2022-05-03 22:51:34	### Run Time: 23.7236
+Total count: 1e+07
+Source position : (0,425,0)
+Source energy: 0.08803
+Detection efficiency: 0.00079005
+
+### Run 256	2022-05-03 22:51:57	### Run Time: 23.7121
+Total count: 1e+07
+Source position : (0,430,0)
+Source energy: 0.08803
+Detection efficiency: 0.00075945
+
+### Run 257	2022-05-03 22:52:21	### Run Time: 23.5847
+Total count: 1e+07
+Source position : (0,435,0)
+Source energy: 0.08803
+Detection efficiency: 0.0007496
+
+### Run 258	2022-05-03 22:52:45	### Run Time: 23.7505
+Total count: 1e+07
+Source position : (0,440,0)
+Source energy: 0.08803
+Detection efficiency: 0.0007211
+
+### Run 259	2022-05-03 22:53:08	### Run Time: 23.7476
+Total count: 1e+07
+Source position : (0,445,0)
+Source energy: 0.08803
+Detection efficiency: 0.00072205
+
+### Run 260	2022-05-03 22:53:32	### Run Time: 23.6619
+Total count: 1e+07
+Source position : (0,450,0)
+Source energy: 0.08803
+Detection efficiency: 0.0006949
+
+### Run 261	2022-05-03 22:53:56	### Run Time: 23.6716
+Total count: 1e+07
+Source position : (0,455,0)
+Source energy: 0.08803
+Detection efficiency: 0.0006841
+
+### Run 262	2022-05-03 22:54:19	### Run Time: 23.7742
+Total count: 1e+07
+Source position : (0,460,0)
+Source energy: 0.08803
+Detection efficiency: 0.0006626
+
+### Run 263	2022-05-03 22:54:43	### Run Time: 23.7689
+Total count: 1e+07
+Source position : (0,465,0)
+Source energy: 0.08803
+Detection efficiency: 0.0006496
+
+### Run 264	2022-05-03 22:55:07	### Run Time: 23.7479
+Total count: 1e+07
+Source position : (0,470,0)
+Source energy: 0.08803
+Detection efficiency: 0.00063475
+
+### Run 265	2022-05-03 22:55:31	### Run Time: 23.7056
+Total count: 1e+07
+Source position : (0,475,0)
+Source energy: 0.08803
+Detection efficiency: 0.0006203
+
+### Run 266	2022-05-03 22:55:54	### Run Time: 23.7489
+Total count: 1e+07
+Source position : (0,480,0)
+Source energy: 0.08803
+Detection efficiency: 0.00061925
+
+### Run 267	2022-05-03 22:56:18	### Run Time: 23.7461
+Total count: 1e+07
+Source position : (0,485,0)
+Source energy: 0.08803
+Detection efficiency: 0.00060115
+
+### Run 268	2022-05-03 22:56:42	### Run Time: 23.5881
+Total count: 1e+07
+Source position : (0,490,0)
+Source energy: 0.08803
+Detection efficiency: 0.000587
+
+### Run 269	2022-05-03 22:57:06	### Run Time: 23.7961
+Total count: 1e+07
+Source position : (0,495,0)
+Source energy: 0.08803
+Detection efficiency: 0.0005768
+
+### Run 270	2022-05-03 22:57:29	### Run Time: 23.7746
+Total count: 1e+07
+Source position : (0,500,0)
+Source energy: 0.08803
+Detection efficiency: 0.00057185
+
+### Run 271	2022-05-03 22:57:53	### Run Time: 23.5089
+Total count: 1e+07
+Source position : (0,505,0)
+Source energy: 0.08803
+Detection efficiency: 0.00056395
+
+### Run 272	2022-05-03 22:58:17	### Run Time: 23.8453
+Total count: 1e+07
+Source position : (0,510,0)
+Source energy: 0.08803
+Detection efficiency: 0.000549
+
+### Run 273	2022-05-03 22:58:40	### Run Time: 23.6634
+Total count: 1e+07
+Source position : (0,515,0)
+Source energy: 0.08803
+Detection efficiency: 0.00053595
+
+### Run 274	2022-05-03 22:59:04	### Run Time: 23.6288
+Total count: 1e+07
+Source position : (0,520,0)
+Source energy: 0.08803
+Detection efficiency: 0.00052535
+
+### Run 275	2022-05-03 22:59:28	### Run Time: 23.7509
+Total count: 1e+07
+Source position : (0,525,0)
+Source energy: 0.08803
+Detection efficiency: 0.00051595
+
+### Run 276	2022-05-03 22:59:51	### Run Time: 23.6932
+Total count: 1e+07
+Source position : (0,530,0)
+Source energy: 0.08803
+Detection efficiency: 0.00051045
+
+### Run 277	2022-05-03 23:00:15	### Run Time: 23.6133
+Total count: 1e+07
+Source position : (0,535,0)
+Source energy: 0.08803
+Detection efficiency: 0.00050255
+
+### Run 278	2022-05-03 23:00:39	### Run Time: 23.7185
+Total count: 1e+07
+Source position : (0,540,0)
+Source energy: 0.08803
+Detection efficiency: 0.0004819
+
+### Run 279	2022-05-03 23:01:03	### Run Time: 23.8634
+Total count: 1e+07
+Source position : (0,545,0)
+Source energy: 0.08803
+Detection efficiency: 0.00048395
+
+### Run 280	2022-05-03 23:01:26	### Run Time: 23.698
+Total count: 1e+07
+Source position : (0,550,0)
+Source energy: 0.08803
+Detection efficiency: 0.000471
+
+### Run 281	2022-05-03 23:01:50	### Run Time: 23.6091
+Total count: 1e+07
+Source position : (0,555,0)
+Source energy: 0.08803
+Detection efficiency: 0.00046205
+
+### Run 282	2022-05-03 23:02:14	### Run Time: 23.7337
+Total count: 1e+07
+Source position : (0,560,0)
+Source energy: 0.08803
+Detection efficiency: 0.00045775
+
+### Run 283	2022-05-03 23:02:37	### Run Time: 23.7538
+Total count: 1e+07
+Source position : (0,565,0)
+Source energy: 0.08803
+Detection efficiency: 0.00044705
+
+### Run 284	2022-05-03 23:03:01	### Run Time: 23.7054
+Total count: 1e+07
+Source position : (0,570,0)
+Source energy: 0.08803
+Detection efficiency: 0.00044825
+
+### Run 285	2022-05-03 23:03:25	### Run Time: 23.5698
+Total count: 1e+07
+Source position : (0,575,0)
+Source energy: 0.08803
+Detection efficiency: 0.00042725
+
+### Run 286	2022-05-03 23:03:48	### Run Time: 23.7689
+Total count: 1e+07
+Source position : (0,580,0)
+Source energy: 0.08803
+Detection efficiency: 0.00042335
+
+### Run 287	2022-05-03 23:04:12	### Run Time: 23.6986
+Total count: 1e+07
+Source position : (0,585,0)
+Source energy: 0.08803
+Detection efficiency: 0.00042105
+
+### Run 288	2022-05-03 23:04:36	### Run Time: 23.607
+Total count: 1e+07
+Source position : (0,590,0)
+Source energy: 0.08803
+Detection efficiency: 0.00041775
+
+### Run 289	2022-05-03 23:04:59	### Run Time: 23.6933
+Total count: 1e+07
+Source position : (0,595,0)
+Source energy: 0.08803
+Detection efficiency: 0.0004023
+
+### Run 290	2022-05-03 23:05:23	### Run Time: 23.7238
+Total count: 1e+07
+Source position : (0,600,0)
+Source energy: 0.08803
+Detection efficiency: 0.00039825
+
+### Run 291	2022-05-03 23:05:47	### Run Time: 23.6717
+Total count: 1e+07
+Source position : (0,605,0)
+Source energy: 0.08803
+Detection efficiency: 0.0003903
+
+### Run 292	2022-05-03 23:06:10	### Run Time: 23.5651
+Total count: 1e+07
+Source position : (0,610,0)
+Source energy: 0.08803
+Detection efficiency: 0.0003827
+
+### Run 293	2022-05-03 23:06:34	### Run Time: 23.7238
+Total count: 1e+07
+Source position : (0,615,0)
+Source energy: 0.08803
+Detection efficiency: 0.00038045
+
+### Run 294	2022-05-03 23:06:58	### Run Time: 23.7312
+Total count: 1e+07
+Source position : (0,620,0)
+Source energy: 0.08803
+Detection efficiency: 0.0003719
+
+### Run 295	2022-05-03 23:07:22	### Run Time: 23.6736
+Total count: 1e+07
+Source position : (0,625,0)
+Source energy: 0.08803
+Detection efficiency: 0.0003567
+
+### Run 296	2022-05-03 23:07:45	### Run Time: 23.7257
+Total count: 1e+07
+Source position : (0,630,0)
+Source energy: 0.08803
+Detection efficiency: 0.00035645
+
+### Run 297	2022-05-03 23:08:09	### Run Time: 23.7775
+Total count: 1e+07
+Source position : (0,635,0)
+Source energy: 0.08803
+Detection efficiency: 0.00034465
+
+### Run 298	2022-05-03 23:08:33	### Run Time: 23.7084
+Total count: 1e+07
+Source position : (0,640,0)
+Source energy: 0.08803
+Detection efficiency: 0.00034585
+
+### Run 299	2022-05-03 23:08:56	### Run Time: 23.5794
+Total count: 1e+07
+Source position : (0,645,0)
+Source energy: 0.08803
+Detection efficiency: 0.0003474
+
+### Run 300	2022-05-03 23:09:20	### Run Time: 23.9527
+Total count: 1e+07
+Source position : (0,150,0)
+Source energy: 0.1221
+Detection efficiency: 0.00622135
+
+### Run 301	2022-05-03 23:09:45	### Run Time: 24.2183
+Total count: 1e+07
+Source position : (0,155,0)
+Source energy: 0.1221
+Detection efficiency: 0.00585565
+
+### Run 302	2022-05-03 23:10:08	### Run Time: 23.6887
+Total count: 1e+07
+Source position : (0,160,0)
+Source energy: 0.1221
+Detection efficiency: 0.00553685
+
+### Run 303	2022-05-03 23:10:32	### Run Time: 24.0083
+Total count: 1e+07
+Source position : (0,165,0)
+Source energy: 0.1221
+Detection efficiency: 0.00524355
+
+### Run 304	2022-05-03 23:10:56	### Run Time: 24.015
+Total count: 1e+07
+Source position : (0,170,0)
+Source energy: 0.1221
+Detection efficiency: 0.0049422
+
+### Run 305	2022-05-03 23:11:20	### Run Time: 23.8178
+Total count: 1e+07
+Source position : (0,175,0)
+Source energy: 0.1221
+Detection efficiency: 0.00468995
+
+### Run 306	2022-05-03 23:11:44	### Run Time: 24.0638
+Total count: 1e+07
+Source position : (0,180,0)
+Source energy: 0.1221
+Detection efficiency: 0.00449395
+
+### Run 307	2022-05-03 23:12:08	### Run Time: 23.8696
+Total count: 1e+07
+Source position : (0,185,0)
+Source energy: 0.1221
+Detection efficiency: 0.00426065
+
+### Run 308	2022-05-03 23:12:32	### Run Time: 23.8794
+Total count: 1e+07
+Source position : (0,190,0)
+Source energy: 0.1221
+Detection efficiency: 0.00404275
+
+### Run 309	2022-05-03 23:12:56	### Run Time: 23.7286
+Total count: 1e+07
+Source position : (0,195,0)
+Source energy: 0.1221
+Detection efficiency: 0.0038745
+
+### Run 310	2022-05-03 23:13:19	### Run Time: 23.8566
+Total count: 1e+07
+Source position : (0,200,0)
+Source energy: 0.1221
+Detection efficiency: 0.0036909
+
+### Run 311	2022-05-03 23:13:43	### Run Time: 23.9448
+Total count: 1e+07
+Source position : (0,205,0)
+Source energy: 0.1221
+Detection efficiency: 0.00352615
+
+### Run 312	2022-05-03 23:14:07	### Run Time: 23.7851
+Total count: 1e+07
+Source position : (0,210,0)
+Source energy: 0.1221
+Detection efficiency: 0.003348
+
+### Run 313	2022-05-03 23:14:31	### Run Time: 23.7397
+Total count: 1e+07
+Source position : (0,215,0)
+Source energy: 0.1221
+Detection efficiency: 0.0032265
+
+### Run 314	2022-05-03 23:14:55	### Run Time: 23.9014
+Total count: 1e+07
+Source position : (0,220,0)
+Source energy: 0.1221
+Detection efficiency: 0.00306385
+
+### Run 315	2022-05-03 23:15:19	### Run Time: 23.8563
+Total count: 1e+07
+Source position : (0,225,0)
+Source energy: 0.1221
+Detection efficiency: 0.00295315
+
+### Run 316	2022-05-03 23:15:42	### Run Time: 23.7776
+Total count: 1e+07
+Source position : (0,230,0)
+Source energy: 0.1221
+Detection efficiency: 0.0028292
+
+### Run 317	2022-05-03 23:16:06	### Run Time: 23.8163
+Total count: 1e+07
+Source position : (0,235,0)
+Source energy: 0.1221
+Detection efficiency: 0.00271645
+
+### Run 318	2022-05-03 23:16:30	### Run Time: 23.8514
+Total count: 1e+07
+Source position : (0,240,0)
+Source energy: 0.1221
+Detection efficiency: 0.00260725
+
+### Run 319	2022-05-03 23:16:54	### Run Time: 23.6246
+Total count: 1e+07
+Source position : (0,245,0)
+Source energy: 0.1221
+Detection efficiency: 0.0025247
+
+### Run 320	2022-05-03 23:17:18	### Run Time: 24.1282
+Total count: 1e+07
+Source position : (0,250,0)
+Source energy: 0.1221
+Detection efficiency: 0.002425
+
+### Run 321	2022-05-03 23:17:42	### Run Time: 23.6397
+Total count: 1e+07
+Source position : (0,255,0)
+Source energy: 0.1221
+Detection efficiency: 0.00232935
+
+### Run 322	2022-05-03 23:18:05	### Run Time: 23.7824
+Total count: 1e+07
+Source position : (0,260,0)
+Source energy: 0.1221
+Detection efficiency: 0.0022434
+
+### Run 323	2022-05-03 23:18:29	### Run Time: 24.026
+Total count: 1e+07
+Source position : (0,265,0)
+Source energy: 0.1221
+Detection efficiency: 0.00216385
+
+### Run 324	2022-05-03 23:18:53	### Run Time: 23.6114
+Total count: 1e+07
+Source position : (0,270,0)
+Source energy: 0.1221
+Detection efficiency: 0.0020997
+
+### Run 325	2022-05-03 23:19:17	### Run Time: 23.8637
+Total count: 1e+07
+Source position : (0,275,0)
+Source energy: 0.1221
+Detection efficiency: 0.0020159
+
+### Run 326	2022-05-03 23:19:41	### Run Time: 23.8078
+Total count: 1e+07
+Source position : (0,280,0)
+Source energy: 0.1221
+Detection efficiency: 0.00196135
+
+### Run 327	2022-05-03 23:20:04	### Run Time: 23.746
+Total count: 1e+07
+Source position : (0,285,0)
+Source energy: 0.1221
+Detection efficiency: 0.0018927
+
+### Run 328	2022-05-03 23:20:28	### Run Time: 23.7205
+Total count: 1e+07
+Source position : (0,290,0)
+Source energy: 0.1221
+Detection efficiency: 0.0018346
+
+### Run 329	2022-05-03 23:20:52	### Run Time: 23.7895
+Total count: 1e+07
+Source position : (0,295,0)
+Source energy: 0.1221
+Detection efficiency: 0.00176385
+
+### Run 330	2022-05-03 23:21:16	### Run Time: 23.7923
+Total count: 1e+07
+Source position : (0,300,0)
+Source energy: 0.1221
+Detection efficiency: 0.00170685
+
+### Run 331	2022-05-03 23:21:39	### Run Time: 23.7678
+Total count: 1e+07
+Source position : (0,305,0)
+Source energy: 0.1221
+Detection efficiency: 0.0016692
+
+### Run 332	2022-05-03 23:22:03	### Run Time: 23.7462
+Total count: 1e+07
+Source position : (0,310,0)
+Source energy: 0.1221
+Detection efficiency: 0.00162635
+
+### Run 333	2022-05-03 23:22:27	### Run Time: 23.8362
+Total count: 1e+07
+Source position : (0,315,0)
+Source energy: 0.1221
+Detection efficiency: 0.0015687
+
+### Run 334	2022-05-03 23:22:51	### Run Time: 23.7696
+Total count: 1e+07
+Source position : (0,320,0)
+Source energy: 0.1221
+Detection efficiency: 0.00152855
+
+### Run 335	2022-05-03 23:23:14	### Run Time: 23.6514
+Total count: 1e+07
+Source position : (0,325,0)
+Source energy: 0.1221
+Detection efficiency: 0.00148285
+
+### Run 336	2022-05-03 23:23:38	### Run Time: 23.8921
+Total count: 1e+07
+Source position : (0,330,0)
+Source energy: 0.1221
+Detection efficiency: 0.00141725
+
+### Run 337	2022-05-03 23:24:02	### Run Time: 23.7819
+Total count: 1e+07
+Source position : (0,335,0)
+Source energy: 0.1221
+Detection efficiency: 0.00138715
+
+### Run 338	2022-05-03 23:24:26	### Run Time: 23.7202
+Total count: 1e+07
+Source position : (0,340,0)
+Source energy: 0.1221
+Detection efficiency: 0.001361
+
+### Run 339	2022-05-03 23:24:50	### Run Time: 23.8268
+Total count: 1e+07
+Source position : (0,345,0)
+Source energy: 0.1221
+Detection efficiency: 0.00131505
+
+### Run 340	2022-05-03 23:25:13	### Run Time: 23.7961
+Total count: 1e+07
+Source position : (0,350,0)
+Source energy: 0.1221
+Detection efficiency: 0.00127895
+
+### Run 341	2022-05-03 23:25:37	### Run Time: 23.7723
+Total count: 1e+07
+Source position : (0,355,0)
+Source energy: 0.1221
+Detection efficiency: 0.0012346
+
+### Run 342	2022-05-03 23:26:01	### Run Time: 23.6655
+Total count: 1e+07
+Source position : (0,360,0)
+Source energy: 0.1221
+Detection efficiency: 0.0012065
+
+### Run 343	2022-05-03 23:26:25	### Run Time: 23.6832
+Total count: 1e+07
+Source position : (0,365,0)
+Source energy: 0.1221
+Detection efficiency: 0.00117325
+
+### Run 344	2022-05-03 23:26:48	### Run Time: 23.7962
+Total count: 1e+07
+Source position : (0,370,0)
+Source energy: 0.1221
+Detection efficiency: 0.0011369
+
+### Run 345	2022-05-03 23:27:12	### Run Time: 23.7676
+Total count: 1e+07
+Source position : (0,375,0)
+Source energy: 0.1221
+Detection efficiency: 0.00111265
+
+### Run 346	2022-05-03 23:27:36	### Run Time: 23.592
+Total count: 1e+07
+Source position : (0,380,0)
+Source energy: 0.1221
+Detection efficiency: 0.00108945
+
+### Run 347	2022-05-03 23:27:59	### Run Time: 23.7584
+Total count: 1e+07
+Source position : (0,385,0)
+Source energy: 0.1221
+Detection efficiency: 0.00107485
+
+### Run 348	2022-05-03 23:28:23	### Run Time: 23.775
+Total count: 1e+07
+Source position : (0,390,0)
+Source energy: 0.1221
+Detection efficiency: 0.00104215
+
+### Run 349	2022-05-03 23:28:47	### Run Time: 23.8605
+Total count: 1e+07
+Source position : (0,395,0)
+Source energy: 0.1221
+Detection efficiency: 0.00102135
+
+### Run 350	2022-05-03 23:29:11	### Run Time: 23.6563
+Total count: 1e+07
+Source position : (0,400,0)
+Source energy: 0.1221
+Detection efficiency: 0.00099595
+
+### Run 351	2022-05-03 23:29:35	### Run Time: 23.8501
+Total count: 1e+07
+Source position : (0,405,0)
+Source energy: 0.1221
+Detection efficiency: 0.0009567
+
+### Run 352	2022-05-03 23:29:58	### Run Time: 23.7903
+Total count: 1e+07
+Source position : (0,410,0)
+Source energy: 0.1221
+Detection efficiency: 0.00094665
+
+### Run 353	2022-05-03 23:30:22	### Run Time: 23.7301
+Total count: 1e+07
+Source position : (0,415,0)
+Source energy: 0.1221
+Detection efficiency: 0.0009251
+
+### Run 354	2022-05-03 23:30:46	### Run Time: 23.6752
+Total count: 1e+07
+Source position : (0,420,0)
+Source energy: 0.1221
+Detection efficiency: 0.00089125
+
+### Run 355	2022-05-03 23:31:10	### Run Time: 23.7877
+Total count: 1e+07
+Source position : (0,425,0)
+Source energy: 0.1221
+Detection efficiency: 0.0008791
+
+### Run 356	2022-05-03 23:31:33	### Run Time: 23.7737
+Total count: 1e+07
+Source position : (0,430,0)
+Source energy: 0.1221
+Detection efficiency: 0.000853
+
+### Run 357	2022-05-03 23:31:57	### Run Time: 23.6269
+Total count: 1e+07
+Source position : (0,435,0)
+Source energy: 0.1221
+Detection efficiency: 0.0008293
+
+### Run 358	2022-05-03 23:32:21	### Run Time: 23.7338
+Total count: 1e+07
+Source position : (0,440,0)
+Source energy: 0.1221
+Detection efficiency: 0.0008096
+
+### Run 359	2022-05-03 23:32:44	### Run Time: 23.7306
+Total count: 1e+07
+Source position : (0,445,0)
+Source energy: 0.1221
+Detection efficiency: 0.0008088
+
+### Run 360	2022-05-03 23:33:08	### Run Time: 23.7224
+Total count: 1e+07
+Source position : (0,450,0)
+Source energy: 0.1221
+Detection efficiency: 0.00078635
+
+### Run 361	2022-05-03 23:33:32	### Run Time: 23.6057
+Total count: 1e+07
+Source position : (0,455,0)
+Source energy: 0.1221
+Detection efficiency: 0.0007628
+
+### Run 362	2022-05-03 23:33:56	### Run Time: 23.7917
+Total count: 1e+07
+Source position : (0,460,0)
+Source energy: 0.1221
+Detection efficiency: 0.00075005
+
+### Run 363	2022-05-03 23:34:19	### Run Time: 23.749
+Total count: 1e+07
+Source position : (0,465,0)
+Source energy: 0.1221
+Detection efficiency: 0.0007447
+
+### Run 364	2022-05-03 23:34:43	### Run Time: 23.7271
+Total count: 1e+07
+Source position : (0,470,0)
+Source energy: 0.1221
+Detection efficiency: 0.00072885
+
+### Run 365	2022-05-03 23:35:07	### Run Time: 23.65
+Total count: 1e+07
+Source position : (0,475,0)
+Source energy: 0.1221
+Detection efficiency: 0.00070855
+
+### Run 366	2022-05-03 23:35:31	### Run Time: 23.8931
+Total count: 1e+07
+Source position : (0,480,0)
+Source energy: 0.1221
+Detection efficiency: 0.00070985
+
+### Run 367	2022-05-03 23:35:54	### Run Time: 23.7623
+Total count: 1e+07
+Source position : (0,485,0)
+Source energy: 0.1221
+Detection efficiency: 0.00067945
+
+### Run 368	2022-05-03 23:36:18	### Run Time: 23.6657
+Total count: 1e+07
+Source position : (0,490,0)
+Source energy: 0.1221
+Detection efficiency: 0.0006667
+
+### Run 369	2022-05-03 23:36:42	### Run Time: 23.7205
+Total count: 1e+07
+Source position : (0,495,0)
+Source energy: 0.1221
+Detection efficiency: 0.00065225
+
+### Run 370	2022-05-03 23:37:05	### Run Time: 23.7372
+Total count: 1e+07
+Source position : (0,500,0)
+Source energy: 0.1221
+Detection efficiency: 0.0006318
+
+### Run 371	2022-05-03 23:37:29	### Run Time: 23.7354
+Total count: 1e+07
+Source position : (0,505,0)
+Source energy: 0.1221
+Detection efficiency: 0.00062645
+
+### Run 372	2022-05-03 23:37:53	### Run Time: 23.5989
+Total count: 1e+07
+Source position : (0,510,0)
+Source energy: 0.1221
+Detection efficiency: 0.0006198
+
+### Run 373	2022-05-03 23:38:18	### Run Time: 24.8406
+Total count: 1e+07
+Source position : (0,515,0)
+Source energy: 0.1221
+Detection efficiency: 0.00060945
+
+### Run 374	2022-05-03 23:38:41	### Run Time: 23.8081
+Total count: 1e+07
+Source position : (0,520,0)
+Source energy: 0.1221
+Detection efficiency: 0.0005925
+
+### Run 375	2022-05-03 23:39:05	### Run Time: 23.8434
+Total count: 1e+07
+Source position : (0,525,0)
+Source energy: 0.1221
+Detection efficiency: 0.000577
+
+### Run 376	2022-05-03 23:39:29	### Run Time: 23.6331
+Total count: 1e+07
+Source position : (0,530,0)
+Source energy: 0.1221
+Detection efficiency: 0.000566
+
+### Run 377	2022-05-03 23:39:53	### Run Time: 23.79
+Total count: 1e+07
+Source position : (0,535,0)
+Source energy: 0.1221
+Detection efficiency: 0.0005601
+
+### Run 378	2022-05-03 23:40:17	### Run Time: 23.7894
+Total count: 1e+07
+Source position : (0,540,0)
+Source energy: 0.1221
+Detection efficiency: 0.00055065
+
+### Run 379	2022-05-03 23:40:40	### Run Time: 23.7829
+Total count: 1e+07
+Source position : (0,545,0)
+Source energy: 0.1221
+Detection efficiency: 0.00054445
+
+### Run 380	2022-05-03 23:41:04	### Run Time: 23.6971
+Total count: 1e+07
+Source position : (0,550,0)
+Source energy: 0.1221
+Detection efficiency: 0.00052925
+
+### Run 381	2022-05-03 23:41:28	### Run Time: 23.7874
+Total count: 1e+07
+Source position : (0,555,0)
+Source energy: 0.1221
+Detection efficiency: 0.00051265
+
+### Run 382	2022-05-03 23:41:52	### Run Time: 23.9281
+Total count: 1e+07
+Source position : (0,560,0)
+Source energy: 0.1221
+Detection efficiency: 0.00050655
+
+### Run 383	2022-05-03 23:42:15	### Run Time: 23.6803
+Total count: 1e+07
+Source position : (0,565,0)
+Source energy: 0.1221
+Detection efficiency: 0.000503
+
+### Run 384	2022-05-03 23:42:39	### Run Time: 23.7085
+Total count: 1e+07
+Source position : (0,570,0)
+Source energy: 0.1221
+Detection efficiency: 0.00050035
+
+### Run 385	2022-05-03 23:43:03	### Run Time: 23.7807
+Total count: 1e+07
+Source position : (0,575,0)
+Source energy: 0.1221
+Detection efficiency: 0.00048195
+
+### Run 386	2022-05-03 23:43:27	### Run Time: 23.757
+Total count: 1e+07
+Source position : (0,580,0)
+Source energy: 0.1221
+Detection efficiency: 0.00048425
+
+### Run 387	2022-05-03 23:43:50	### Run Time: 23.6233
+Total count: 1e+07
+Source position : (0,585,0)
+Source energy: 0.1221
+Detection efficiency: 0.00047245
+
+### Run 388	2022-05-03 23:44:14	### Run Time: 23.8439
+Total count: 1e+07
+Source position : (0,590,0)
+Source energy: 0.1221
+Detection efficiency: 0.00047045
+
+### Run 389	2022-05-03 23:44:38	### Run Time: 23.488
+Total count: 1e+07
+Source position : (0,595,0)
+Source energy: 0.1221
+Detection efficiency: 0.0004513
+
+### Run 390	2022-05-03 23:45:01	### Run Time: 23.8462
+Total count: 1e+07
+Source position : (0,600,0)
+Source energy: 0.1221
+Detection efficiency: 0.0004475
+
+### Run 391	2022-05-03 23:45:25	### Run Time: 23.7642
+Total count: 1e+07
+Source position : (0,605,0)
+Source energy: 0.1221
+Detection efficiency: 0.00043865
+
+### Run 392	2022-05-03 23:45:49	### Run Time: 23.5232
+Total count: 1e+07
+Source position : (0,610,0)
+Source energy: 0.1221
+Detection efficiency: 0.00042755
+
+### Run 393	2022-05-03 23:46:13	### Run Time: 23.8594
+Total count: 1e+07
+Source position : (0,615,0)
+Source energy: 0.1221
+Detection efficiency: 0.0004311
+
+### Run 394	2022-05-03 23:46:36	### Run Time: 23.608
+Total count: 1e+07
+Source position : (0,620,0)
+Source energy: 0.1221
+Detection efficiency: 0.0004197
+
+### Run 395	2022-05-03 23:47:00	### Run Time: 23.6011
+Total count: 1e+07
+Source position : (0,625,0)
+Source energy: 0.1221
+Detection efficiency: 0.0004087
+
+### Run 396	2022-05-03 23:47:24	### Run Time: 23.7387
+Total count: 1e+07
+Source position : (0,630,0)
+Source energy: 0.1221
+Detection efficiency: 0.00040685
+
+### Run 397	2022-05-03 23:47:47	### Run Time: 23.7524
+Total count: 1e+07
+Source position : (0,635,0)
+Source energy: 0.1221
+Detection efficiency: 0.0003919
+
+### Run 398	2022-05-03 23:48:11	### Run Time: 23.6542
+Total count: 1e+07
+Source position : (0,640,0)
+Source energy: 0.1221
+Detection efficiency: 0.00039845
+
+### Run 399	2022-05-03 23:48:35	### Run Time: 23.7809
+Total count: 1e+07
+Source position : (0,645,0)
+Source energy: 0.1221
+Detection efficiency: 0.0003944
+
+### Run 400	2022-05-03 23:48:59	### Run Time: 24.0126
+Total count: 1e+07
+Source position : (0,150,0)
+Source energy: 0.16585
+Detection efficiency: 0.0059044
+
+### Run 401	2022-05-03 23:49:23	### Run Time: 23.9499
+Total count: 1e+07
+Source position : (0,155,0)
+Source energy: 0.16585
+Detection efficiency: 0.0055481
+
+### Run 402	2022-05-03 23:49:47	### Run Time: 23.8618
+Total count: 1e+07
+Source position : (0,160,0)
+Source energy: 0.16585
+Detection efficiency: 0.00524815
+
+### Run 403	2022-05-03 23:50:11	### Run Time: 23.9717
+Total count: 1e+07
+Source position : (0,165,0)
+Source energy: 0.16585
+Detection efficiency: 0.004958
+
+### Run 404	2022-05-03 23:50:35	### Run Time: 24.0763
+Total count: 1e+07
+Source position : (0,170,0)
+Source energy: 0.16585
+Detection efficiency: 0.00473075
+
+### Run 405	2022-05-03 23:50:59	### Run Time: 23.961
+Total count: 1e+07
+Source position : (0,175,0)
+Source energy: 0.16585
+Detection efficiency: 0.0044712
+
+### Run 406	2022-05-03 23:51:22	### Run Time: 23.7518
+Total count: 1e+07
+Source position : (0,180,0)
+Source energy: 0.16585
+Detection efficiency: 0.00425875
+
+### Run 407	2022-05-03 23:51:46	### Run Time: 23.9023
+Total count: 1e+07
+Source position : (0,185,0)
+Source energy: 0.16585
+Detection efficiency: 0.0040331
+
+### Run 408	2022-05-03 23:52:10	### Run Time: 23.9445
+Total count: 1e+07
+Source position : (0,190,0)
+Source energy: 0.16585
+Detection efficiency: 0.0038426
+
+### Run 409	2022-05-03 23:52:34	### Run Time: 23.833
+Total count: 1e+07
+Source position : (0,195,0)
+Source energy: 0.16585
+Detection efficiency: 0.00367145
+
+### Run 410	2022-05-03 23:52:58	### Run Time: 23.8043
+Total count: 1e+07
+Source position : (0,200,0)
+Source energy: 0.16585
+Detection efficiency: 0.0034983
+
+### Run 411	2022-05-03 23:53:22	### Run Time: 23.9108
+Total count: 1e+07
+Source position : (0,205,0)
+Source energy: 0.16585
+Detection efficiency: 0.00335845
+
+### Run 412	2022-05-03 23:53:46	### Run Time: 23.8579
+Total count: 1e+07
+Source position : (0,210,0)
+Source energy: 0.16585
+Detection efficiency: 0.00318025
+
+### Run 413	2022-05-03 23:54:09	### Run Time: 23.7825
+Total count: 1e+07
+Source position : (0,215,0)
+Source energy: 0.16585
+Detection efficiency: 0.00306785
+
+### Run 414	2022-05-03 23:54:33	### Run Time: 23.7469
+Total count: 1e+07
+Source position : (0,220,0)
+Source energy: 0.16585
+Detection efficiency: 0.00292085
+
+### Run 415	2022-05-03 23:54:57	### Run Time: 23.5802
+Total count: 1e+07
+Source position : (0,225,0)
+Source energy: 0.16585
+Detection efficiency: 0.0028268
+
+### Run 416	2022-05-03 23:55:21	### Run Time: 24.2384
+Total count: 1e+07
+Source position : (0,230,0)
+Source energy: 0.16585
+Detection efficiency: 0.00270805
+
+### Run 417	2022-05-03 23:55:45	### Run Time: 23.7532
+Total count: 1e+07
+Source position : (0,235,0)
+Source energy: 0.16585
+Detection efficiency: 0.00260325
+
+### Run 418	2022-05-03 23:56:09	### Run Time: 23.8595
+Total count: 1e+07
+Source position : (0,240,0)
+Source energy: 0.16585
+Detection efficiency: 0.0025079
+
+### Run 419	2022-05-03 23:56:32	### Run Time: 23.9291
+Total count: 1e+07
+Source position : (0,245,0)
+Source energy: 0.16585
+Detection efficiency: 0.0023973
+
+### Run 420	2022-05-03 23:56:56	### Run Time: 23.7959
+Total count: 1e+07
+Source position : (0,250,0)
+Source energy: 0.16585
+Detection efficiency: 0.00229935
+
+### Run 421	2022-05-03 23:57:20	### Run Time: 23.7155
+Total count: 1e+07
+Source position : (0,255,0)
+Source energy: 0.16585
+Detection efficiency: 0.0022155
+
+### Run 422	2022-05-03 23:57:44	### Run Time: 23.8665
+Total count: 1e+07
+Source position : (0,260,0)
+Source energy: 0.16585
+Detection efficiency: 0.00214725
+
+### Run 423	2022-05-03 23:58:08	### Run Time: 23.9504
+Total count: 1e+07
+Source position : (0,265,0)
+Source energy: 0.16585
+Detection efficiency: 0.0020695
+
+### Run 424	2022-05-03 23:58:32	### Run Time: 23.7587
+Total count: 1e+07
+Source position : (0,270,0)
+Source energy: 0.16585
+Detection efficiency: 0.002016
+
+### Run 425	2022-05-03 23:58:55	### Run Time: 23.7385
+Total count: 1e+07
+Source position : (0,275,0)
+Source energy: 0.16585
+Detection efficiency: 0.00192285
+
+### Run 426	2022-05-03 23:59:19	### Run Time: 23.8201
+Total count: 1e+07
+Source position : (0,280,0)
+Source energy: 0.16585
+Detection efficiency: 0.00188415
+
+### Run 427	2022-05-03 23:59:43	### Run Time: 23.8155
+Total count: 1e+07
+Source position : (0,285,0)
+Source energy: 0.16585
+Detection efficiency: 0.00182125
+
+### Run 428	2022-05-04 00:00:07	### Run Time: 23.7922
+Total count: 1e+07
+Source position : (0,290,0)
+Source energy: 0.16585
+Detection efficiency: 0.0017593
+
+### Run 429	2022-05-04 00:00:31	### Run Time: 23.7756
+Total count: 1e+07
+Source position : (0,295,0)
+Source energy: 0.16585
+Detection efficiency: 0.0017042
+
+### Run 430	2022-05-04 00:00:54	### Run Time: 23.8225
+Total count: 1e+07
+Source position : (0,300,0)
+Source energy: 0.16585
+Detection efficiency: 0.0016493
+
+### Run 431	2022-05-04 00:01:18	### Run Time: 23.7805
+Total count: 1e+07
+Source position : (0,305,0)
+Source energy: 0.16585
+Detection efficiency: 0.0015942
+
+### Run 432	2022-05-04 00:01:42	### Run Time: 23.6012
+Total count: 1e+07
+Source position : (0,310,0)
+Source energy: 0.16585
+Detection efficiency: 0.00155805
+
+### Run 433	2022-05-04 00:02:06	### Run Time: 23.84
+Total count: 1e+07
+Source position : (0,315,0)
+Source energy: 0.16585
+Detection efficiency: 0.00149575
+
+### Run 434	2022-05-04 00:02:29	### Run Time: 23.7794
+Total count: 1e+07
+Source position : (0,320,0)
+Source energy: 0.16585
+Detection efficiency: 0.0014466
+
+### Run 435	2022-05-04 00:02:53	### Run Time: 23.5564
+Total count: 1e+07
+Source position : (0,325,0)
+Source energy: 0.16585
+Detection efficiency: 0.00142255
+
+### Run 436	2022-05-04 00:03:16	### Run Time: 23.5703
+Total count: 1e+07
+Source position : (0,330,0)
+Source energy: 0.16585
+Detection efficiency: 0.00136705
+
+### Run 437	2022-05-04 00:03:41	### Run Time: 24.1193
+Total count: 1e+07
+Source position : (0,335,0)
+Source energy: 0.16585
+Detection efficiency: 0.00133465
+
+### Run 438	2022-05-04 00:04:04	### Run Time: 23.6056
+Total count: 1e+07
+Source position : (0,340,0)
+Source energy: 0.16585
+Detection efficiency: 0.00128485
+
+### Run 439	2022-05-04 00:04:28	### Run Time: 24.012
+Total count: 1e+07
+Source position : (0,345,0)
+Source energy: 0.16585
+Detection efficiency: 0.0012578
+
+### Run 440	2022-05-04 00:04:52	### Run Time: 23.5574
+Total count: 1e+07
+Source position : (0,350,0)
+Source energy: 0.16585
+Detection efficiency: 0.0012316
+
+### Run 441	2022-05-04 00:05:16	### Run Time: 23.9257
+Total count: 1e+07
+Source position : (0,355,0)
+Source energy: 0.16585
+Detection efficiency: 0.0011755
+
+### Run 442	2022-05-04 00:05:39	### Run Time: 23.7807
+Total count: 1e+07
+Source position : (0,360,0)
+Source energy: 0.16585
+Detection efficiency: 0.00116145
+
+### Run 443	2022-05-04 00:06:03	### Run Time: 23.6303
+Total count: 1e+07
+Source position : (0,365,0)
+Source energy: 0.16585
+Detection efficiency: 0.00113135
+
+### Run 444	2022-05-04 00:06:27	### Run Time: 23.8199
+Total count: 1e+07
+Source position : (0,370,0)
+Source energy: 0.16585
+Detection efficiency: 0.00110435
+
+### Run 445	2022-05-04 00:06:51	### Run Time: 23.7886
+Total count: 1e+07
+Source position : (0,375,0)
+Source energy: 0.16585
+Detection efficiency: 0.00108055
+
+### Run 446	2022-05-04 00:07:14	### Run Time: 23.7012
+Total count: 1e+07
+Source position : (0,380,0)
+Source energy: 0.16585
+Detection efficiency: 0.00105055
+
+### Run 447	2022-05-04 00:07:38	### Run Time: 23.6497
+Total count: 1e+07
+Source position : (0,385,0)
+Source energy: 0.16585
+Detection efficiency: 0.0010176
+
+### Run 448	2022-05-04 00:08:02	### Run Time: 23.7846
+Total count: 1e+07
+Source position : (0,390,0)
+Source energy: 0.16585
+Detection efficiency: 0.00098735
+
+### Run 449	2022-05-04 00:08:26	### Run Time: 23.7458
+Total count: 1e+07
+Source position : (0,395,0)
+Source energy: 0.16585
+Detection efficiency: 0.00097675
+
+### Run 450	2022-05-04 00:08:49	### Run Time: 23.7218
+Total count: 1e+07
+Source position : (0,400,0)
+Source energy: 0.16585
+Detection efficiency: 0.000951
+
+### Run 451	2022-05-04 00:09:13	### Run Time: 23.6582
+Total count: 1e+07
+Source position : (0,405,0)
+Source energy: 0.16585
+Detection efficiency: 0.0009314
+
+### Run 452	2022-05-04 00:09:37	### Run Time: 23.7948
+Total count: 1e+07
+Source position : (0,410,0)
+Source energy: 0.16585
+Detection efficiency: 0.00090935
+
+### Run 453	2022-05-04 00:10:01	### Run Time: 23.7898
+Total count: 1e+07
+Source position : (0,415,0)
+Source energy: 0.16585
+Detection efficiency: 0.0008919
+
+### Run 454	2022-05-04 00:10:24	### Run Time: 23.6295
+Total count: 1e+07
+Source position : (0,420,0)
+Source energy: 0.16585
+Detection efficiency: 0.0008675
+
+### Run 455	2022-05-04 00:10:48	### Run Time: 23.9086
+Total count: 1e+07
+Source position : (0,425,0)
+Source energy: 0.16585
+Detection efficiency: 0.0008465
+
+### Run 456	2022-05-04 00:11:12	### Run Time: 23.7538
+Total count: 1e+07
+Source position : (0,430,0)
+Source energy: 0.16585
+Detection efficiency: 0.00082365
+
+### Run 457	2022-05-04 00:11:36	### Run Time: 23.7241
+Total count: 1e+07
+Source position : (0,435,0)
+Source energy: 0.16585
+Detection efficiency: 0.0008042
+
+### Run 458	2022-05-04 00:11:59	### Run Time: 23.6236
+Total count: 1e+07
+Source position : (0,440,0)
+Source energy: 0.16585
+Detection efficiency: 0.00078915
+
+### Run 459	2022-05-04 00:12:23	### Run Time: 23.7896
+Total count: 1e+07
+Source position : (0,445,0)
+Source energy: 0.16585
+Detection efficiency: 0.00078175
+
+### Run 460	2022-05-04 00:12:47	### Run Time: 23.7265
+Total count: 1e+07
+Source position : (0,450,0)
+Source energy: 0.16585
+Detection efficiency: 0.00076055
+
+### Run 461	2022-05-04 00:13:10	### Run Time: 23.7175
+Total count: 1e+07
+Source position : (0,455,0)
+Source energy: 0.16585
+Detection efficiency: 0.00073905
+
+### Run 462	2022-05-04 00:13:34	### Run Time: 23.6088
+Total count: 1e+07
+Source position : (0,460,0)
+Source energy: 0.16585
+Detection efficiency: 0.0007243
+
+### Run 463	2022-05-04 00:13:58	### Run Time: 23.7809
+Total count: 1e+07
+Source position : (0,465,0)
+Source energy: 0.16585
+Detection efficiency: 0.0007114
+
+### Run 464	2022-05-04 00:14:22	### Run Time: 23.762
+Total count: 1e+07
+Source position : (0,470,0)
+Source energy: 0.16585
+Detection efficiency: 0.00069355
+
+### Run 465	2022-05-04 00:14:45	### Run Time: 23.629
+Total count: 1e+07
+Source position : (0,475,0)
+Source energy: 0.16585
+Detection efficiency: 0.00068315
+
+### Run 466	2022-05-04 00:15:09	### Run Time: 23.7092
+Total count: 1e+07
+Source position : (0,480,0)
+Source energy: 0.16585
+Detection efficiency: 0.00067215
+
+### Run 467	2022-05-04 00:15:33	### Run Time: 23.9075
+Total count: 1e+07
+Source position : (0,485,0)
+Source energy: 0.16585
+Detection efficiency: 0.00065365
+
+### Run 468	2022-05-04 00:15:57	### Run Time: 23.7239
+Total count: 1e+07
+Source position : (0,490,0)
+Source energy: 0.16585
+Detection efficiency: 0.00064495
+
+### Run 469	2022-05-04 00:16:20	### Run Time: 23.627
+Total count: 1e+07
+Source position : (0,495,0)
+Source energy: 0.16585
+Detection efficiency: 0.0006272
+
+### Run 470	2022-05-04 00:16:44	### Run Time: 23.7419
+Total count: 1e+07
+Source position : (0,500,0)
+Source energy: 0.16585
+Detection efficiency: 0.0006144
+
+### Run 471	2022-05-04 00:17:08	### Run Time: 23.7471
+Total count: 1e+07
+Source position : (0,505,0)
+Source energy: 0.16585
+Detection efficiency: 0.00061475
+
+### Run 472	2022-05-04 00:17:31	### Run Time: 23.7301
+Total count: 1e+07
+Source position : (0,510,0)
+Source energy: 0.16585
+Detection efficiency: 0.0005911
+
+### Run 473	2022-05-04 00:17:55	### Run Time: 23.6039
+Total count: 1e+07
+Source position : (0,515,0)
+Source energy: 0.16585
+Detection efficiency: 0.0005868
+
+### Run 474	2022-05-04 00:18:19	### Run Time: 23.7767
+Total count: 1e+07
+Source position : (0,520,0)
+Source energy: 0.16585
+Detection efficiency: 0.00057915
+
+### Run 475	2022-05-04 00:18:43	### Run Time: 23.7653
+Total count: 1e+07
+Source position : (0,525,0)
+Source energy: 0.16585
+Detection efficiency: 0.0005618
+
+### Run 476	2022-05-04 00:19:06	### Run Time: 23.6712
+Total count: 1e+07
+Source position : (0,530,0)
+Source energy: 0.16585
+Detection efficiency: 0.000549
+
+### Run 477	2022-05-04 00:19:30	### Run Time: 23.6299
+Total count: 1e+07
+Source position : (0,535,0)
+Source energy: 0.16585
+Detection efficiency: 0.0005356
+
+### Run 478	2022-05-04 00:19:54	### Run Time: 23.7685
+Total count: 1e+07
+Source position : (0,540,0)
+Source energy: 0.16585
+Detection efficiency: 0.0005274
+
+### Run 479	2022-05-04 00:20:17	### Run Time: 23.7606
+Total count: 1e+07
+Source position : (0,545,0)
+Source energy: 0.16585
+Detection efficiency: 0.0005239
+
+### Run 480	2022-05-04 00:20:41	### Run Time: 23.6308
+Total count: 1e+07
+Source position : (0,550,0)
+Source energy: 0.16585
+Detection efficiency: 0.00050495
+
+### Run 481	2022-05-04 00:21:05	### Run Time: 23.7273
+Total count: 1e+07
+Source position : (0,555,0)
+Source energy: 0.16585
+Detection efficiency: 0.0005009
+
+### Run 482	2022-05-04 00:21:29	### Run Time: 23.7624
+Total count: 1e+07
+Source position : (0,560,0)
+Source energy: 0.16585
+Detection efficiency: 0.0004953
+
+### Run 483	2022-05-04 00:21:52	### Run Time: 23.7471
+Total count: 1e+07
+Source position : (0,565,0)
+Source energy: 0.16585
+Detection efficiency: 0.00049105
+
+### Run 484	2022-05-04 00:22:16	### Run Time: 23.6126
+Total count: 1e+07
+Source position : (0,570,0)
+Source energy: 0.16585
+Detection efficiency: 0.0004758
+
+### Run 485	2022-05-04 00:22:40	### Run Time: 23.7753
+Total count: 1e+07
+Source position : (0,575,0)
+Source energy: 0.16585
+Detection efficiency: 0.0004694
+
+### Run 486	2022-05-04 00:23:04	### Run Time: 23.9087
+Total count: 1e+07
+Source position : (0,580,0)
+Source energy: 0.16585
+Detection efficiency: 0.0004625
+
+### Run 487	2022-05-04 00:23:27	### Run Time: 23.6579
+Total count: 1e+07
+Source position : (0,585,0)
+Source energy: 0.16585
+Detection efficiency: 0.0004486
+
+### Run 488	2022-05-04 00:23:51	### Run Time: 23.6393
+Total count: 1e+07
+Source position : (0,590,0)
+Source energy: 0.16585
+Detection efficiency: 0.0004446
+
+### Run 489	2022-05-04 00:24:15	### Run Time: 23.7535
+Total count: 1e+07
+Source position : (0,595,0)
+Source energy: 0.16585
+Detection efficiency: 0.0004411
+
+### Run 490	2022-05-04 00:24:38	### Run Time: 23.7495
+Total count: 1e+07
+Source position : (0,600,0)
+Source energy: 0.16585
+Detection efficiency: 0.00043455
+
+### Run 491	2022-05-04 00:25:02	### Run Time: 23.6917
+Total count: 1e+07
+Source position : (0,605,0)
+Source energy: 0.16585
+Detection efficiency: 0.0004247
+
+### Run 492	2022-05-04 00:25:26	### Run Time: 23.6977
+Total count: 1e+07
+Source position : (0,610,0)
+Source energy: 0.16585
+Detection efficiency: 0.00041945
+
+### Run 493	2022-05-04 00:25:50	### Run Time: 23.7977
+Total count: 1e+07
+Source position : (0,615,0)
+Source energy: 0.16585
+Detection efficiency: 0.0004106
+
+### Run 494	2022-05-04 00:26:13	### Run Time: 23.7475
+Total count: 1e+07
+Source position : (0,620,0)
+Source energy: 0.16585
+Detection efficiency: 0.0004052
+
+### Run 495	2022-05-04 00:26:37	### Run Time: 23.5861
+Total count: 1e+07
+Source position : (0,625,0)
+Source energy: 0.16585
+Detection efficiency: 0.00040305
+
+### Run 496	2022-05-04 00:27:01	### Run Time: 23.7732
+Total count: 1e+07
+Source position : (0,630,0)
+Source energy: 0.16585
+Detection efficiency: 0.0003956
+
+### Run 497	2022-05-04 00:27:25	### Run Time: 23.9362
+Total count: 1e+07
+Source position : (0,635,0)
+Source energy: 0.16585
+Detection efficiency: 0.0003971
+
+### Run 498	2022-05-04 00:27:48	### Run Time: 23.7047
+Total count: 1e+07
+Source position : (0,640,0)
+Source energy: 0.16585
+Detection efficiency: 0.00037595
+
+### Run 499	2022-05-04 00:28:12	### Run Time: 23.6593
+Total count: 1e+07
+Source position : (0,645,0)
+Source energy: 0.16585
+Detection efficiency: 0.000376
+
+### Run 500	2022-05-04 00:28:36	### Run Time: 24.1187
+Total count: 1e+07
+Source position : (0,150,0)
+Source energy: 0.39169
+Detection efficiency: 0.0031436
+
+### Run 501	2022-05-04 00:29:00	### Run Time: 24.0601
+Total count: 1e+07
+Source position : (0,155,0)
+Source energy: 0.39169
+Detection efficiency: 0.00296525
+
+### Run 502	2022-05-04 00:29:24	### Run Time: 23.898
+Total count: 1e+07
+Source position : (0,160,0)
+Source energy: 0.39169
+Detection efficiency: 0.00283395
+
+### Run 503	2022-05-04 00:29:48	### Run Time: 24.4215
+Total count: 1e+07
+Source position : (0,165,0)
+Source energy: 0.39169
+Detection efficiency: 0.0026562
+
+### Run 504	2022-05-04 00:30:12	### Run Time: 23.8158
+Total count: 1e+07
+Source position : (0,170,0)
+Source energy: 0.39169
+Detection efficiency: 0.00253345
+
+### Run 505	2022-05-04 00:30:36	### Run Time: 23.8433
+Total count: 1e+07
+Source position : (0,175,0)
+Source energy: 0.39169
+Detection efficiency: 0.00240225
+
+### Run 506	2022-05-04 00:31:00	### Run Time: 24.289
+Total count: 1e+07
+Source position : (0,180,0)
+Source energy: 0.39169
+Detection efficiency: 0.00229535
+
+### Run 507	2022-05-04 00:31:24	### Run Time: 23.9844
+Total count: 1e+07
+Source position : (0,185,0)
+Source energy: 0.39169
+Detection efficiency: 0.00218025
+
+### Run 508	2022-05-04 00:31:48	### Run Time: 23.9078
+Total count: 1e+07
+Source position : (0,190,0)
+Source energy: 0.39169
+Detection efficiency: 0.002063
+
+### Run 509	2022-05-04 00:32:12	### Run Time: 23.9281
+Total count: 1e+07
+Source position : (0,195,0)
+Source energy: 0.39169
+Detection efficiency: 0.0019751
+
+### Run 510	2022-05-04 00:32:36	### Run Time: 23.777
+Total count: 1e+07
+Source position : (0,200,0)
+Source energy: 0.39169
+Detection efficiency: 0.0019037
+
+### Run 511	2022-05-04 00:33:00	### Run Time: 23.609
+Total count: 1e+07
+Source position : (0,205,0)
+Source energy: 0.39169
+Detection efficiency: 0.0018397
+
+### Run 512	2022-05-04 00:33:23	### Run Time: 23.496
+Total count: 1e+07
+Source position : (0,210,0)
+Source energy: 0.39169
+Detection efficiency: 0.00173855
+
+### Run 513	2022-05-04 00:33:47	### Run Time: 23.6578
+Total count: 1e+07
+Source position : (0,215,0)
+Source energy: 0.39169
+Detection efficiency: 0.0016456
+
+### Run 514	2022-05-04 00:34:10	### Run Time: 23.6587
+Total count: 1e+07
+Source position : (0,220,0)
+Source energy: 0.39169
+Detection efficiency: 0.0015875
+
+### Run 515	2022-05-04 00:34:34	### Run Time: 23.7209
+Total count: 1e+07
+Source position : (0,225,0)
+Source energy: 0.39169
+Detection efficiency: 0.0015317
+
+### Run 516	2022-05-04 00:34:58	### Run Time: 23.5575
+Total count: 1e+07
+Source position : (0,230,0)
+Source energy: 0.39169
+Detection efficiency: 0.0014771
+
+### Run 517	2022-05-04 00:35:21	### Run Time: 23.6112
+Total count: 1e+07
+Source position : (0,235,0)
+Source energy: 0.39169
+Detection efficiency: 0.00139425
+
+### Run 518	2022-05-04 00:35:45	### Run Time: 23.6034
+Total count: 1e+07
+Source position : (0,240,0)
+Source energy: 0.39169
+Detection efficiency: 0.0013601
+
+### Run 519	2022-05-04 00:36:08	### Run Time: 23.5434
+Total count: 1e+07
+Source position : (0,245,0)
+Source energy: 0.39169
+Detection efficiency: 0.0013117
+
+### Run 520	2022-05-04 00:36:32	### Run Time: 23.6438
+Total count: 1e+07
+Source position : (0,250,0)
+Source energy: 0.39169
+Detection efficiency: 0.00127375
+
+### Run 521	2022-05-04 00:36:56	### Run Time: 23.5585
+Total count: 1e+07
+Source position : (0,255,0)
+Source energy: 0.39169
+Detection efficiency: 0.00123105
+
+### Run 522	2022-05-04 00:37:19	### Run Time: 23.5721
+Total count: 1e+07
+Source position : (0,260,0)
+Source energy: 0.39169
+Detection efficiency: 0.00116635
+
+### Run 523	2022-05-04 00:37:43	### Run Time: 23.3943
+Total count: 1e+07
+Source position : (0,265,0)
+Source energy: 0.39169
+Detection efficiency: 0.00112545
+
+### Run 524	2022-05-04 00:38:06	### Run Time: 23.6217
+Total count: 1e+07
+Source position : (0,270,0)
+Source energy: 0.39169
+Detection efficiency: 0.00109145
+
+### Run 525	2022-05-04 00:38:30	### Run Time: 23.6461
+Total count: 1e+07
+Source position : (0,275,0)
+Source energy: 0.39169
+Detection efficiency: 0.0010525
+
+### Run 526	2022-05-04 00:38:53	### Run Time: 23.5735
+Total count: 1e+07
+Source position : (0,280,0)
+Source energy: 0.39169
+Detection efficiency: 0.00101535
+
+### Run 527	2022-05-04 00:39:17	### Run Time: 23.4228
+Total count: 1e+07
+Source position : (0,285,0)
+Source energy: 0.39169
+Detection efficiency: 0.00098825
+
+### Run 528	2022-05-04 00:39:40	### Run Time: 23.5548
+Total count: 1e+07
+Source position : (0,290,0)
+Source energy: 0.39169
+Detection efficiency: 0.0009574
+
+### Run 529	2022-05-04 00:40:04	### Run Time: 23.5706
+Total count: 1e+07
+Source position : (0,295,0)
+Source energy: 0.39169
+Detection efficiency: 0.00092325
+
+### Run 530	2022-05-04 00:40:27	### Run Time: 23.4408
+Total count: 1e+07
+Source position : (0,300,0)
+Source energy: 0.39169
+Detection efficiency: 0.0009057
+
+### Run 531	2022-05-04 00:40:51	### Run Time: 23.9231
+Total count: 1e+07
+Source position : (0,305,0)
+Source energy: 0.39169
+Detection efficiency: 0.0008828
+
+### Run 532	2022-05-04 00:41:16	### Run Time: 24.3025
+Total count: 1e+07
+Source position : (0,310,0)
+Source energy: 0.39169
+Detection efficiency: 0.00085635
+
+### Run 533	2022-05-04 00:41:40	### Run Time: 23.9821
+Total count: 1e+07
+Source position : (0,315,0)
+Source energy: 0.39169
+Detection efficiency: 0.00081815
+
+### Run 534	2022-05-04 00:42:03	### Run Time: 23.4302
+Total count: 1e+07
+Source position : (0,320,0)
+Source energy: 0.39169
+Detection efficiency: 0.0008051
+
+### Run 535	2022-05-04 00:42:27	### Run Time: 23.5775
+Total count: 1e+07
+Source position : (0,325,0)
+Source energy: 0.39169
+Detection efficiency: 0.00077565
+
+### Run 536	2022-05-04 00:42:50	### Run Time: 23.623
+Total count: 1e+07
+Source position : (0,330,0)
+Source energy: 0.39169
+Detection efficiency: 0.00074965
+
+### Run 537	2022-05-04 00:43:14	### Run Time: 23.4925
+Total count: 1e+07
+Source position : (0,335,0)
+Source energy: 0.39169
+Detection efficiency: 0.00074835
+
+### Run 538	2022-05-04 00:43:37	### Run Time: 23.4057
+Total count: 1e+07
+Source position : (0,340,0)
+Source energy: 0.39169
+Detection efficiency: 0.0007193
+
+### Run 539	2022-05-04 00:44:01	### Run Time: 23.6012
+Total count: 1e+07
+Source position : (0,345,0)
+Source energy: 0.39169
+Detection efficiency: 0.00069295
+
+### Run 540	2022-05-04 00:44:24	### Run Time: 23.672
+Total count: 1e+07
+Source position : (0,350,0)
+Source energy: 0.39169
+Detection efficiency: 0.0006846
+
+### Run 541	2022-05-04 00:44:48	### Run Time: 23.4259
+Total count: 1e+07
+Source position : (0,355,0)
+Source energy: 0.39169
+Detection efficiency: 0.00066725
+
+### Run 542	2022-05-04 00:45:11	### Run Time: 23.4941
+Total count: 1e+07
+Source position : (0,360,0)
+Source energy: 0.39169
+Detection efficiency: 0.00064165
+
+### Run 543	2022-05-04 00:45:35	### Run Time: 23.7035
+Total count: 1e+07
+Source position : (0,365,0)
+Source energy: 0.39169
+Detection efficiency: 0.0006254
+
+### Run 544	2022-05-04 00:45:59	### Run Time: 23.5168
+Total count: 1e+07
+Source position : (0,370,0)
+Source energy: 0.39169
+Detection efficiency: 0.0006152
+
+### Run 545	2022-05-04 00:46:22	### Run Time: 23.4681
+Total count: 1e+07
+Source position : (0,375,0)
+Source energy: 0.39169
+Detection efficiency: 0.00058805
+
+### Run 546	2022-05-04 00:46:46	### Run Time: 23.5645
+Total count: 1e+07
+Source position : (0,380,0)
+Source energy: 0.39169
+Detection efficiency: 0.00057675
+
+### Run 547	2022-05-04 00:47:09	### Run Time: 23.5744
+Total count: 1e+07
+Source position : (0,385,0)
+Source energy: 0.39169
+Detection efficiency: 0.00056595
+
+### Run 548	2022-05-04 00:47:33	### Run Time: 23.4321
+Total count: 1e+07
+Source position : (0,390,0)
+Source energy: 0.39169
+Detection efficiency: 0.0005482
+
+### Run 549	2022-05-04 00:47:56	### Run Time: 23.5205
+Total count: 1e+07
+Source position : (0,395,0)
+Source energy: 0.39169
+Detection efficiency: 0.0005376
+
+### Run 550	2022-05-04 00:48:20	### Run Time: 23.6528
+Total count: 1e+07
+Source position : (0,400,0)
+Source energy: 0.39169
+Detection efficiency: 0.00052445
+
+### Run 551	2022-05-04 00:48:43	### Run Time: 23.4392
+Total count: 1e+07
+Source position : (0,405,0)
+Source energy: 0.39169
+Detection efficiency: 0.00050475
+
+### Run 552	2022-05-04 00:49:07	### Run Time: 23.6958
+Total count: 1e+07
+Source position : (0,410,0)
+Source energy: 0.39169
+Detection efficiency: 0.0005035
+
+### Run 553	2022-05-04 00:49:31	### Run Time: 23.5558
+Total count: 1e+07
+Source position : (0,415,0)
+Source energy: 0.39169
+Detection efficiency: 0.0004902
+
+### Run 554	2022-05-04 00:49:54	### Run Time: 23.3591
+Total count: 1e+07
+Source position : (0,420,0)
+Source energy: 0.39169
+Detection efficiency: 0.00047665
+
+### Run 555	2022-05-04 00:50:17	### Run Time: 23.5642
+Total count: 1e+07
+Source position : (0,425,0)
+Source energy: 0.39169
+Detection efficiency: 0.00046815
+
+### Run 556	2022-05-04 00:50:41	### Run Time: 23.5916
+Total count: 1e+07
+Source position : (0,430,0)
+Source energy: 0.39169
+Detection efficiency: 0.0004622
+
+### Run 557	2022-05-04 00:51:05	### Run Time: 23.4946
+Total count: 1e+07
+Source position : (0,435,0)
+Source energy: 0.39169
+Detection efficiency: 0.000448
+
+### Run 558	2022-05-04 00:51:28	### Run Time: 23.4318
+Total count: 1e+07
+Source position : (0,440,0)
+Source energy: 0.39169
+Detection efficiency: 0.000437
+
+### Run 559	2022-05-04 00:51:52	### Run Time: 23.7003
+Total count: 1e+07
+Source position : (0,445,0)
+Source energy: 0.39169
+Detection efficiency: 0.0004253
+
+### Run 560	2022-05-04 00:52:15	### Run Time: 23.6163
+Total count: 1e+07
+Source position : (0,450,0)
+Source energy: 0.39169
+Detection efficiency: 0.0004235
+
+### Run 561	2022-05-04 00:52:39	### Run Time: 23.4424
+Total count: 1e+07
+Source position : (0,455,0)
+Source energy: 0.39169
+Detection efficiency: 0.00040725
+
+### Run 562	2022-05-04 00:53:02	### Run Time: 23.4986
+Total count: 1e+07
+Source position : (0,460,0)
+Source energy: 0.39169
+Detection efficiency: 0.00040075
+
+### Run 563	2022-05-04 00:53:26	### Run Time: 23.5651
+Total count: 1e+07
+Source position : (0,465,0)
+Source energy: 0.39169
+Detection efficiency: 0.00038425
+
+### Run 564	2022-05-04 00:53:49	### Run Time: 23.5481
+Total count: 1e+07
+Source position : (0,470,0)
+Source energy: 0.39169
+Detection efficiency: 0.000394
+
+### Run 565	2022-05-04 00:54:13	### Run Time: 23.3695
+Total count: 1e+07
+Source position : (0,475,0)
+Source energy: 0.39169
+Detection efficiency: 0.0003785
+
+### Run 566	2022-05-04 00:54:36	### Run Time: 23.5683
+Total count: 1e+07
+Source position : (0,480,0)
+Source energy: 0.39169
+Detection efficiency: 0.0003717
+
+### Run 567	2022-05-04 00:55:00	### Run Time: 23.5658
+Total count: 1e+07
+Source position : (0,485,0)
+Source energy: 0.39169
+Detection efficiency: 0.00036315
+
+### Run 568	2022-05-04 00:55:23	### Run Time: 23.528
+Total count: 1e+07
+Source position : (0,490,0)
+Source energy: 0.39169
+Detection efficiency: 0.0003526
+
+### Run 569	2022-05-04 00:55:47	### Run Time: 23.5447
+Total count: 1e+07
+Source position : (0,495,0)
+Source energy: 0.39169
+Detection efficiency: 0.0003529
+
+### Run 570	2022-05-04 00:56:11	### Run Time: 23.5884
+Total count: 1e+07
+Source position : (0,500,0)
+Source energy: 0.39169
+Detection efficiency: 0.0003451
+
+### Run 571	2022-05-04 00:56:34	### Run Time: 23.5237
+Total count: 1e+07
+Source position : (0,505,0)
+Source energy: 0.39169
+Detection efficiency: 0.00033025
+
+### Run 572	2022-05-04 00:56:58	### Run Time: 23.6564
+Total count: 1e+07
+Source position : (0,510,0)
+Source energy: 0.39169
+Detection efficiency: 0.0003337
+
+### Run 573	2022-05-04 00:57:21	### Run Time: 23.5308
+Total count: 1e+07
+Source position : (0,515,0)
+Source energy: 0.39169
+Detection efficiency: 0.00033165
+
+### Run 574	2022-05-04 00:57:45	### Run Time: 23.5877
+Total count: 1e+07
+Source position : (0,520,0)
+Source energy: 0.39169
+Detection efficiency: 0.00031045
+
+### Run 575	2022-05-04 00:58:08	### Run Time: 23.5213
+Total count: 1e+07
+Source position : (0,525,0)
+Source energy: 0.39169
+Detection efficiency: 0.00031185
+
+### Run 576	2022-05-04 00:58:32	### Run Time: 23.4075
+Total count: 1e+07
+Source position : (0,530,0)
+Source energy: 0.39169
+Detection efficiency: 0.0003074
+
+### Run 577	2022-05-04 00:58:55	### Run Time: 23.5748
+Total count: 1e+07
+Source position : (0,535,0)
+Source energy: 0.39169
+Detection efficiency: 0.0003033
+
+### Run 578	2022-05-04 00:59:19	### Run Time: 23.6989
+Total count: 1e+07
+Source position : (0,540,0)
+Source energy: 0.39169
+Detection efficiency: 0.00029985
+
+### Run 579	2022-05-04 00:59:42	### Run Time: 23.4366
+Total count: 1e+07
+Source position : (0,545,0)
+Source energy: 0.39169
+Detection efficiency: 0.00028915
+
+### Run 580	2022-05-04 01:00:06	### Run Time: 23.4676
+Total count: 1e+07
+Source position : (0,550,0)
+Source energy: 0.39169
+Detection efficiency: 0.00028765
+
+### Run 581	2022-05-04 01:00:30	### Run Time: 23.594
+Total count: 1e+07
+Source position : (0,555,0)
+Source energy: 0.39169
+Detection efficiency: 0.0002778
+
+### Run 582	2022-05-04 01:00:53	### Run Time: 23.5327
+Total count: 1e+07
+Source position : (0,560,0)
+Source energy: 0.39169
+Detection efficiency: 0.0002704
+
+### Run 583	2022-05-04 01:01:16	### Run Time: 23.3779
+Total count: 1e+07
+Source position : (0,565,0)
+Source energy: 0.39169
+Detection efficiency: 0.00027525
+
+### Run 584	2022-05-04 01:01:40	### Run Time: 23.6273
+Total count: 1e+07
+Source position : (0,570,0)
+Source energy: 0.39169
+Detection efficiency: 0.000258
+
+### Run 585	2022-05-04 01:02:03	### Run Time: 23.3373
+Total count: 1e+07
+Source position : (0,575,0)
+Source energy: 0.39169
+Detection efficiency: 0.00026685
+
+### Run 586	2022-05-04 01:02:27	### Run Time: 23.8097
+Total count: 1e+07
+Source position : (0,580,0)
+Source energy: 0.39169
+Detection efficiency: 0.0002591
+
+### Run 587	2022-05-04 01:02:51	### Run Time: 23.3882
+Total count: 1e+07
+Source position : (0,585,0)
+Source energy: 0.39169
+Detection efficiency: 0.00025355
+
+### Run 588	2022-05-04 01:03:14	### Run Time: 23.3232
+Total count: 1e+07
+Source position : (0,590,0)
+Source energy: 0.39169
+Detection efficiency: 0.0002556
+
+### Run 589	2022-05-04 01:03:38	### Run Time: 23.6817
+Total count: 1e+07
+Source position : (0,595,0)
+Source energy: 0.39169
+Detection efficiency: 0.0002466
+
+### Run 590	2022-05-04 01:04:01	### Run Time: 23.5088
+Total count: 1e+07
+Source position : (0,600,0)
+Source energy: 0.39169
+Detection efficiency: 0.00024025
+
+### Run 591	2022-05-04 01:04:25	### Run Time: 23.5442
+Total count: 1e+07
+Source position : (0,605,0)
+Source energy: 0.39169
+Detection efficiency: 0.0002369
+
+### Run 592	2022-05-04 01:04:48	### Run Time: 23.5616
+Total count: 1e+07
+Source position : (0,610,0)
+Source energy: 0.39169
+Detection efficiency: 0.0002378
+
+### Run 593	2022-05-04 01:05:12	### Run Time: 23.3626
+Total count: 1e+07
+Source position : (0,615,0)
+Source energy: 0.39169
+Detection efficiency: 0.00023125
+
+### Run 594	2022-05-04 01:05:35	### Run Time: 23.3398
+Total count: 1e+07
+Source position : (0,620,0)
+Source energy: 0.39169
+Detection efficiency: 0.0002234
+
+### Run 595	2022-05-04 01:05:59	### Run Time: 23.8807
+Total count: 1e+07
+Source position : (0,625,0)
+Source energy: 0.39169
+Detection efficiency: 0.0002317
+
+### Run 596	2022-05-04 01:06:22	### Run Time: 23.6285
+Total count: 1e+07
+Source position : (0,630,0)
+Source energy: 0.39169
+Detection efficiency: 0.0002197
+
+### Run 597	2022-05-04 01:06:46	### Run Time: 23.4765
+Total count: 1e+07
+Source position : (0,635,0)
+Source energy: 0.39169
+Detection efficiency: 0.0002189
+
+### Run 598	2022-05-04 01:07:09	### Run Time: 23.436
+Total count: 1e+07
+Source position : (0,640,0)
+Source energy: 0.39169
+Detection efficiency: 0.0002135
+
+### Run 599	2022-05-04 01:07:33	### Run Time: 23.5578
+Total count: 1e+07
+Source position : (0,645,0)
+Source energy: 0.39169
+Detection efficiency: 0.00021645
+
+### Run 600	2022-05-04 01:07:57	### Run Time: 23.7656
+Total count: 1e+07
+Source position : (0,150,0)
+Source energy: 0.6617
+Detection efficiency: 0.0020459
+
+### Run 601	2022-05-04 01:08:20	### Run Time: 23.6571
+Total count: 1e+07
+Source position : (0,155,0)
+Source energy: 0.6617
+Detection efficiency: 0.0019213
+
+### Run 602	2022-05-04 01:08:44	### Run Time: 23.7887
+Total count: 1e+07
+Source position : (0,160,0)
+Source energy: 0.6617
+Detection efficiency: 0.0018069
+
+### Run 603	2022-05-04 01:09:08	### Run Time: 23.7638
+Total count: 1e+07
+Source position : (0,165,0)
+Source energy: 0.6617
+Detection efficiency: 0.00172735
+
+### Run 604	2022-05-04 01:09:32	### Run Time: 23.7234
+Total count: 1e+07
+Source position : (0,170,0)
+Source energy: 0.6617
+Detection efficiency: 0.00161565
+
+### Run 605	2022-05-04 01:09:55	### Run Time: 23.6597
+Total count: 1e+07
+Source position : (0,175,0)
+Source energy: 0.6617
+Detection efficiency: 0.00155005
+
+### Run 606	2022-05-04 01:10:19	### Run Time: 23.8169
+Total count: 1e+07
+Source position : (0,180,0)
+Source energy: 0.6617
+Detection efficiency: 0.00149255
+
+### Run 607	2022-05-04 01:10:43	### Run Time: 23.6968
+Total count: 1e+07
+Source position : (0,185,0)
+Source energy: 0.6617
+Detection efficiency: 0.00140575
+
+### Run 608	2022-05-04 01:11:06	### Run Time: 23.6464
+Total count: 1e+07
+Source position : (0,190,0)
+Source energy: 0.6617
+Detection efficiency: 0.0013296
+
+### Run 609	2022-05-04 01:11:30	### Run Time: 23.6932
+Total count: 1e+07
+Source position : (0,195,0)
+Source energy: 0.6617
+Detection efficiency: 0.0012819
+
+### Run 610	2022-05-04 01:11:54	### Run Time: 23.7305
+Total count: 1e+07
+Source position : (0,200,0)
+Source energy: 0.6617
+Detection efficiency: 0.00123765
+
+### Run 611	2022-05-04 01:12:18	### Run Time: 23.666
+Total count: 1e+07
+Source position : (0,205,0)
+Source energy: 0.6617
+Detection efficiency: 0.00117015
+
+### Run 612	2022-05-04 01:12:41	### Run Time: 23.7245
+Total count: 1e+07
+Source position : (0,210,0)
+Source energy: 0.6617
+Detection efficiency: 0.00113875
+
+### Run 613	2022-05-04 01:13:05	### Run Time: 23.7433
+Total count: 1e+07
+Source position : (0,215,0)
+Source energy: 0.6617
+Detection efficiency: 0.0010851
+
+### Run 614	2022-05-04 01:13:29	### Run Time: 23.7855
+Total count: 1e+07
+Source position : (0,220,0)
+Source energy: 0.6617
+Detection efficiency: 0.0010302
+
+### Run 615	2022-05-04 01:13:52	### Run Time: 23.6612
+Total count: 1e+07
+Source position : (0,225,0)
+Source energy: 0.6617
+Detection efficiency: 0.0009928
+
+### Run 616	2022-05-04 01:14:16	### Run Time: 23.5216
+Total count: 1e+07
+Source position : (0,230,0)
+Source energy: 0.6617
+Detection efficiency: 0.00094935
+
+### Run 617	2022-05-04 01:14:40	### Run Time: 23.8039
+Total count: 1e+07
+Source position : (0,235,0)
+Source energy: 0.6617
+Detection efficiency: 0.00092195
+
+### Run 618	2022-05-04 01:15:03	### Run Time: 23.7041
+Total count: 1e+07
+Source position : (0,240,0)
+Source energy: 0.6617
+Detection efficiency: 0.0008886
+
+### Run 619	2022-05-04 01:15:27	### Run Time: 23.626
+Total count: 1e+07
+Source position : (0,245,0)
+Source energy: 0.6617
+Detection efficiency: 0.00084805
+
+### Run 620	2022-05-04 01:15:51	### Run Time: 23.6006
+Total count: 1e+07
+Source position : (0,250,0)
+Source energy: 0.6617
+Detection efficiency: 0.00082035
+
+### Run 621	2022-05-04 01:16:14	### Run Time: 23.6424
+Total count: 1e+07
+Source position : (0,255,0)
+Source energy: 0.6617
+Detection efficiency: 0.00079005
+
+### Run 622	2022-05-04 01:16:38	### Run Time: 23.5834
+Total count: 1e+07
+Source position : (0,260,0)
+Source energy: 0.6617
+Detection efficiency: 0.0007594
+
+### Run 623	2022-05-04 01:17:01	### Run Time: 23.542
+Total count: 1e+07
+Source position : (0,265,0)
+Source energy: 0.6617
+Detection efficiency: 0.000728
+
+### Run 624	2022-05-04 01:17:25	### Run Time: 23.6848
+Total count: 1e+07
+Source position : (0,270,0)
+Source energy: 0.6617
+Detection efficiency: 0.00070695
+
+### Run 625	2022-05-04 01:17:49	### Run Time: 23.6287
+Total count: 1e+07
+Source position : (0,275,0)
+Source energy: 0.6617
+Detection efficiency: 0.0006947
+
+### Run 626	2022-05-04 01:18:13	### Run Time: 23.7549
+Total count: 1e+07
+Source position : (0,280,0)
+Source energy: 0.6617
+Detection efficiency: 0.00067125
+
+### Run 627	2022-05-04 01:18:36	### Run Time: 23.4552
+Total count: 1e+07
+Source position : (0,285,0)
+Source energy: 0.6617
+Detection efficiency: 0.00063335
+
+### Run 628	2022-05-04 01:19:00	### Run Time: 23.6458
+Total count: 1e+07
+Source position : (0,290,0)
+Source energy: 0.6617
+Detection efficiency: 0.00063385
+
+### Run 629	2022-05-04 01:19:23	### Run Time: 23.6407
+Total count: 1e+07
+Source position : (0,295,0)
+Source energy: 0.6617
+Detection efficiency: 0.00060235
+
+### Run 630	2022-05-04 01:19:47	### Run Time: 23.5666
+Total count: 1e+07
+Source position : (0,300,0)
+Source energy: 0.6617
+Detection efficiency: 0.0005931
+
+### Run 631	2022-05-04 01:20:10	### Run Time: 23.5319
+Total count: 1e+07
+Source position : (0,305,0)
+Source energy: 0.6617
+Detection efficiency: 0.00056425
+
+### Run 632	2022-05-04 01:20:34	### Run Time: 23.6393
+Total count: 1e+07
+Source position : (0,310,0)
+Source energy: 0.6617
+Detection efficiency: 0.00054915
+
+### Run 633	2022-05-04 01:20:58	### Run Time: 23.5804
+Total count: 1e+07
+Source position : (0,315,0)
+Source energy: 0.6617
+Detection efficiency: 0.000527
+
+### Run 634	2022-05-04 01:21:21	### Run Time: 23.4867
+Total count: 1e+07
+Source position : (0,320,0)
+Source energy: 0.6617
+Detection efficiency: 0.0005263
+
+### Run 635	2022-05-04 01:21:45	### Run Time: 23.608
+Total count: 1e+07
+Source position : (0,325,0)
+Source energy: 0.6617
+Detection efficiency: 0.00050745
+
+### Run 636	2022-05-04 01:22:08	### Run Time: 23.5416
+Total count: 1e+07
+Source position : (0,330,0)
+Source energy: 0.6617
+Detection efficiency: 0.0004981
+
+### Run 637	2022-05-04 01:22:32	### Run Time: 23.6289
+Total count: 1e+07
+Source position : (0,335,0)
+Source energy: 0.6617
+Detection efficiency: 0.00047625
+
+### Run 638	2022-05-04 01:22:55	### Run Time: 23.4638
+Total count: 1e+07
+Source position : (0,340,0)
+Source energy: 0.6617
+Detection efficiency: 0.0004639
+
+### Run 639	2022-05-04 01:23:19	### Run Time: 23.5943
+Total count: 1e+07
+Source position : (0,345,0)
+Source energy: 0.6617
+Detection efficiency: 0.000448
+
+### Run 640	2022-05-04 01:23:43	### Run Time: 23.6067
+Total count: 1e+07
+Source position : (0,350,0)
+Source energy: 0.6617
+Detection efficiency: 0.0004392
+
+### Run 641	2022-05-04 01:24:06	### Run Time: 23.5312
+Total count: 1e+07
+Source position : (0,355,0)
+Source energy: 0.6617
+Detection efficiency: 0.0004252
+
+### Run 642	2022-05-04 01:24:30	### Run Time: 23.5872
+Total count: 1e+07
+Source position : (0,360,0)
+Source energy: 0.6617
+Detection efficiency: 0.00041495
+
+### Run 643	2022-05-04 01:24:53	### Run Time: 23.6383
+Total count: 1e+07
+Source position : (0,365,0)
+Source energy: 0.6617
+Detection efficiency: 0.0004094
+
+### Run 644	2022-05-04 01:25:17	### Run Time: 23.6102
+Total count: 1e+07
+Source position : (0,370,0)
+Source energy: 0.6617
+Detection efficiency: 0.0003954
+
+### Run 645	2022-05-04 01:25:40	### Run Time: 23.455
+Total count: 1e+07
+Source position : (0,375,0)
+Source energy: 0.6617
+Detection efficiency: 0.00038825
+
+### Run 646	2022-05-04 01:26:04	### Run Time: 23.5899
+Total count: 1e+07
+Source position : (0,380,0)
+Source energy: 0.6617
+Detection efficiency: 0.00037745
+
+### Run 647	2022-05-04 01:26:28	### Run Time: 23.5769
+Total count: 1e+07
+Source position : (0,385,0)
+Source energy: 0.6617
+Detection efficiency: 0.0003707
+
+### Run 648	2022-05-04 01:26:51	### Run Time: 23.5762
+Total count: 1e+07
+Source position : (0,390,0)
+Source energy: 0.6617
+Detection efficiency: 0.00035305
+
+### Run 649	2022-05-04 01:27:15	### Run Time: 23.5268
+Total count: 1e+07
+Source position : (0,395,0)
+Source energy: 0.6617
+Detection efficiency: 0.0003439
+
+### Run 650	2022-05-04 01:27:38	### Run Time: 23.6521
+Total count: 1e+07
+Source position : (0,400,0)
+Source energy: 0.6617
+Detection efficiency: 0.0003363
+
+### Run 651	2022-05-04 01:28:02	### Run Time: 23.6898
+Total count: 1e+07
+Source position : (0,405,0)
+Source energy: 0.6617
+Detection efficiency: 0.0003349
+
+### Run 652	2022-05-04 01:28:25	### Run Time: 23.5084
+Total count: 1e+07
+Source position : (0,410,0)
+Source energy: 0.6617
+Detection efficiency: 0.00032395
+
+### Run 653	2022-05-04 01:28:49	### Run Time: 23.6613
+Total count: 1e+07
+Source position : (0,415,0)
+Source energy: 0.6617
+Detection efficiency: 0.00031695
+
+### Run 654	2022-05-04 01:29:13	### Run Time: 23.6215
+Total count: 1e+07
+Source position : (0,420,0)
+Source energy: 0.6617
+Detection efficiency: 0.00031575
+
+### Run 655	2022-05-04 01:29:36	### Run Time: 23.5916
+Total count: 1e+07
+Source position : (0,425,0)
+Source energy: 0.6617
+Detection efficiency: 0.0003035
+
+### Run 656	2022-05-04 01:30:00	### Run Time: 23.4679
+Total count: 1e+07
+Source position : (0,430,0)
+Source energy: 0.6617
+Detection efficiency: 0.00029715
+
+### Run 657	2022-05-04 01:30:23	### Run Time: 23.5956
+Total count: 1e+07
+Source position : (0,435,0)
+Source energy: 0.6617
+Detection efficiency: 0.00028995
+
+### Run 658	2022-05-04 01:30:47	### Run Time: 23.5751
+Total count: 1e+07
+Source position : (0,440,0)
+Source energy: 0.6617
+Detection efficiency: 0.00028285
+
+### Run 659	2022-05-04 01:31:11	### Run Time: 23.5476
+Total count: 1e+07
+Source position : (0,445,0)
+Source energy: 0.6617
+Detection efficiency: 0.0002803
+
+### Run 660	2022-05-04 01:31:34	### Run Time: 23.4803
+Total count: 1e+07
+Source position : (0,450,0)
+Source energy: 0.6617
+Detection efficiency: 0.00027015
+
+### Run 661	2022-05-04 01:31:58	### Run Time: 23.6071
+Total count: 1e+07
+Source position : (0,455,0)
+Source energy: 0.6617
+Detection efficiency: 0.0002652
+
+### Run 662	2022-05-04 01:32:21	### Run Time: 23.5889
+Total count: 1e+07
+Source position : (0,460,0)
+Source energy: 0.6617
+Detection efficiency: 0.000262
+
+### Run 663	2022-05-04 01:32:45	### Run Time: 23.4254
+Total count: 1e+07
+Source position : (0,465,0)
+Source energy: 0.6617
+Detection efficiency: 0.0002585
+
+### Run 664	2022-05-04 01:33:08	### Run Time: 23.6016
+Total count: 1e+07
+Source position : (0,470,0)
+Source energy: 0.6617
+Detection efficiency: 0.0002474
+
+### Run 665	2022-05-04 01:33:32	### Run Time: 23.5726
+Total count: 1e+07
+Source position : (0,475,0)
+Source energy: 0.6617
+Detection efficiency: 0.00024805
+
+### Run 666	2022-05-04 01:33:55	### Run Time: 23.5088
+Total count: 1e+07
+Source position : (0,480,0)
+Source energy: 0.6617
+Detection efficiency: 0.00024095
+
+### Run 667	2022-05-04 01:34:19	### Run Time: 23.3939
+Total count: 1e+07
+Source position : (0,485,0)
+Source energy: 0.6617
+Detection efficiency: 0.0002406
+
+### Run 668	2022-05-04 01:34:42	### Run Time: 23.5921
+Total count: 1e+07
+Source position : (0,490,0)
+Source energy: 0.6617
+Detection efficiency: 0.00023695
+
+### Run 669	2022-05-04 01:35:06	### Run Time: 23.5447
+Total count: 1e+07
+Source position : (0,495,0)
+Source energy: 0.6617
+Detection efficiency: 0.00023165
+
+### Run 670	2022-05-04 01:35:29	### Run Time: 23.5964
+Total count: 1e+07
+Source position : (0,500,0)
+Source energy: 0.6617
+Detection efficiency: 0.00022225
+
+### Run 671	2022-05-04 01:35:53	### Run Time: 23.5467
+Total count: 1e+07
+Source position : (0,505,0)
+Source energy: 0.6617
+Detection efficiency: 0.00021955
+
+### Run 672	2022-05-04 01:36:17	### Run Time: 23.5923
+Total count: 1e+07
+Source position : (0,510,0)
+Source energy: 0.6617
+Detection efficiency: 0.0002164
+
+### Run 673	2022-05-04 01:36:40	### Run Time: 23.5526
+Total count: 1e+07
+Source position : (0,515,0)
+Source energy: 0.6617
+Detection efficiency: 0.00020935
+
+### Run 674	2022-05-04 01:37:04	### Run Time: 23.4222
+Total count: 1e+07
+Source position : (0,520,0)
+Source energy: 0.6617
+Detection efficiency: 0.00020825
+
+### Run 675	2022-05-04 01:37:27	### Run Time: 23.5878
+Total count: 1e+07
+Source position : (0,525,0)
+Source energy: 0.6617
+Detection efficiency: 0.0001999
+
+### Run 676	2022-05-04 01:37:51	### Run Time: 23.5954
+Total count: 1e+07
+Source position : (0,530,0)
+Source energy: 0.6617
+Detection efficiency: 0.000204
+
+### Run 677	2022-05-04 01:38:14	### Run Time: 23.5749
+Total count: 1e+07
+Source position : (0,535,0)
+Source energy: 0.6617
+Detection efficiency: 0.0001973
+
+### Run 678	2022-05-04 01:38:38	### Run Time: 23.4263
+Total count: 1e+07
+Source position : (0,540,0)
+Source energy: 0.6617
+Detection efficiency: 0.000191
+
+### Run 679	2022-05-04 01:39:01	### Run Time: 23.5793
+Total count: 1e+07
+Source position : (0,545,0)
+Source energy: 0.6617
+Detection efficiency: 0.00018935
+
+### Run 680	2022-05-04 01:39:25	### Run Time: 23.6075
+Total count: 1e+07
+Source position : (0,550,0)
+Source energy: 0.6617
+Detection efficiency: 0.00018845
+
+### Run 681	2022-05-04 01:39:48	### Run Time: 23.4501
+Total count: 1e+07
+Source position : (0,555,0)
+Source energy: 0.6617
+Detection efficiency: 0.0001815
+
+### Run 682	2022-05-04 01:40:12	### Run Time: 23.5724
+Total count: 1e+07
+Source position : (0,560,0)
+Source energy: 0.6617
+Detection efficiency: 0.00017815
+
+### Run 683	2022-05-04 01:40:36	### Run Time: 23.5528
+Total count: 1e+07
+Source position : (0,565,0)
+Source energy: 0.6617
+Detection efficiency: 0.0001782
+
+### Run 684	2022-05-04 01:40:59	### Run Time: 23.5613
+Total count: 1e+07
+Source position : (0,570,0)
+Source energy: 0.6617
+Detection efficiency: 0.00017155
+
+### Run 685	2022-05-04 01:41:22	### Run Time: 23.4185
+Total count: 1e+07
+Source position : (0,575,0)
+Source energy: 0.6617
+Detection efficiency: 0.000171
+
+### Run 686	2022-05-04 01:41:46	### Run Time: 23.5815
+Total count: 1e+07
+Source position : (0,580,0)
+Source energy: 0.6617
+Detection efficiency: 0.00016695
+
+### Run 687	2022-05-04 01:42:10	### Run Time: 23.5532
+Total count: 1e+07
+Source position : (0,585,0)
+Source energy: 0.6617
+Detection efficiency: 0.00016175
+
+### Run 688	2022-05-04 01:42:33	### Run Time: 23.6678
+Total count: 1e+07
+Source position : (0,590,0)
+Source energy: 0.6617
+Detection efficiency: 0.00015965
+
+### Run 689	2022-05-04 01:42:57	### Run Time: 23.4897
+Total count: 1e+07
+Source position : (0,595,0)
+Source energy: 0.6617
+Detection efficiency: 0.00015945
+
+### Run 690	2022-05-04 01:43:20	### Run Time: 23.6833
+Total count: 1e+07
+Source position : (0,600,0)
+Source energy: 0.6617
+Detection efficiency: 0.00016245
+
+### Run 691	2022-05-04 01:43:44	### Run Time: 23.5989
+Total count: 1e+07
+Source position : (0,605,0)
+Source energy: 0.6617
+Detection efficiency: 0.00015055
+
+### Run 692	2022-05-04 01:44:08	### Run Time: 23.4493
+Total count: 1e+07
+Source position : (0,610,0)
+Source energy: 0.6617
+Detection efficiency: 0.000156
+
+### Run 693	2022-05-04 01:44:31	### Run Time: 23.5752
+Total count: 1e+07
+Source position : (0,615,0)
+Source energy: 0.6617
+Detection efficiency: 0.00014765
+
+### Run 694	2022-05-04 01:44:55	### Run Time: 23.668
+Total count: 1e+07
+Source position : (0,620,0)
+Source energy: 0.6617
+Detection efficiency: 0.00014485
+
+### Run 695	2022-05-04 01:45:18	### Run Time: 23.559
+Total count: 1e+07
+Source position : (0,625,0)
+Source energy: 0.6617
+Detection efficiency: 0.0001434
+
+### Run 696	2022-05-04 01:45:42	### Run Time: 23.5198
+Total count: 1e+07
+Source position : (0,630,0)
+Source energy: 0.6617
+Detection efficiency: 0.0001454
+
+### Run 697	2022-05-04 01:46:05	### Run Time: 23.6122
+Total count: 1e+07
+Source position : (0,635,0)
+Source energy: 0.6617
+Detection efficiency: 0.0001425
+
+### Run 698	2022-05-04 01:46:29	### Run Time: 23.6882
+Total count: 1e+07
+Source position : (0,640,0)
+Source energy: 0.6617
+Detection efficiency: 0.0001351
+
+### Run 699	2022-05-04 01:46:53	### Run Time: 23.555
+Total count: 1e+07
+Source position : (0,645,0)
+Source energy: 0.6617
+Detection efficiency: 0.0001429
+
+### Run 700	2022-05-04 01:47:16	### Run Time: 23.7624
+Total count: 1e+07
+Source position : (0,150,0)
+Source energy: 0.89806
+Detection efficiency: 0.00159245
+
+### Run 701	2022-05-04 01:47:40	### Run Time: 23.863
+Total count: 1e+07
+Source position : (0,155,0)
+Source energy: 0.89806
+Detection efficiency: 0.00151335
+
+### Run 702	2022-05-04 01:48:04	### Run Time: 23.7885
+Total count: 1e+07
+Source position : (0,160,0)
+Source energy: 0.89806
+Detection efficiency: 0.0014324
+
+### Run 703	2022-05-04 01:48:28	### Run Time: 23.7689
+Total count: 1e+07
+Source position : (0,165,0)
+Source energy: 0.89806
+Detection efficiency: 0.0013589
+
+### Run 704	2022-05-04 01:48:52	### Run Time: 23.7274
+Total count: 1e+07
+Source position : (0,170,0)
+Source energy: 0.89806
+Detection efficiency: 0.00127625
+
+### Run 705	2022-05-04 01:49:15	### Run Time: 23.7815
+Total count: 1e+07
+Source position : (0,175,0)
+Source energy: 0.89806
+Detection efficiency: 0.00122805
+
+### Run 706	2022-05-04 01:49:39	### Run Time: 23.7039
+Total count: 1e+07
+Source position : (0,180,0)
+Source energy: 0.89806
+Detection efficiency: 0.0011621
+
+### Run 707	2022-05-04 01:50:03	### Run Time: 24.3095
+Total count: 1e+07
+Source position : (0,185,0)
+Source energy: 0.89806
+Detection efficiency: 0.0010947
+
+### Run 708	2022-05-04 01:50:28	### Run Time: 24.8581
+Total count: 1e+07
+Source position : (0,190,0)
+Source energy: 0.89806
+Detection efficiency: 0.0010682
+
+### Run 709	2022-05-04 01:50:52	### Run Time: 23.9047
+Total count: 1e+07
+Source position : (0,195,0)
+Source energy: 0.89806
+Detection efficiency: 0.0010072
+
+### Run 710	2022-05-04 01:51:16	### Run Time: 23.8823
+Total count: 1e+07
+Source position : (0,200,0)
+Source energy: 0.89806
+Detection efficiency: 0.0009615
+
+### Run 711	2022-05-04 01:51:40	### Run Time: 23.736
+Total count: 1e+07
+Source position : (0,205,0)
+Source energy: 0.89806
+Detection efficiency: 0.0009189
+
+### Run 712	2022-05-04 01:52:04	### Run Time: 23.8707
+Total count: 1e+07
+Source position : (0,210,0)
+Source energy: 0.89806
+Detection efficiency: 0.00088235
+
+### Run 713	2022-05-04 01:52:28	### Run Time: 23.8656
+Total count: 1e+07
+Source position : (0,215,0)
+Source energy: 0.89806
+Detection efficiency: 0.00085345
+
+### Run 714	2022-05-04 01:52:51	### Run Time: 23.7423
+Total count: 1e+07
+Source position : (0,220,0)
+Source energy: 0.89806
+Detection efficiency: 0.00081715
+
+### Run 715	2022-05-04 01:53:15	### Run Time: 23.7422
+Total count: 1e+07
+Source position : (0,225,0)
+Source energy: 0.89806
+Detection efficiency: 0.0007696
+
+### Run 716	2022-05-04 01:53:39	### Run Time: 23.8706
+Total count: 1e+07
+Source position : (0,230,0)
+Source energy: 0.89806
+Detection efficiency: 0.00075335
+
+### Run 717	2022-05-04 01:54:03	### Run Time: 23.8466
+Total count: 1e+07
+Source position : (0,235,0)
+Source energy: 0.89806
+Detection efficiency: 0.00072625
+
+### Run 718	2022-05-04 01:54:27	### Run Time: 23.7894
+Total count: 1e+07
+Source position : (0,240,0)
+Source energy: 0.89806
+Detection efficiency: 0.00069905
+
+### Run 719	2022-05-04 01:54:50	### Run Time: 23.7176
+Total count: 1e+07
+Source position : (0,245,0)
+Source energy: 0.89806
+Detection efficiency: 0.00066745
+
+### Run 720	2022-05-04 01:55:14	### Run Time: 23.8247
+Total count: 1e+07
+Source position : (0,250,0)
+Source energy: 0.89806
+Detection efficiency: 0.000646
+
+### Run 721	2022-05-04 01:55:38	### Run Time: 23.8952
+Total count: 1e+07
+Source position : (0,255,0)
+Source energy: 0.89806
+Detection efficiency: 0.00062435
+
+### Run 722	2022-05-04 01:56:02	### Run Time: 23.7735
+Total count: 1e+07
+Source position : (0,260,0)
+Source energy: 0.89806
+Detection efficiency: 0.00059945
+
+### Run 723	2022-05-04 01:56:26	### Run Time: 23.8911
+Total count: 1e+07
+Source position : (0,265,0)
+Source energy: 0.89806
+Detection efficiency: 0.0005858
+
+### Run 724	2022-05-04 01:56:50	### Run Time: 23.9012
+Total count: 1e+07
+Source position : (0,270,0)
+Source energy: 0.89806
+Detection efficiency: 0.00055065
+
+### Run 725	2022-05-04 01:57:13	### Run Time: 23.8914
+Total count: 1e+07
+Source position : (0,275,0)
+Source energy: 0.89806
+Detection efficiency: 0.00053755
+
+### Run 726	2022-05-04 01:57:37	### Run Time: 23.7919
+Total count: 1e+07
+Source position : (0,280,0)
+Source energy: 0.89806
+Detection efficiency: 0.00052565
+
+### Run 727	2022-05-04 01:58:01	### Run Time: 23.8647
+Total count: 1e+07
+Source position : (0,285,0)
+Source energy: 0.89806
+Detection efficiency: 0.00051115
+
+### Run 728	2022-05-04 01:58:25	### Run Time: 23.9698
+Total count: 1e+07
+Source position : (0,290,0)
+Source energy: 0.89806
+Detection efficiency: 0.0005019
+
+### Run 729	2022-05-04 01:58:49	### Run Time: 23.8783
+Total count: 1e+07
+Source position : (0,295,0)
+Source energy: 0.89806
+Detection efficiency: 0.000481
+
+### Run 730	2022-05-04 01:59:13	### Run Time: 23.7104
+Total count: 1e+07
+Source position : (0,300,0)
+Source energy: 0.89806
+Detection efficiency: 0.0004623
+
+### Run 731	2022-05-04 01:59:36	### Run Time: 23.8655
+Total count: 1e+07
+Source position : (0,305,0)
+Source energy: 0.89806
+Detection efficiency: 0.00044665
+
+### Run 732	2022-05-04 02:00:00	### Run Time: 23.9744
+Total count: 1e+07
+Source position : (0,310,0)
+Source energy: 0.89806
+Detection efficiency: 0.0004404
+
+### Run 733	2022-05-04 02:00:24	### Run Time: 23.6948
+Total count: 1e+07
+Source position : (0,315,0)
+Source energy: 0.89806
+Detection efficiency: 0.0004207
+
+### Run 734	2022-05-04 02:00:48	### Run Time: 23.6598
+Total count: 1e+07
+Source position : (0,320,0)
+Source energy: 0.89806
+Detection efficiency: 0.00041045
+
+### Run 735	2022-05-04 02:01:11	### Run Time: 23.6666
+Total count: 1e+07
+Source position : (0,325,0)
+Source energy: 0.89806
+Detection efficiency: 0.00040345
+
+### Run 736	2022-05-04 02:01:35	### Run Time: 23.5757
+Total count: 1e+07
+Source position : (0,330,0)
+Source energy: 0.89806
+Detection efficiency: 0.00038715
+
+### Run 737	2022-05-04 02:01:59	### Run Time: 24.2734
+Total count: 1e+07
+Source position : (0,335,0)
+Source energy: 0.89806
+Detection efficiency: 0.0003763
+
+### Run 738	2022-05-04 02:02:23	### Run Time: 23.4144
+Total count: 1e+07
+Source position : (0,340,0)
+Source energy: 0.89806
+Detection efficiency: 0.00037245
+
+### Run 739	2022-05-04 02:02:46	### Run Time: 23.3622
+Total count: 1e+07
+Source position : (0,345,0)
+Source energy: 0.89806
+Detection efficiency: 0.00035905
+
+### Run 740	2022-05-04 02:03:10	### Run Time: 23.9188
+Total count: 1e+07
+Source position : (0,350,0)
+Source energy: 0.89806
+Detection efficiency: 0.00034685
+
+### Run 741	2022-05-04 02:03:34	### Run Time: 23.5282
+Total count: 1e+07
+Source position : (0,355,0)
+Source energy: 0.89806
+Detection efficiency: 0.00033895
+
+### Run 742	2022-05-04 02:03:57	### Run Time: 23.6238
+Total count: 1e+07
+Source position : (0,360,0)
+Source energy: 0.89806
+Detection efficiency: 0.00033115
+
+### Run 743	2022-05-04 02:04:21	### Run Time: 23.6482
+Total count: 1e+07
+Source position : (0,365,0)
+Source energy: 0.89806
+Detection efficiency: 0.000321
+
+### Run 744	2022-05-04 02:04:44	### Run Time: 23.5588
+Total count: 1e+07
+Source position : (0,370,0)
+Source energy: 0.89806
+Detection efficiency: 0.0003139
+
+### Run 745	2022-05-04 02:05:08	### Run Time: 23.4882
+Total count: 1e+07
+Source position : (0,375,0)
+Source energy: 0.89806
+Detection efficiency: 0.00030545
+
+### Run 746	2022-05-04 02:05:31	### Run Time: 23.5087
+Total count: 1e+07
+Source position : (0,380,0)
+Source energy: 0.89806
+Detection efficiency: 0.0002945
+
+### Run 747	2022-05-04 02:05:55	### Run Time: 23.6
+Total count: 1e+07
+Source position : (0,385,0)
+Source energy: 0.89806
+Detection efficiency: 0.0002946
+
+### Run 748	2022-05-04 02:06:18	### Run Time: 23.3498
+Total count: 1e+07
+Source position : (0,390,0)
+Source energy: 0.89806
+Detection efficiency: 0.00029035
+
+### Run 749	2022-05-04 02:06:42	### Run Time: 23.3588
+Total count: 1e+07
+Source position : (0,395,0)
+Source energy: 0.89806
+Detection efficiency: 0.0002776
+
+### Run 750	2022-05-04 02:07:06	### Run Time: 23.9516
+Total count: 1e+07
+Source position : (0,400,0)
+Source energy: 0.89806
+Detection efficiency: 0.00026735
+
+### Run 751	2022-05-04 02:07:29	### Run Time: 23.3927
+Total count: 1e+07
+Source position : (0,405,0)
+Source energy: 0.89806
+Detection efficiency: 0.0002676
+
+### Run 752	2022-05-04 02:07:53	### Run Time: 23.5395
+Total count: 1e+07
+Source position : (0,410,0)
+Source energy: 0.89806
+Detection efficiency: 0.00026245
+
+### Run 753	2022-05-04 02:08:16	### Run Time: 23.5701
+Total count: 1e+07
+Source position : (0,415,0)
+Source energy: 0.89806
+Detection efficiency: 0.0002517
+
+### Run 754	2022-05-04 02:08:40	### Run Time: 23.5097
+Total count: 1e+07
+Source position : (0,420,0)
+Source energy: 0.89806
+Detection efficiency: 0.0002463
+
+### Run 755	2022-05-04 02:09:03	### Run Time: 23.5601
+Total count: 1e+07
+Source position : (0,425,0)
+Source energy: 0.89806
+Detection efficiency: 0.00023925
+
+### Run 756	2022-05-04 02:09:27	### Run Time: 23.586
+Total count: 1e+07
+Source position : (0,430,0)
+Source energy: 0.89806
+Detection efficiency: 0.0002411
+
+### Run 757	2022-05-04 02:09:50	### Run Time: 23.5406
+Total count: 1e+07
+Source position : (0,435,0)
+Source energy: 0.89806
+Detection efficiency: 0.0002317
+
+### Run 758	2022-05-04 02:10:14	### Run Time: 23.4242
+Total count: 1e+07
+Source position : (0,440,0)
+Source energy: 0.89806
+Detection efficiency: 0.00022695
+
+### Run 759	2022-05-04 02:10:37	### Run Time: 23.5527
+Total count: 1e+07
+Source position : (0,445,0)
+Source energy: 0.89806
+Detection efficiency: 0.00022315
+
+### Run 760	2022-05-04 02:11:01	### Run Time: 23.5925
+Total count: 1e+07
+Source position : (0,450,0)
+Source energy: 0.89806
+Detection efficiency: 0.00021675
+
+### Run 761	2022-05-04 02:11:24	### Run Time: 23.5097
+Total count: 1e+07
+Source position : (0,455,0)
+Source energy: 0.89806
+Detection efficiency: 0.0002122
+
+### Run 762	2022-05-04 02:11:48	### Run Time: 23.4266
+Total count: 1e+07
+Source position : (0,460,0)
+Source energy: 0.89806
+Detection efficiency: 0.000206
+
+### Run 763	2022-05-04 02:12:11	### Run Time: 23.548
+Total count: 1e+07
+Source position : (0,465,0)
+Source energy: 0.89806
+Detection efficiency: 0.00020515
+
+### Run 764	2022-05-04 02:12:35	### Run Time: 23.5916
+Total count: 1e+07
+Source position : (0,470,0)
+Source energy: 0.89806
+Detection efficiency: 0.00019825
+
+### Run 765	2022-05-04 02:12:59	### Run Time: 23.5426
+Total count: 1e+07
+Source position : (0,475,0)
+Source energy: 0.89806
+Detection efficiency: 0.0002031
+
+### Run 766	2022-05-04 02:13:22	### Run Time: 23.4581
+Total count: 1e+07
+Source position : (0,480,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001906
+
+### Run 767	2022-05-04 02:13:46	### Run Time: 23.5243
+Total count: 1e+07
+Source position : (0,485,0)
+Source energy: 0.89806
+Detection efficiency: 0.00018355
+
+### Run 768	2022-05-04 02:14:09	### Run Time: 23.725
+Total count: 1e+07
+Source position : (0,490,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001891
+
+### Run 769	2022-05-04 02:14:33	### Run Time: 23.4061
+Total count: 1e+07
+Source position : (0,495,0)
+Source energy: 0.89806
+Detection efficiency: 0.00017515
+
+### Run 770	2022-05-04 02:14:56	### Run Time: 23.4741
+Total count: 1e+07
+Source position : (0,500,0)
+Source energy: 0.89806
+Detection efficiency: 0.00018455
+
+### Run 771	2022-05-04 02:15:20	### Run Time: 23.583
+Total count: 1e+07
+Source position : (0,505,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001758
+
+### Run 772	2022-05-04 02:15:43	### Run Time: 23.5014
+Total count: 1e+07
+Source position : (0,510,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001705
+
+### Run 773	2022-05-04 02:16:07	### Run Time: 23.3891
+Total count: 1e+07
+Source position : (0,515,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001656
+
+### Run 774	2022-05-04 02:16:30	### Run Time: 23.5643
+Total count: 1e+07
+Source position : (0,520,0)
+Source energy: 0.89806
+Detection efficiency: 0.00016605
+
+### Run 775	2022-05-04 02:16:53	### Run Time: 23.3195
+Total count: 1e+07
+Source position : (0,525,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001557
+
+### Run 776	2022-05-04 02:17:17	### Run Time: 23.6822
+Total count: 1e+07
+Source position : (0,530,0)
+Source energy: 0.89806
+Detection efficiency: 0.00015955
+
+### Run 777	2022-05-04 02:17:41	### Run Time: 23.6193
+Total count: 1e+07
+Source position : (0,535,0)
+Source energy: 0.89806
+Detection efficiency: 0.00015935
+
+### Run 778	2022-05-04 02:18:04	### Run Time: 23.553
+Total count: 1e+07
+Source position : (0,540,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001497
+
+### Run 779	2022-05-04 02:18:28	### Run Time: 23.4355
+Total count: 1e+07
+Source position : (0,545,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001491
+
+### Run 780	2022-05-04 02:18:51	### Run Time: 23.6904
+Total count: 1e+07
+Source position : (0,550,0)
+Source energy: 0.89806
+Detection efficiency: 0.00014705
+
+### Run 781	2022-05-04 02:19:15	### Run Time: 23.5806
+Total count: 1e+07
+Source position : (0,555,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001479
+
+### Run 782	2022-05-04 02:19:39	### Run Time: 23.4585
+Total count: 1e+07
+Source position : (0,560,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001433
+
+### Run 783	2022-05-04 02:20:02	### Run Time: 23.4518
+Total count: 1e+07
+Source position : (0,565,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001411
+
+### Run 784	2022-05-04 02:20:25	### Run Time: 23.5185
+Total count: 1e+07
+Source position : (0,570,0)
+Source energy: 0.89806
+Detection efficiency: 0.00014335
+
+### Run 785	2022-05-04 02:20:49	### Run Time: 23.503
+Total count: 1e+07
+Source position : (0,575,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001383
+
+### Run 786	2022-05-04 02:21:12	### Run Time: 23.3573
+Total count: 1e+07
+Source position : (0,580,0)
+Source energy: 0.89806
+Detection efficiency: 0.00013425
+
+### Run 787	2022-05-04 02:21:36	### Run Time: 23.6057
+Total count: 1e+07
+Source position : (0,585,0)
+Source energy: 0.89806
+Detection efficiency: 0.00012615
+
+### Run 788	2022-05-04 02:22:00	### Run Time: 23.6389
+Total count: 1e+07
+Source position : (0,590,0)
+Source energy: 0.89806
+Detection efficiency: 0.00013045
+
+### Run 789	2022-05-04 02:22:23	### Run Time: 23.5092
+Total count: 1e+07
+Source position : (0,595,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001272
+
+### Run 790	2022-05-04 02:22:47	### Run Time: 23.4127
+Total count: 1e+07
+Source position : (0,600,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001288
+
+### Run 791	2022-05-04 02:23:10	### Run Time: 23.5992
+Total count: 1e+07
+Source position : (0,605,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001214
+
+### Run 792	2022-05-04 02:23:34	### Run Time: 23.5533
+Total count: 1e+07
+Source position : (0,610,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001218
+
+### Run 793	2022-05-04 02:23:57	### Run Time: 23.4247
+Total count: 1e+07
+Source position : (0,615,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001199
+
+### Run 794	2022-05-04 02:24:21	### Run Time: 23.5431
+Total count: 1e+07
+Source position : (0,620,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001177
+
+### Run 795	2022-05-04 02:24:44	### Run Time: 23.5729
+Total count: 1e+07
+Source position : (0,625,0)
+Source energy: 0.89806
+Detection efficiency: 0.000115
+
+### Run 796	2022-05-04 02:25:08	### Run Time: 23.6408
+Total count: 1e+07
+Source position : (0,630,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001178
+
+### Run 797	2022-05-04 02:25:31	### Run Time: 23.4186
+Total count: 1e+07
+Source position : (0,635,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001132
+
+### Run 798	2022-05-04 02:25:55	### Run Time: 23.512
+Total count: 1e+07
+Source position : (0,640,0)
+Source energy: 0.89806
+Detection efficiency: 0.0001087
+
+### Run 799	2022-05-04 02:26:18	### Run Time: 23.639
+Total count: 1e+07
+Source position : (0,645,0)
+Source energy: 0.89806
+Detection efficiency: 0.00011215
+
+### Run 800	2022-05-04 02:26:42	### Run Time: 23.8025
+Total count: 1e+07
+Source position : (0,150,0)
+Source energy: 1.17324
+Detection efficiency: 0.00131485
+
+### Run 801	2022-05-04 02:27:06	### Run Time: 23.5897
+Total count: 1e+07
+Source position : (0,155,0)
+Source energy: 1.17324
+Detection efficiency: 0.00123535
+
+### Run 802	2022-05-04 02:27:30	### Run Time: 23.8203
+Total count: 1e+07
+Source position : (0,160,0)
+Source energy: 1.17324
+Detection efficiency: 0.0011726
+
+### Run 803	2022-05-04 02:27:53	### Run Time: 23.5121
+Total count: 1e+07
+Source position : (0,165,0)
+Source energy: 1.17324
+Detection efficiency: 0.0010993
+
+### Run 804	2022-05-04 02:28:17	### Run Time: 23.8455
+Total count: 1e+07
+Source position : (0,170,0)
+Source energy: 1.17324
+Detection efficiency: 0.0010421
+
+### Run 805	2022-05-04 02:28:41	### Run Time: 23.7449
+Total count: 1e+07
+Source position : (0,175,0)
+Source energy: 1.17324
+Detection efficiency: 0.000999
+
+### Run 806	2022-05-04 02:29:04	### Run Time: 23.698
+Total count: 1e+07
+Source position : (0,180,0)
+Source energy: 1.17324
+Detection efficiency: 0.00094115
+
+### Run 807	2022-05-04 02:29:28	### Run Time: 23.6745
+Total count: 1e+07
+Source position : (0,185,0)
+Source energy: 1.17324
+Detection efficiency: 0.00090095
+
+### Run 808	2022-05-04 02:29:52	### Run Time: 23.6916
+Total count: 1e+07
+Source position : (0,190,0)
+Source energy: 1.17324
+Detection efficiency: 0.0008544
+
+### Run 809	2022-05-04 02:30:15	### Run Time: 23.448
+Total count: 1e+07
+Source position : (0,195,0)
+Source energy: 1.17324
+Detection efficiency: 0.0008255
+
+### Run 810	2022-05-04 02:30:39	### Run Time: 24.0095
+Total count: 1e+07
+Source position : (0,200,0)
+Source energy: 1.17324
+Detection efficiency: 0.0007804
+
+### Run 811	2022-05-04 02:31:03	### Run Time: 23.5972
+Total count: 1e+07
+Source position : (0,205,0)
+Source energy: 1.17324
+Detection efficiency: 0.00074715
+
+### Run 812	2022-05-04 02:31:26	### Run Time: 23.5512
+Total count: 1e+07
+Source position : (0,210,0)
+Source energy: 1.17324
+Detection efficiency: 0.0007128
+
+### Run 813	2022-05-04 02:31:50	### Run Time: 23.587
+Total count: 1e+07
+Source position : (0,215,0)
+Source energy: 1.17324
+Detection efficiency: 0.00069035
+
+### Run 814	2022-05-04 02:32:14	### Run Time: 23.7295
+Total count: 1e+07
+Source position : (0,220,0)
+Source energy: 1.17324
+Detection efficiency: 0.0006744
+
+### Run 815	2022-05-04 02:32:37	### Run Time: 23.612
+Total count: 1e+07
+Source position : (0,225,0)
+Source energy: 1.17324
+Detection efficiency: 0.00063715
+
+### Run 816	2022-05-04 02:33:01	### Run Time: 23.4946
+Total count: 1e+07
+Source position : (0,230,0)
+Source energy: 1.17324
+Detection efficiency: 0.0006094
+
+### Run 817	2022-05-04 02:33:25	### Run Time: 23.7321
+Total count: 1e+07
+Source position : (0,235,0)
+Source energy: 1.17324
+Detection efficiency: 0.0005902
+
+### Run 818	2022-05-04 02:33:48	### Run Time: 23.7012
+Total count: 1e+07
+Source position : (0,240,0)
+Source energy: 1.17324
+Detection efficiency: 0.0005655
+
+### Run 819	2022-05-04 02:34:12	### Run Time: 23.6235
+Total count: 1e+07
+Source position : (0,245,0)
+Source energy: 1.17324
+Detection efficiency: 0.000544
+
+### Run 820	2022-05-04 02:34:35	### Run Time: 23.4375
+Total count: 1e+07
+Source position : (0,250,0)
+Source energy: 1.17324
+Detection efficiency: 0.00052385
+
+### Run 821	2022-05-04 02:34:59	### Run Time: 23.6573
+Total count: 1e+07
+Source position : (0,255,0)
+Source energy: 1.17324
+Detection efficiency: 0.0005071
+
+### Run 822	2022-05-04 02:35:23	### Run Time: 23.5919
+Total count: 1e+07
+Source position : (0,260,0)
+Source energy: 1.17324
+Detection efficiency: 0.00049075
+
+### Run 823	2022-05-04 02:35:46	### Run Time: 23.4554
+Total count: 1e+07
+Source position : (0,265,0)
+Source energy: 1.17324
+Detection efficiency: 0.00046755
+
+### Run 824	2022-05-04 02:36:10	### Run Time: 23.5211
+Total count: 1e+07
+Source position : (0,270,0)
+Source energy: 1.17324
+Detection efficiency: 0.0004596
+
+### Run 825	2022-05-04 02:36:33	### Run Time: 23.5954
+Total count: 1e+07
+Source position : (0,275,0)
+Source energy: 1.17324
+Detection efficiency: 0.00045185
+
+### Run 826	2022-05-04 02:36:57	### Run Time: 23.5895
+Total count: 1e+07
+Source position : (0,280,0)
+Source energy: 1.17324
+Detection efficiency: 0.00042275
+
+### Run 827	2022-05-04 02:37:20	### Run Time: 23.5556
+Total count: 1e+07
+Source position : (0,285,0)
+Source energy: 1.17324
+Detection efficiency: 0.0004114
+
+### Run 828	2022-05-04 02:37:44	### Run Time: 23.5608
+Total count: 1e+07
+Source position : (0,290,0)
+Source energy: 1.17324
+Detection efficiency: 0.00039355
+
+### Run 829	2022-05-04 02:38:07	### Run Time: 23.5509
+Total count: 1e+07
+Source position : (0,295,0)
+Source energy: 1.17324
+Detection efficiency: 0.00039215
+
+### Run 830	2022-05-04 02:38:31	### Run Time: 23.5126
+Total count: 1e+07
+Source position : (0,300,0)
+Source energy: 1.17324
+Detection efficiency: 0.0003791
+
+### Run 831	2022-05-04 02:38:54	### Run Time: 23.4656
+Total count: 1e+07
+Source position : (0,305,0)
+Source energy: 1.17324
+Detection efficiency: 0.00036
+
+### Run 832	2022-05-04 02:39:18	### Run Time: 23.6169
+Total count: 1e+07
+Source position : (0,310,0)
+Source energy: 1.17324
+Detection efficiency: 0.0003546
+
+### Run 833	2022-05-04 02:39:42	### Run Time: 23.5344
+Total count: 1e+07
+Source position : (0,315,0)
+Source energy: 1.17324
+Detection efficiency: 0.0003424
+
+### Run 834	2022-05-04 02:40:05	### Run Time: 23.4605
+Total count: 1e+07
+Source position : (0,320,0)
+Source energy: 1.17324
+Detection efficiency: 0.00032665
+
+### Run 835	2022-05-04 02:40:28	### Run Time: 23.4961
+Total count: 1e+07
+Source position : (0,325,0)
+Source energy: 1.17324
+Detection efficiency: 0.00032555
+
+### Run 836	2022-05-04 02:40:52	### Run Time: 23.5326
+Total count: 1e+07
+Source position : (0,330,0)
+Source energy: 1.17324
+Detection efficiency: 0.00031505
+
+### Run 837	2022-05-04 02:41:16	### Run Time: 23.5942
+Total count: 1e+07
+Source position : (0,335,0)
+Source energy: 1.17324
+Detection efficiency: 0.0003075
+
+### Run 838	2022-05-04 02:41:39	### Run Time: 23.4776
+Total count: 1e+07
+Source position : (0,340,0)
+Source energy: 1.17324
+Detection efficiency: 0.00029
+
+### Run 839	2022-05-04 02:42:03	### Run Time: 23.4825
+Total count: 1e+07
+Source position : (0,345,0)
+Source energy: 1.17324
+Detection efficiency: 0.00028305
+
+### Run 840	2022-05-04 02:42:26	### Run Time: 23.5872
+Total count: 1e+07
+Source position : (0,350,0)
+Source energy: 1.17324
+Detection efficiency: 0.0002828
+
+### Run 841	2022-05-04 02:42:50	### Run Time: 23.5155
+Total count: 1e+07
+Source position : (0,355,0)
+Source energy: 1.17324
+Detection efficiency: 0.0002826
+
+### Run 842	2022-05-04 02:43:13	### Run Time: 23.3821
+Total count: 1e+07
+Source position : (0,360,0)
+Source energy: 1.17324
+Detection efficiency: 0.00026845
+
+### Run 843	2022-05-04 02:43:37	### Run Time: 23.5352
+Total count: 1e+07
+Source position : (0,365,0)
+Source energy: 1.17324
+Detection efficiency: 0.00026755
+
+### Run 844	2022-05-04 02:44:00	### Run Time: 23.4922
+Total count: 1e+07
+Source position : (0,370,0)
+Source energy: 1.17324
+Detection efficiency: 0.0002558
+
+### Run 845	2022-05-04 02:44:24	### Run Time: 23.682
+Total count: 1e+07
+Source position : (0,375,0)
+Source energy: 1.17324
+Detection efficiency: 0.0002479
+
+### Run 846	2022-05-04 02:44:47	### Run Time: 23.5758
+Total count: 1e+07
+Source position : (0,380,0)
+Source energy: 1.17324
+Detection efficiency: 0.00023135
+
+### Run 847	2022-05-04 02:45:11	### Run Time: 23.5783
+Total count: 1e+07
+Source position : (0,385,0)
+Source energy: 1.17324
+Detection efficiency: 0.00023825
+
+### Run 848	2022-05-04 02:45:34	### Run Time: 23.3877
+Total count: 1e+07
+Source position : (0,390,0)
+Source energy: 1.17324
+Detection efficiency: 0.0002277
+
+### Run 849	2022-05-04 02:45:58	### Run Time: 23.5845
+Total count: 1e+07
+Source position : (0,395,0)
+Source energy: 1.17324
+Detection efficiency: 0.00022905
+
+### Run 850	2022-05-04 02:46:21	### Run Time: 23.5242
+Total count: 1e+07
+Source position : (0,400,0)
+Source energy: 1.17324
+Detection efficiency: 0.0002223
+
+### Run 851	2022-05-04 02:46:45	### Run Time: 23.4026
+Total count: 1e+07
+Source position : (0,405,0)
+Source energy: 1.17324
+Detection efficiency: 0.00021135
+
+### Run 852	2022-05-04 02:47:08	### Run Time: 23.492
+Total count: 1e+07
+Source position : (0,410,0)
+Source energy: 1.17324
+Detection efficiency: 0.00020605
+
+### Run 853	2022-05-04 02:47:32	### Run Time: 23.5114
+Total count: 1e+07
+Source position : (0,415,0)
+Source energy: 1.17324
+Detection efficiency: 0.00020195
+
+### Run 854	2022-05-04 02:47:55	### Run Time: 23.4577
+Total count: 1e+07
+Source position : (0,420,0)
+Source energy: 1.17324
+Detection efficiency: 0.000202
+
+### Run 855	2022-05-04 02:48:19	### Run Time: 23.5516
+Total count: 1e+07
+Source position : (0,425,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001978
+
+### Run 856	2022-05-04 02:48:43	### Run Time: 23.6674
+Total count: 1e+07
+Source position : (0,430,0)
+Source energy: 1.17324
+Detection efficiency: 0.00018935
+
+### Run 857	2022-05-04 02:49:06	### Run Time: 23.5919
+Total count: 1e+07
+Source position : (0,435,0)
+Source energy: 1.17324
+Detection efficiency: 0.00018895
+
+### Run 858	2022-05-04 02:49:30	### Run Time: 23.5319
+Total count: 1e+07
+Source position : (0,440,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001869
+
+### Run 859	2022-05-04 02:49:53	### Run Time: 23.4072
+Total count: 1e+07
+Source position : (0,445,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001785
+
+### Run 860	2022-05-04 02:50:17	### Run Time: 23.5221
+Total count: 1e+07
+Source position : (0,450,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001765
+
+### Run 861	2022-05-04 02:50:40	### Run Time: 23.54
+Total count: 1e+07
+Source position : (0,455,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001718
+
+### Run 862	2022-05-04 02:51:04	### Run Time: 23.4249
+Total count: 1e+07
+Source position : (0,460,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001668
+
+### Run 863	2022-05-04 02:51:27	### Run Time: 23.3819
+Total count: 1e+07
+Source position : (0,465,0)
+Source energy: 1.17324
+Detection efficiency: 0.00016695
+
+### Run 864	2022-05-04 02:51:51	### Run Time: 23.6171
+Total count: 1e+07
+Source position : (0,470,0)
+Source energy: 1.17324
+Detection efficiency: 0.00016225
+
+### Run 865	2022-05-04 02:52:14	### Run Time: 23.502
+Total count: 1e+07
+Source position : (0,475,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001569
+
+### Run 866	2022-05-04 02:52:37	### Run Time: 23.3654
+Total count: 1e+07
+Source position : (0,480,0)
+Source energy: 1.17324
+Detection efficiency: 0.00015335
+
+### Run 867	2022-05-04 02:53:01	### Run Time: 23.2499
+Total count: 1e+07
+Source position : (0,485,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001554
+
+### Run 868	2022-05-04 02:53:25	### Run Time: 23.8517
+Total count: 1e+07
+Source position : (0,490,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001471
+
+### Run 869	2022-05-04 02:53:49	### Run Time: 24.562
+Total count: 1e+07
+Source position : (0,495,0)
+Source energy: 1.17324
+Detection efficiency: 0.00014365
+
+### Run 870	2022-05-04 02:54:12	### Run Time: 23.3809
+Total count: 1e+07
+Source position : (0,500,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001457
+
+### Run 871	2022-05-04 02:54:36	### Run Time: 23.5815
+Total count: 1e+07
+Source position : (0,505,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001416
+
+### Run 872	2022-05-04 02:55:00	### Run Time: 23.5521
+Total count: 1e+07
+Source position : (0,510,0)
+Source energy: 1.17324
+Detection efficiency: 0.00013935
+
+### Run 873	2022-05-04 02:55:23	### Run Time: 23.4243
+Total count: 1e+07
+Source position : (0,515,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001333
+
+### Run 874	2022-05-04 02:55:47	### Run Time: 23.5121
+Total count: 1e+07
+Source position : (0,520,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001319
+
+### Run 875	2022-05-04 02:56:10	### Run Time: 23.5486
+Total count: 1e+07
+Source position : (0,525,0)
+Source energy: 1.17324
+Detection efficiency: 0.00013005
+
+### Run 876	2022-05-04 02:56:34	### Run Time: 23.5099
+Total count: 1e+07
+Source position : (0,530,0)
+Source energy: 1.17324
+Detection efficiency: 0.000131
+
+### Run 877	2022-05-04 02:56:57	### Run Time: 23.3293
+Total count: 1e+07
+Source position : (0,535,0)
+Source energy: 1.17324
+Detection efficiency: 0.00012545
+
+### Run 878	2022-05-04 02:57:20	### Run Time: 23.4956
+Total count: 1e+07
+Source position : (0,540,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001204
+
+### Run 879	2022-05-04 02:57:44	### Run Time: 23.4921
+Total count: 1e+07
+Source position : (0,545,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001198
+
+### Run 880	2022-05-04 02:58:07	### Run Time: 23.4676
+Total count: 1e+07
+Source position : (0,550,0)
+Source energy: 1.17324
+Detection efficiency: 0.00012055
+
+### Run 881	2022-05-04 02:58:31	### Run Time: 23.3458
+Total count: 1e+07
+Source position : (0,555,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001172
+
+### Run 882	2022-05-04 02:58:54	### Run Time: 23.5055
+Total count: 1e+07
+Source position : (0,560,0)
+Source energy: 1.17324
+Detection efficiency: 0.00011755
+
+### Run 883	2022-05-04 02:59:18	### Run Time: 23.5721
+Total count: 1e+07
+Source position : (0,565,0)
+Source energy: 1.17324
+Detection efficiency: 0.00011705
+
+### Run 884	2022-05-04 02:59:41	### Run Time: 23.4752
+Total count: 1e+07
+Source position : (0,570,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001092
+
+### Run 885	2022-05-04 03:00:05	### Run Time: 23.4748
+Total count: 1e+07
+Source position : (0,575,0)
+Source energy: 1.17324
+Detection efficiency: 0.00010905
+
+### Run 886	2022-05-04 03:00:28	### Run Time: 23.5074
+Total count: 1e+07
+Source position : (0,580,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001045
+
+### Run 887	2022-05-04 03:00:52	### Run Time: 23.4484
+Total count: 1e+07
+Source position : (0,585,0)
+Source energy: 1.17324
+Detection efficiency: 0.00010795
+
+### Run 888	2022-05-04 03:01:15	### Run Time: 23.4225
+Total count: 1e+07
+Source position : (0,590,0)
+Source energy: 1.17324
+Detection efficiency: 0.00010615
+
+### Run 889	2022-05-04 03:01:39	### Run Time: 23.5013
+Total count: 1e+07
+Source position : (0,595,0)
+Source energy: 1.17324
+Detection efficiency: 0.0001044
+
+### Run 890	2022-05-04 03:02:02	### Run Time: 23.4927
+Total count: 1e+07
+Source position : (0,600,0)
+Source energy: 1.17324
+Detection efficiency: 0.00010255
+
+### Run 891	2022-05-04 03:02:26	### Run Time: 23.5241
+Total count: 1e+07
+Source position : (0,605,0)
+Source energy: 1.17324
+Detection efficiency: 0.00010135
+
+### Run 892	2022-05-04 03:02:49	### Run Time: 23.3709
+Total count: 1e+07
+Source position : (0,610,0)
+Source energy: 1.17324
+Detection efficiency: 0.00010025
+
+### Run 893	2022-05-04 03:03:13	### Run Time: 23.5511
+Total count: 1e+07
+Source position : (0,615,0)
+Source energy: 1.17324
+Detection efficiency: 9.49e-05
+
+### Run 894	2022-05-04 03:03:36	### Run Time: 23.4947
+Total count: 1e+07
+Source position : (0,620,0)
+Source energy: 1.17324
+Detection efficiency: 9.54e-05
+
+### Run 895	2022-05-04 03:04:00	### Run Time: 23.5215
+Total count: 1e+07
+Source position : (0,625,0)
+Source energy: 1.17324
+Detection efficiency: 9.025e-05
+
+### Run 896	2022-05-04 03:04:23	### Run Time: 23.3937
+Total count: 1e+07
+Source position : (0,630,0)
+Source energy: 1.17324
+Detection efficiency: 9.57e-05
+
+### Run 897	2022-05-04 03:04:47	### Run Time: 23.5774
+Total count: 1e+07
+Source position : (0,635,0)
+Source energy: 1.17324
+Detection efficiency: 8.92e-05
+
+### Run 898	2022-05-04 03:05:10	### Run Time: 23.516
+Total count: 1e+07
+Source position : (0,640,0)
+Source energy: 1.17324
+Detection efficiency: 8.9e-05
+
+### Run 899	2022-05-04 03:05:33	### Run Time: 23.3642
+Total count: 1e+07
+Source position : (0,645,0)
+Source energy: 1.17324
+Detection efficiency: 8.765e-05
+
+### Run 900	2022-05-04 03:05:57	### Run Time: 23.7994
+Total count: 1e+07
+Source position : (0,150,0)
+Source energy: 1.3325
+Detection efficiency: 0.00118245
+
+### Run 901	2022-05-04 03:06:21	### Run Time: 23.7833
+Total count: 1e+07
+Source position : (0,155,0)
+Source energy: 1.3325
+Detection efficiency: 0.0011124
+
+### Run 902	2022-05-04 03:06:45	### Run Time: 23.6874
+Total count: 1e+07
+Source position : (0,160,0)
+Source energy: 1.3325
+Detection efficiency: 0.0010436
+
+### Run 903	2022-05-04 03:07:08	### Run Time: 23.6896
+Total count: 1e+07
+Source position : (0,165,0)
+Source energy: 1.3325
+Detection efficiency: 0.00098035
+
+### Run 904	2022-05-04 03:07:32	### Run Time: 23.7982
+Total count: 1e+07
+Source position : (0,170,0)
+Source energy: 1.3325
+Detection efficiency: 0.0009526
+
+### Run 905	2022-05-04 03:07:56	### Run Time: 23.6373
+Total count: 1e+07
+Source position : (0,175,0)
+Source energy: 1.3325
+Detection efficiency: 0.000907
+
+### Run 906	2022-05-04 03:08:20	### Run Time: 23.6857
+Total count: 1e+07
+Source position : (0,180,0)
+Source energy: 1.3325
+Detection efficiency: 0.0008508
+
+### Run 907	2022-05-04 03:08:43	### Run Time: 23.564
+Total count: 1e+07
+Source position : (0,185,0)
+Source energy: 1.3325
+Detection efficiency: 0.00081875
+
+### Run 908	2022-05-04 03:09:07	### Run Time: 23.6864
+Total count: 1e+07
+Source position : (0,190,0)
+Source energy: 1.3325
+Detection efficiency: 0.0007844
+
+### Run 909	2022-05-04 03:09:30	### Run Time: 23.6508
+Total count: 1e+07
+Source position : (0,195,0)
+Source energy: 1.3325
+Detection efficiency: 0.00074465
+
+### Run 910	2022-05-04 03:09:54	### Run Time: 23.6258
+Total count: 1e+07
+Source position : (0,200,0)
+Source energy: 1.3325
+Detection efficiency: 0.0007058
+
+### Run 911	2022-05-04 03:10:18	### Run Time: 23.5592
+Total count: 1e+07
+Source position : (0,205,0)
+Source energy: 1.3325
+Detection efficiency: 0.00068025
+
+### Run 912	2022-05-04 03:10:41	### Run Time: 23.7506
+Total count: 1e+07
+Source position : (0,210,0)
+Source energy: 1.3325
+Detection efficiency: 0.0006583
+
+### Run 913	2022-05-04 03:11:05	### Run Time: 23.5628
+Total count: 1e+07
+Source position : (0,215,0)
+Source energy: 1.3325
+Detection efficiency: 0.00060745
+
+### Run 914	2022-05-04 03:11:28	### Run Time: 23.5072
+Total count: 1e+07
+Source position : (0,220,0)
+Source energy: 1.3325
+Detection efficiency: 0.0005944
+
+### Run 915	2022-05-04 03:11:52	### Run Time: 23.5098
+Total count: 1e+07
+Source position : (0,225,0)
+Source energy: 1.3325
+Detection efficiency: 0.00058
+
+### Run 916	2022-05-04 03:12:16	### Run Time: 23.6949
+Total count: 1e+07
+Source position : (0,230,0)
+Source energy: 1.3325
+Detection efficiency: 0.0005489
+
+### Run 917	2022-05-04 03:12:39	### Run Time: 23.5441
+Total count: 1e+07
+Source position : (0,235,0)
+Source energy: 1.3325
+Detection efficiency: 0.0005292
+
+### Run 918	2022-05-04 03:13:03	### Run Time: 23.4436
+Total count: 1e+07
+Source position : (0,240,0)
+Source energy: 1.3325
+Detection efficiency: 0.0005044
+
+### Run 919	2022-05-04 03:13:26	### Run Time: 23.5937
+Total count: 1e+07
+Source position : (0,245,0)
+Source energy: 1.3325
+Detection efficiency: 0.00049805
+
+### Run 920	2022-05-04 03:13:50	### Run Time: 23.6015
+Total count: 1e+07
+Source position : (0,250,0)
+Source energy: 1.3325
+Detection efficiency: 0.00047935
+
+### Run 921	2022-05-04 03:14:13	### Run Time: 23.6751
+Total count: 1e+07
+Source position : (0,255,0)
+Source energy: 1.3325
+Detection efficiency: 0.00046245
+
+### Run 922	2022-05-04 03:14:37	### Run Time: 23.4584
+Total count: 1e+07
+Source position : (0,260,0)
+Source energy: 1.3325
+Detection efficiency: 0.00044405
+
+### Run 923	2022-05-04 03:15:01	### Run Time: 23.7202
+Total count: 1e+07
+Source position : (0,265,0)
+Source energy: 1.3325
+Detection efficiency: 0.00043265
+
+### Run 924	2022-05-04 03:15:24	### Run Time: 23.5947
+Total count: 1e+07
+Source position : (0,270,0)
+Source energy: 1.3325
+Detection efficiency: 0.00040935
+
+### Run 925	2022-05-04 03:15:48	### Run Time: 23.5102
+Total count: 1e+07
+Source position : (0,275,0)
+Source energy: 1.3325
+Detection efficiency: 0.00040195
+
+### Run 926	2022-05-04 03:16:11	### Run Time: 23.4868
+Total count: 1e+07
+Source position : (0,280,0)
+Source energy: 1.3325
+Detection efficiency: 0.0003903
+
+### Run 927	2022-05-04 03:16:35	### Run Time: 23.52
+Total count: 1e+07
+Source position : (0,285,0)
+Source energy: 1.3325
+Detection efficiency: 0.000379
+
+### Run 928	2022-05-04 03:16:58	### Run Time: 23.6396
+Total count: 1e+07
+Source position : (0,290,0)
+Source energy: 1.3325
+Detection efficiency: 0.0003622
+
+### Run 929	2022-05-04 03:17:22	### Run Time: 23.6387
+Total count: 1e+07
+Source position : (0,295,0)
+Source energy: 1.3325
+Detection efficiency: 0.0003526
+
+### Run 930	2022-05-04 03:17:46	### Run Time: 23.4845
+Total count: 1e+07
+Source position : (0,300,0)
+Source energy: 1.3325
+Detection efficiency: 0.00033135
+
+### Run 931	2022-05-04 03:18:09	### Run Time: 23.4729
+Total count: 1e+07
+Source position : (0,305,0)
+Source energy: 1.3325
+Detection efficiency: 0.00032775
+
+### Run 932	2022-05-04 03:18:33	### Run Time: 23.5094
+Total count: 1e+07
+Source position : (0,310,0)
+Source energy: 1.3325
+Detection efficiency: 0.00032315
+
+### Run 933	2022-05-04 03:18:56	### Run Time: 23.5728
+Total count: 1e+07
+Source position : (0,315,0)
+Source energy: 1.3325
+Detection efficiency: 0.0003165
+
+### Run 934	2022-05-04 03:19:20	### Run Time: 23.5072
+Total count: 1e+07
+Source position : (0,320,0)
+Source energy: 1.3325
+Detection efficiency: 0.00030075
+
+### Run 935	2022-05-04 03:19:43	### Run Time: 23.4209
+Total count: 1e+07
+Source position : (0,325,0)
+Source energy: 1.3325
+Detection efficiency: 0.00028955
+
+### Run 936	2022-05-04 03:20:07	### Run Time: 23.5501
+Total count: 1e+07
+Source position : (0,330,0)
+Source energy: 1.3325
+Detection efficiency: 0.00028815
+
+### Run 937	2022-05-04 03:20:30	### Run Time: 23.5057
+Total count: 1e+07
+Source position : (0,335,0)
+Source energy: 1.3325
+Detection efficiency: 0.0002779
+
+### Run 938	2022-05-04 03:20:54	### Run Time: 23.4117
+Total count: 1e+07
+Source position : (0,340,0)
+Source energy: 1.3325
+Detection efficiency: 0.0002723
+
+### Run 939	2022-05-04 03:21:17	### Run Time: 23.4235
+Total count: 1e+07
+Source position : (0,345,0)
+Source energy: 1.3325
+Detection efficiency: 0.00026485
+
+### Run 940	2022-05-04 03:21:41	### Run Time: 23.5985
+Total count: 1e+07
+Source position : (0,350,0)
+Source energy: 1.3325
+Detection efficiency: 0.00025565
+
+### Run 941	2022-05-04 03:22:04	### Run Time: 23.4357
+Total count: 1e+07
+Source position : (0,355,0)
+Source energy: 1.3325
+Detection efficiency: 0.0002524
+
+### Run 942	2022-05-04 03:22:27	### Run Time: 23.4854
+Total count: 1e+07
+Source position : (0,360,0)
+Source energy: 1.3325
+Detection efficiency: 0.00024
+
+### Run 943	2022-05-04 03:22:51	### Run Time: 23.549
+Total count: 1e+07
+Source position : (0,365,0)
+Source energy: 1.3325
+Detection efficiency: 0.0002409
+
+### Run 944	2022-05-04 03:23:15	### Run Time: 23.5523
+Total count: 1e+07
+Source position : (0,370,0)
+Source energy: 1.3325
+Detection efficiency: 0.00023265
+
+### Run 945	2022-05-04 03:23:38	### Run Time: 23.5108
+Total count: 1e+07
+Source position : (0,375,0)
+Source energy: 1.3325
+Detection efficiency: 0.00021745
+
+### Run 946	2022-05-04 03:24:01	### Run Time: 23.4062
+Total count: 1e+07
+Source position : (0,380,0)
+Source energy: 1.3325
+Detection efficiency: 0.00022465
+
+### Run 947	2022-05-04 03:24:25	### Run Time: 23.6339
+Total count: 1e+07
+Source position : (0,385,0)
+Source energy: 1.3325
+Detection efficiency: 0.00021595
+
+### Run 948	2022-05-04 03:24:49	### Run Time: 23.4735
+Total count: 1e+07
+Source position : (0,390,0)
+Source energy: 1.3325
+Detection efficiency: 0.00020525
+
+### Run 949	2022-05-04 03:25:12	### Run Time: 23.4675
+Total count: 1e+07
+Source position : (0,395,0)
+Source energy: 1.3325
+Detection efficiency: 0.00020165
+
+### Run 950	2022-05-04 03:25:35	### Run Time: 23.3997
+Total count: 1e+07
+Source position : (0,400,0)
+Source energy: 1.3325
+Detection efficiency: 0.00019825
+
+### Run 951	2022-05-04 03:25:59	### Run Time: 23.4876
+Total count: 1e+07
+Source position : (0,405,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001955
+
+### Run 952	2022-05-04 03:26:22	### Run Time: 23.4832
+Total count: 1e+07
+Source position : (0,410,0)
+Source energy: 1.3325
+Detection efficiency: 0.00019155
+
+### Run 953	2022-05-04 03:26:46	### Run Time: 23.3568
+Total count: 1e+07
+Source position : (0,415,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001852
+
+### Run 954	2022-05-04 03:27:09	### Run Time: 23.4814
+Total count: 1e+07
+Source position : (0,420,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001797
+
+### Run 955	2022-05-04 03:27:33	### Run Time: 23.5501
+Total count: 1e+07
+Source position : (0,425,0)
+Source energy: 1.3325
+Detection efficiency: 0.00018005
+
+### Run 956	2022-05-04 03:27:56	### Run Time: 23.509
+Total count: 1e+07
+Source position : (0,430,0)
+Source energy: 1.3325
+Detection efficiency: 0.00017665
+
+### Run 957	2022-05-04 03:28:20	### Run Time: 23.2887
+Total count: 1e+07
+Source position : (0,435,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001721
+
+### Run 958	2022-05-04 03:28:43	### Run Time: 23.553
+Total count: 1e+07
+Source position : (0,440,0)
+Source energy: 1.3325
+Detection efficiency: 0.00016865
+
+### Run 959	2022-05-04 03:29:07	### Run Time: 23.5766
+Total count: 1e+07
+Source position : (0,445,0)
+Source energy: 1.3325
+Detection efficiency: 0.000164
+
+### Run 960	2022-05-04 03:29:30	### Run Time: 23.4262
+Total count: 1e+07
+Source position : (0,450,0)
+Source energy: 1.3325
+Detection efficiency: 0.00016115
+
+### Run 961	2022-05-04 03:29:54	### Run Time: 23.495
+Total count: 1e+07
+Source position : (0,455,0)
+Source energy: 1.3325
+Detection efficiency: 0.00015495
+
+### Run 962	2022-05-04 03:30:17	### Run Time: 23.5502
+Total count: 1e+07
+Source position : (0,460,0)
+Source energy: 1.3325
+Detection efficiency: 0.000155
+
+### Run 963	2022-05-04 03:30:41	### Run Time: 23.586
+Total count: 1e+07
+Source position : (0,465,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001526
+
+### Run 964	2022-05-04 03:31:04	### Run Time: 23.4195
+Total count: 1e+07
+Source position : (0,470,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001451
+
+### Run 965	2022-05-04 03:31:28	### Run Time: 23.48
+Total count: 1e+07
+Source position : (0,475,0)
+Source energy: 1.3325
+Detection efficiency: 0.00014385
+
+### Run 966	2022-05-04 03:31:51	### Run Time: 23.5257
+Total count: 1e+07
+Source position : (0,480,0)
+Source energy: 1.3325
+Detection efficiency: 0.00014025
+
+### Run 967	2022-05-04 03:32:15	### Run Time: 23.3537
+Total count: 1e+07
+Source position : (0,485,0)
+Source energy: 1.3325
+Detection efficiency: 0.00013965
+
+### Run 968	2022-05-04 03:32:38	### Run Time: 23.6668
+Total count: 1e+07
+Source position : (0,490,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001366
+
+### Run 969	2022-05-04 03:33:02	### Run Time: 23.3809
+Total count: 1e+07
+Source position : (0,495,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001315
+
+### Run 970	2022-05-04 03:33:25	### Run Time: 23.409
+Total count: 1e+07
+Source position : (0,500,0)
+Source energy: 1.3325
+Detection efficiency: 0.00013675
+
+### Run 971	2022-05-04 03:33:49	### Run Time: 23.6952
+Total count: 1e+07
+Source position : (0,505,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001285
+
+### Run 972	2022-05-04 03:34:12	### Run Time: 23.4049
+Total count: 1e+07
+Source position : (0,510,0)
+Source energy: 1.3325
+Detection efficiency: 0.00012075
+
+### Run 973	2022-05-04 03:34:36	### Run Time: 23.4108
+Total count: 1e+07
+Source position : (0,515,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001225
+
+### Run 974	2022-05-04 03:34:59	### Run Time: 23.3694
+Total count: 1e+07
+Source position : (0,520,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001244
+
+### Run 975	2022-05-04 03:35:22	### Run Time: 23.5846
+Total count: 1e+07
+Source position : (0,525,0)
+Source energy: 1.3325
+Detection efficiency: 0.00012495
+
+### Run 976	2022-05-04 03:35:46	### Run Time: 23.5569
+Total count: 1e+07
+Source position : (0,530,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001186
+
+### Run 977	2022-05-04 03:36:09	### Run Time: 23.3881
+Total count: 1e+07
+Source position : (0,535,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001162
+
+### Run 978	2022-05-04 03:36:33	### Run Time: 23.5405
+Total count: 1e+07
+Source position : (0,540,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001149
+
+### Run 979	2022-05-04 03:36:57	### Run Time: 23.5218
+Total count: 1e+07
+Source position : (0,545,0)
+Source energy: 1.3325
+Detection efficiency: 0.00011195
+
+### Run 980	2022-05-04 03:37:20	### Run Time: 23.4184
+Total count: 1e+07
+Source position : (0,550,0)
+Source energy: 1.3325
+Detection efficiency: 0.00011075
+
+### Run 981	2022-05-04 03:37:43	### Run Time: 23.3314
+Total count: 1e+07
+Source position : (0,555,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001059
+
+### Run 982	2022-05-04 03:38:07	### Run Time: 23.5298
+Total count: 1e+07
+Source position : (0,560,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001018
+
+### Run 983	2022-05-04 03:38:30	### Run Time: 23.2634
+Total count: 1e+07
+Source position : (0,565,0)
+Source energy: 1.3325
+Detection efficiency: 0.0001048
+
+### Run 984	2022-05-04 03:38:54	### Run Time: 23.6307
+Total count: 1e+07
+Source position : (0,570,0)
+Source energy: 1.3325
+Detection efficiency: 0.00010095
+
+### Run 985	2022-05-04 03:39:17	### Run Time: 23.5142
+Total count: 1e+07
+Source position : (0,575,0)
+Source energy: 1.3325
+Detection efficiency: 9.435e-05
+
+### Run 986	2022-05-04 03:39:41	### Run Time: 23.407
+Total count: 1e+07
+Source position : (0,580,0)
+Source energy: 1.3325
+Detection efficiency: 9.505e-05
+
+### Run 987	2022-05-04 03:40:04	### Run Time: 23.4865
+Total count: 1e+07
+Source position : (0,585,0)
+Source energy: 1.3325
+Detection efficiency: 9.32e-05
+
+### Run 988	2022-05-04 03:40:28	### Run Time: 23.4902
+Total count: 1e+07
+Source position : (0,590,0)
+Source energy: 1.3325
+Detection efficiency: 9.645e-05
+
+### Run 989	2022-05-04 03:40:51	### Run Time: 23.4511
+Total count: 1e+07
+Source position : (0,595,0)
+Source energy: 1.3325
+Detection efficiency: 9.695e-05
+
+### Run 990	2022-05-04 03:41:14	### Run Time: 23.3305
+Total count: 1e+07
+Source position : (0,600,0)
+Source energy: 1.3325
+Detection efficiency: 9.315e-05
+
+### Run 991	2022-05-04 03:41:38	### Run Time: 23.5603
+Total count: 1e+07
+Source position : (0,605,0)
+Source energy: 1.3325
+Detection efficiency: 9.15e-05
+
+### Run 992	2022-05-04 03:42:01	### Run Time: 23.4191
+Total count: 1e+07
+Source position : (0,610,0)
+Source energy: 1.3325
+Detection efficiency: 8.655e-05
+
+### Run 993	2022-05-04 03:42:25	### Run Time: 23.6582
+Total count: 1e+07
+Source position : (0,615,0)
+Source energy: 1.3325
+Detection efficiency: 8.835e-05
+
+### Run 994	2022-05-04 03:42:48	### Run Time: 23.4202
+Total count: 1e+07
+Source position : (0,620,0)
+Source energy: 1.3325
+Detection efficiency: 9.06e-05
+
+### Run 995	2022-05-04 03:43:12	### Run Time: 23.4094
+Total count: 1e+07
+Source position : (0,625,0)
+Source energy: 1.3325
+Detection efficiency: 8.52e-05
+
+### Run 996	2022-05-04 03:43:35	### Run Time: 23.3946
+Total count: 1e+07
+Source position : (0,630,0)
+Source energy: 1.3325
+Detection efficiency: 8.465e-05
+
+### Run 997	2022-05-04 03:43:59	### Run Time: 23.4911
+Total count: 1e+07
+Source position : (0,635,0)
+Source energy: 1.3325
+Detection efficiency: 8.505e-05
+
+### Run 998	2022-05-04 03:44:22	### Run Time: 23.5557
+Total count: 1e+07
+Source position : (0,640,0)
+Source energy: 1.3325
+Detection efficiency: 8.19e-05
+
+### Run 999	2022-05-04 03:44:46	### Run Time: 23.3834
+Total count: 1e+07
+Source position : (0,645,0)
+Source energy: 1.3325
+Detection efficiency: 7.83e-05
+
+### Run 1000	2022-05-04 03:45:09	### Run Time: 23.7615
+Total count: 1e+07
+Source position : (0,150,0)
+Source energy: 1.83608
+Detection efficiency: 0.0008901
+
+### Run 1001	2022-05-04 03:45:33	### Run Time: 23.8076
+Total count: 1e+07
+Source position : (0,155,0)
+Source energy: 1.83608
+Detection efficiency: 0.00084455
+
+### Run 1002	2022-05-04 03:45:57	### Run Time: 23.6913
+Total count: 1e+07
+Source position : (0,160,0)
+Source energy: 1.83608
+Detection efficiency: 0.000807
+
+### Run 1003	2022-05-04 03:46:20	### Run Time: 23.5709
+Total count: 1e+07
+Source position : (0,165,0)
+Source energy: 1.83608
+Detection efficiency: 0.00076355
+
+### Run 1004	2022-05-04 03:46:44	### Run Time: 23.8636
+Total count: 1e+07
+Source position : (0,170,0)
+Source energy: 1.83608
+Detection efficiency: 0.00072455
+
+### Run 1005	2022-05-04 03:47:08	### Run Time: 23.7485
+Total count: 1e+07
+Source position : (0,175,0)
+Source energy: 1.83608
+Detection efficiency: 0.0006927
+
+### Run 1006	2022-05-04 03:47:32	### Run Time: 23.6724
+Total count: 1e+07
+Source position : (0,180,0)
+Source energy: 1.83608
+Detection efficiency: 0.0006558
+
+### Run 1007	2022-05-04 03:47:55	### Run Time: 23.5866
+Total count: 1e+07
+Source position : (0,185,0)
+Source energy: 1.83608
+Detection efficiency: 0.00062565
+
+### Run 1008	2022-05-04 03:48:19	### Run Time: 23.7771
+Total count: 1e+07
+Source position : (0,190,0)
+Source energy: 1.83608
+Detection efficiency: 0.00059745
+
+### Run 1009	2022-05-04 03:48:43	### Run Time: 23.7377
+Total count: 1e+07
+Source position : (0,195,0)
+Source energy: 1.83608
+Detection efficiency: 0.0005633
+
+### Run 1010	2022-05-04 03:49:06	### Run Time: 23.5445
+Total count: 1e+07
+Source position : (0,200,0)
+Source energy: 1.83608
+Detection efficiency: 0.00054105
+
+### Run 1011	2022-05-04 03:49:30	### Run Time: 23.5461
+Total count: 1e+07
+Source position : (0,205,0)
+Source energy: 1.83608
+Detection efficiency: 0.0005217
+
+### Run 1012	2022-05-04 03:49:54	### Run Time: 23.6261
+Total count: 1e+07
+Source position : (0,210,0)
+Source energy: 1.83608
+Detection efficiency: 0.0005043
+
+### Run 1013	2022-05-04 03:50:17	### Run Time: 23.6109
+Total count: 1e+07
+Source position : (0,215,0)
+Source energy: 1.83608
+Detection efficiency: 0.0004715
+
+### Run 1014	2022-05-04 03:50:41	### Run Time: 23.5486
+Total count: 1e+07
+Source position : (0,220,0)
+Source energy: 1.83608
+Detection efficiency: 0.00046085
+
+### Run 1015	2022-05-04 03:51:04	### Run Time: 23.5631
+Total count: 1e+07
+Source position : (0,225,0)
+Source energy: 1.83608
+Detection efficiency: 0.00044155
+
+### Run 1016	2022-05-04 03:51:28	### Run Time: 23.6686
+Total count: 1e+07
+Source position : (0,230,0)
+Source energy: 1.83608
+Detection efficiency: 0.0004222
+
+### Run 1017	2022-05-04 03:51:52	### Run Time: 23.5732
+Total count: 1e+07
+Source position : (0,235,0)
+Source energy: 1.83608
+Detection efficiency: 0.0004075
+
+### Run 1018	2022-05-04 03:52:15	### Run Time: 23.5103
+Total count: 1e+07
+Source position : (0,240,0)
+Source energy: 1.83608
+Detection efficiency: 0.00039015
+
+### Run 1019	2022-05-04 03:52:39	### Run Time: 23.6456
+Total count: 1e+07
+Source position : (0,245,0)
+Source energy: 1.83608
+Detection efficiency: 0.0003769
+
+### Run 1020	2022-05-04 03:53:02	### Run Time: 23.5916
+Total count: 1e+07
+Source position : (0,250,0)
+Source energy: 1.83608
+Detection efficiency: 0.0003622
+
+### Run 1021	2022-05-04 03:53:26	### Run Time: 23.4951
+Total count: 1e+07
+Source position : (0,255,0)
+Source energy: 1.83608
+Detection efficiency: 0.00034725
+
+### Run 1022	2022-05-04 03:53:49	### Run Time: 23.5888
+Total count: 1e+07
+Source position : (0,260,0)
+Source energy: 1.83608
+Detection efficiency: 0.000338
+
+### Run 1023	2022-05-04 03:54:13	### Run Time: 23.5414
+Total count: 1e+07
+Source position : (0,265,0)
+Source energy: 1.83608
+Detection efficiency: 0.00032465
+
+### Run 1024	2022-05-04 03:54:36	### Run Time: 23.5442
+Total count: 1e+07
+Source position : (0,270,0)
+Source energy: 1.83608
+Detection efficiency: 0.0003142
+
+### Run 1025	2022-05-04 03:55:00	### Run Time: 23.4549
+Total count: 1e+07
+Source position : (0,275,0)
+Source energy: 1.83608
+Detection efficiency: 0.0003046
+
+### Run 1026	2022-05-04 03:55:23	### Run Time: 23.5331
+Total count: 1e+07
+Source position : (0,280,0)
+Source energy: 1.83608
+Detection efficiency: 0.0003
+
+### Run 1027	2022-05-04 03:55:47	### Run Time: 23.5948
+Total count: 1e+07
+Source position : (0,285,0)
+Source energy: 1.83608
+Detection efficiency: 0.0002893
+
+### Run 1028	2022-05-04 03:56:11	### Run Time: 23.4837
+Total count: 1e+07
+Source position : (0,290,0)
+Source energy: 1.83608
+Detection efficiency: 0.00028335
+
+### Run 1029	2022-05-04 03:56:34	### Run Time: 23.4528
+Total count: 1e+07
+Source position : (0,295,0)
+Source energy: 1.83608
+Detection efficiency: 0.00026925
+
+### Run 1030	2022-05-04 03:56:58	### Run Time: 23.5561
+Total count: 1e+07
+Source position : (0,300,0)
+Source energy: 1.83608
+Detection efficiency: 0.0002579
+
+### Run 1031	2022-05-04 03:57:21	### Run Time: 23.5127
+Total count: 1e+07
+Source position : (0,305,0)
+Source energy: 1.83608
+Detection efficiency: 0.0002475
+
+### Run 1032	2022-05-04 03:57:45	### Run Time: 23.5309
+Total count: 1e+07
+Source position : (0,310,0)
+Source energy: 1.83608
+Detection efficiency: 0.0002467
+
+### Run 1033	2022-05-04 03:58:08	### Run Time: 23.3687
+Total count: 1e+07
+Source position : (0,315,0)
+Source energy: 1.83608
+Detection efficiency: 0.0002368
+
+### Run 1034	2022-05-04 03:58:32	### Run Time: 23.5904
+Total count: 1e+07
+Source position : (0,320,0)
+Source energy: 1.83608
+Detection efficiency: 0.00023355
+
+### Run 1035	2022-05-04 03:58:55	### Run Time: 23.4898
+Total count: 1e+07
+Source position : (0,325,0)
+Source energy: 1.83608
+Detection efficiency: 0.0002243
+
+### Run 1036	2022-05-04 03:59:18	### Run Time: 23.4364
+Total count: 1e+07
+Source position : (0,330,0)
+Source energy: 1.83608
+Detection efficiency: 0.0002124
+
+### Run 1037	2022-05-04 03:59:42	### Run Time: 23.4287
+Total count: 1e+07
+Source position : (0,335,0)
+Source energy: 1.83608
+Detection efficiency: 0.00020775
+
+### Run 1038	2022-05-04 04:00:05	### Run Time: 23.5016
+Total count: 1e+07
+Source position : (0,340,0)
+Source energy: 1.83608
+Detection efficiency: 0.00020925
+
+### Run 1039	2022-05-04 04:00:29	### Run Time: 23.4576
+Total count: 1e+07
+Source position : (0,345,0)
+Source energy: 1.83608
+Detection efficiency: 0.00020285
+
+### Run 1040	2022-05-04 04:00:52	### Run Time: 23.5075
+Total count: 1e+07
+Source position : (0,350,0)
+Source energy: 1.83608
+Detection efficiency: 0.0002003
+
+### Run 1041	2022-05-04 04:01:16	### Run Time: 23.5146
+Total count: 1e+07
+Source position : (0,355,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001899
+
+### Run 1042	2022-05-04 04:01:39	### Run Time: 23.4322
+Total count: 1e+07
+Source position : (0,360,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001868
+
+### Run 1043	2022-05-04 04:02:03	### Run Time: 23.5388
+Total count: 1e+07
+Source position : (0,365,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001825
+
+### Run 1044	2022-05-04 04:02:26	### Run Time: 23.3666
+Total count: 1e+07
+Source position : (0,370,0)
+Source energy: 1.83608
+Detection efficiency: 0.00017735
+
+### Run 1045	2022-05-04 04:02:50	### Run Time: 23.6291
+Total count: 1e+07
+Source position : (0,375,0)
+Source energy: 1.83608
+Detection efficiency: 0.00017455
+
+### Run 1046	2022-05-04 04:03:13	### Run Time: 23.4844
+Total count: 1e+07
+Source position : (0,380,0)
+Source energy: 1.83608
+Detection efficiency: 0.00016665
+
+### Run 1047	2022-05-04 04:03:37	### Run Time: 23.4217
+Total count: 1e+07
+Source position : (0,385,0)
+Source energy: 1.83608
+Detection efficiency: 0.00016385
+
+### Run 1048	2022-05-04 04:04:00	### Run Time: 23.4086
+Total count: 1e+07
+Source position : (0,390,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001594
+
+### Run 1049	2022-05-04 04:04:24	### Run Time: 23.535
+Total count: 1e+07
+Source position : (0,395,0)
+Source energy: 1.83608
+Detection efficiency: 0.00015515
+
+### Run 1050	2022-05-04 04:04:47	### Run Time: 23.3052
+Total count: 1e+07
+Source position : (0,400,0)
+Source energy: 1.83608
+Detection efficiency: 0.00015505
+
+### Run 1051	2022-05-04 04:05:11	### Run Time: 23.7231
+Total count: 1e+07
+Source position : (0,405,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001458
+
+### Run 1052	2022-05-04 04:05:34	### Run Time: 23.4468
+Total count: 1e+07
+Source position : (0,410,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001416
+
+### Run 1053	2022-05-04 04:05:58	### Run Time: 23.3216
+Total count: 1e+07
+Source position : (0,415,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001434
+
+### Run 1054	2022-05-04 04:06:21	### Run Time: 23.3997
+Total count: 1e+07
+Source position : (0,420,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001405
+
+### Run 1055	2022-05-04 04:06:44	### Run Time: 23.4465
+Total count: 1e+07
+Source position : (0,425,0)
+Source energy: 1.83608
+Detection efficiency: 0.00013775
+
+### Run 1056	2022-05-04 04:07:08	### Run Time: 23.4467
+Total count: 1e+07
+Source position : (0,430,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001325
+
+### Run 1057	2022-05-04 04:07:31	### Run Time: 23.3931
+Total count: 1e+07
+Source position : (0,435,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001282
+
+### Run 1058	2022-05-04 04:07:55	### Run Time: 23.46
+Total count: 1e+07
+Source position : (0,440,0)
+Source energy: 1.83608
+Detection efficiency: 0.00012615
+
+### Run 1059	2022-05-04 04:08:18	### Run Time: 23.4394
+Total count: 1e+07
+Source position : (0,445,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001271
+
+### Run 1060	2022-05-04 04:08:42	### Run Time: 23.4894
+Total count: 1e+07
+Source position : (0,450,0)
+Source energy: 1.83608
+Detection efficiency: 0.00012175
+
+### Run 1061	2022-05-04 04:09:05	### Run Time: 23.4236
+Total count: 1e+07
+Source position : (0,455,0)
+Source energy: 1.83608
+Detection efficiency: 0.00012245
+
+### Run 1062	2022-05-04 04:09:28	### Run Time: 23.4703
+Total count: 1e+07
+Source position : (0,460,0)
+Source energy: 1.83608
+Detection efficiency: 0.00011965
+
+### Run 1063	2022-05-04 04:09:52	### Run Time: 23.4999
+Total count: 1e+07
+Source position : (0,465,0)
+Source energy: 1.83608
+Detection efficiency: 0.000117
+
+### Run 1064	2022-05-04 04:10:15	### Run Time: 23.3417
+Total count: 1e+07
+Source position : (0,470,0)
+Source energy: 1.83608
+Detection efficiency: 0.00011445
+
+### Run 1065	2022-05-04 04:10:39	### Run Time: 23.4117
+Total count: 1e+07
+Source position : (0,475,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001124
+
+### Run 1066	2022-05-04 04:11:02	### Run Time: 23.4751
+Total count: 1e+07
+Source position : (0,480,0)
+Source energy: 1.83608
+Detection efficiency: 0.00011095
+
+### Run 1067	2022-05-04 04:11:26	### Run Time: 23.3948
+Total count: 1e+07
+Source position : (0,485,0)
+Source energy: 1.83608
+Detection efficiency: 0.00010735
+
+### Run 1068	2022-05-04 04:11:49	### Run Time: 23.3031
+Total count: 1e+07
+Source position : (0,490,0)
+Source energy: 1.83608
+Detection efficiency: 0.0001048
+
+### Run 1069	2022-05-04 04:12:13	### Run Time: 23.6303
+Total count: 1e+07
+Source position : (0,495,0)
+Source energy: 1.83608
+Detection efficiency: 0.00010185
+
+### Run 1070	2022-05-04 04:12:36	### Run Time: 23.5325
+Total count: 1e+07
+Source position : (0,500,0)
+Source energy: 1.83608
+Detection efficiency: 9.685e-05
+
+### Run 1071	2022-05-04 04:12:59	### Run Time: 23.3777
+Total count: 1e+07
+Source position : (0,505,0)
+Source energy: 1.83608
+Detection efficiency: 9.795e-05
+
+### Run 1072	2022-05-04 04:13:23	### Run Time: 23.3897
+Total count: 1e+07
+Source position : (0,510,0)
+Source energy: 1.83608
+Detection efficiency: 9.625e-05
+
+### Run 1073	2022-05-04 04:13:46	### Run Time: 23.5156
+Total count: 1e+07
+Source position : (0,515,0)
+Source energy: 1.83608
+Detection efficiency: 9.255e-05
+
+### Run 1074	2022-05-04 04:14:10	### Run Time: 23.4704
+Total count: 1e+07
+Source position : (0,520,0)
+Source energy: 1.83608
+Detection efficiency: 9.49e-05
+
+### Run 1075	2022-05-04 04:14:33	### Run Time: 23.3252
+Total count: 1e+07
+Source position : (0,525,0)
+Source energy: 1.83608
+Detection efficiency: 9.095e-05
+
+### Run 1076	2022-05-04 04:14:57	### Run Time: 23.4668
+Total count: 1e+07
+Source position : (0,530,0)
+Source energy: 1.83608
+Detection efficiency: 9.115e-05
+
+### Run 1077	2022-05-04 04:15:20	### Run Time: 23.5057
+Total count: 1e+07
+Source position : (0,535,0)
+Source energy: 1.83608
+Detection efficiency: 8.49e-05
+
+### Run 1078	2022-05-04 04:15:44	### Run Time: 23.3813
+Total count: 1e+07
+Source position : (0,540,0)
+Source energy: 1.83608
+Detection efficiency: 8.76e-05
+
+### Run 1079	2022-05-04 04:16:07	### Run Time: 23.3643
+Total count: 1e+07
+Source position : (0,545,0)
+Source energy: 1.83608
+Detection efficiency: 8.535e-05
+
+### Run 1080	2022-05-04 04:16:31	### Run Time: 23.6601
+Total count: 1e+07
+Source position : (0,550,0)
+Source energy: 1.83608
+Detection efficiency: 8.475e-05
+
+### Run 1081	2022-05-04 04:16:54	### Run Time: 23.48
+Total count: 1e+07
+Source position : (0,555,0)
+Source energy: 1.83608
+Detection efficiency: 8.015e-05
+
+### Run 1082	2022-05-04 04:17:17	### Run Time: 23.3989
+Total count: 1e+07
+Source position : (0,560,0)
+Source energy: 1.83608
+Detection efficiency: 7.985e-05
+
+### Run 1083	2022-05-04 04:17:41	### Run Time: 23.4102
+Total count: 1e+07
+Source position : (0,565,0)
+Source energy: 1.83608
+Detection efficiency: 7.865e-05
+
+### Run 1084	2022-05-04 04:18:04	### Run Time: 23.3589
+Total count: 1e+07
+Source position : (0,570,0)
+Source energy: 1.83608
+Detection efficiency: 7.75e-05
+
+### Run 1085	2022-05-04 04:18:28	### Run Time: 23.4658
+Total count: 1e+07
+Source position : (0,575,0)
+Source energy: 1.83608
+Detection efficiency: 7.435e-05
+
+### Run 1086	2022-05-04 04:18:51	### Run Time: 23.5034
+Total count: 1e+07
+Source position : (0,580,0)
+Source energy: 1.83608
+Detection efficiency: 7.385e-05
+
+### Run 1087	2022-05-04 04:19:15	### Run Time: 23.4464
+Total count: 1e+07
+Source position : (0,585,0)
+Source energy: 1.83608
+Detection efficiency: 7.18e-05
+
+### Run 1088	2022-05-04 04:19:38	### Run Time: 23.3132
+Total count: 1e+07
+Source position : (0,590,0)
+Source energy: 1.83608
+Detection efficiency: 7.6e-05
+
+### Run 1089	2022-05-04 04:20:01	### Run Time: 23.4958
+Total count: 1e+07
+Source position : (0,595,0)
+Source energy: 1.83608
+Detection efficiency: 7.115e-05
+
+### Run 1090	2022-05-04 04:20:25	### Run Time: 23.4173
+Total count: 1e+07
+Source position : (0,600,0)
+Source energy: 1.83608
+Detection efficiency: 7.28e-05
+
+### Run 1091	2022-05-04 04:20:48	### Run Time: 23.4157
+Total count: 1e+07
+Source position : (0,605,0)
+Source energy: 1.83608
+Detection efficiency: 7.255e-05
+
+### Run 1092	2022-05-04 04:21:12	### Run Time: 23.3052
+Total count: 1e+07
+Source position : (0,610,0)
+Source energy: 1.83608
+Detection efficiency: 6.655e-05
+
+### Run 1093	2022-05-04 04:21:35	### Run Time: 23.483
+Total count: 1e+07
+Source position : (0,615,0)
+Source energy: 1.83608
+Detection efficiency: 6.78e-05
+
+### Run 1094	2022-05-04 04:21:59	### Run Time: 23.4765
+Total count: 1e+07
+Source position : (0,620,0)
+Source energy: 1.83608
+Detection efficiency: 6.64e-05
+
+### Run 1095	2022-05-04 04:22:22	### Run Time: 23.313
+Total count: 1e+07
+Source position : (0,625,0)
+Source energy: 1.83608
+Detection efficiency: 6.575e-05
+
+### Run 1096	2022-05-04 04:22:45	### Run Time: 23.4549
+Total count: 1e+07
+Source position : (0,630,0)
+Source energy: 1.83608
+Detection efficiency: 6.64e-05
+
+### Run 1097	2022-05-04 04:23:09	### Run Time: 23.6874
+Total count: 1e+07
+Source position : (0,635,0)
+Source energy: 1.83608
+Detection efficiency: 6.265e-05
+
+### Run 1098	2022-05-04 04:23:32	### Run Time: 23.4272
+Total count: 1e+07
+Source position : (0,640,0)
+Source energy: 1.83608
+Detection efficiency: 5.955e-05
+
+### Run 1099	2022-05-04 04:23:56	### Run Time: 23.3013
+Total count: 1e+07
+Source position : (0,645,0)
+Source energy: 1.83608
+Detection efficiency: 6.225e-05
+
