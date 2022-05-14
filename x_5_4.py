@@ -49,9 +49,9 @@ class Mymodel(nn.Module):
             nn.Linear(1000, 1000),
             nn.Mish(inplace=True),
             nn.Dropout(0.2),
-            nn.Linear(1000, 1000),
-            nn.Mish(inplace=True),
-            nn.Dropout(0.2),
+            # nn.Linear(1000, 1000),
+            # nn.Mish(inplace=True),
+            # nn.Dropout(0.2),
             nn.Linear(1000, 1)
         )
 
@@ -144,6 +144,7 @@ def show(model, predict_df_):
     plt.scatter(inputs_tensor.data.numpy()[:, [0]], preision, color='red', linewidth=0.5)
     plt.scatter(inputs[:, [0]], acutal_out, color='y')
     plt.scatter(inputs[:, [0]], model_out, color='g')
+    plt.legend(["相对误差", "真实值", "预测值"])
     plt.show()
 
 
@@ -151,7 +152,7 @@ def predict(model, predict_df_):
     df = np.array(predict_df_)
     inputs = df[:, [2, 4]]
 
-    acutal_out = df[:, 5].reshape(-1, 1)
+    acutal_out = df[:, 5].reshape(-1, 1) / 1000
     # plt.scatter(inputs[:[2]], acutal_out)
 
     # x1_pred = np.linspace(150, 650, 1001).reshape(1001, 1)
@@ -162,18 +163,19 @@ def predict(model, predict_df_):
     # x1 =torch.Tensor(x)
 
     model = model.to('cuda')
-    model_out = model(inputs_tensor.to('cuda')).cpu().data.numpy()
+    model_out = model(inputs_tensor.to('cuda')).cpu().data.numpy() /1000
     preision = (model_out - acutal_out) / acutal_out
-    plt.scatter(inputs_tensor.data.numpy()[:, [0]], preision, color='red', linewidth=0.5)
-    plt.scatter(inputs[:, [0]], acutal_out, color='y')
-    plt.scatter(inputs[:, [0]], model_out, color='g')
+    # preision_p = plt.scatter(inputs_tensor.data.numpy()[:, [0]], preision, color='red', linewidth=0.5)
+    actual_val = plt.scatter(inputs[:, [0]], acutal_out, color='y')
+    predict_val = plt.scatter(inputs[:, [0]], model_out, color='g')
+    plt.legend((actual_val, predict_val), ("actual_val", "predict_val"), loc=0)
+    plt.yscale("log")
     plt.show()
-
 
 if __name__ == '__main__':
     # 数据预处理
     df = pd.read_csv(r'C:\Users\X\PycharmProjects\XProject\data\data2.csv')
-    # df['Efficiency'] = df['Efficiency'].map(lambda x: x * 1000)
+    df['Efficiency'] = df['Efficiency'].map(lambda x: x * 1000)
     df = df.sample(frac=1)
 
     df = np.array(df)
