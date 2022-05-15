@@ -111,7 +111,7 @@ if __name__ == '__main__':
 /gps/particle gamma
 /gps/pos/type Volume
 /gps/pos/shape Para
-/gps/pos/centre 1219 981.5 665.5. mm
+/gps/pos/centre 1219 981.5 221.8333 mm
 /gps/pos/halfx 243.8 mm
 /gps/pos/halfy 481.5 mm
 /gps/pos/halfz 221.83 mm
