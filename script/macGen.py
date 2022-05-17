@@ -123,19 +123,35 @@ if __name__ == '__main__':
 /gps/energy 1.3325 MeV
 
 """
-    detPos = [0, 100]
-    for x in range(0, gridNumOfX):
-        for y in range(0, gridNumOfY):
-            for z in range(0, gridNumOfZ):
-                mac_dir = mk_dir + '\\' + str(x) + '_' + str(y) + '_' + str(z) + '_' + '.mac'
-                with open(mac_dir, 'w') as f:
-                    f.write(pattern1)
-                    f.write(str_detector_x + str(pos[x][y][z][0]) + '\n')
-                    f.write(str_detector_z + str(detPos[y]) + '\n')
-                    f.write(str_detector_z + str(pos[x][y][z][2]) + '\n')
-                    f.write(pattern)
-                    f.write(str_run + str(runTime) + '\r')
-                    f.close()
+
+    # for x in range(0, gridNumOfX):
+    #     for y in range(0, gridNumOfY):
+    #         for z in range(0, gridNumOfZ):
+    #             mac_dir = mk_dir + '\\' + str(x) + '_' + str(y) + '_' + str(z) + '_' + '.mac'
+    #             with open(mac_dir, 'w') as f:
+    #                 f.write(pattern1)
+    #                 f.write(str_detector_x + str(pos[x][y][z][0]) + '\n')
+    #                 f.write(str_detector_z + str(detPos[y]) + '\n')
+    #                 f.write(str_detector_z + str(pos[x][y][z][2]) + '\n')
+    #                 f.write(pattern)
+    #                 f.write(str_run + str(runTime) + '\r')
+    #                 f.close()
+
+    detPos = np.arange(-300, 310, 10)
+    detXPos = 1219
+    detZPos = 665.5
+    for y in detPos:
+        mac_dir = mk_dir + '\\' + str(detXPos) + '_' + str(y) + '_' + str(detZPos) + '_' + 'det_pos' + '.mac'
+        with open(mac_dir, 'w') as f:
+            f.write(pattern1)
+            f.write(str_detector_x + str(detXPos) + '\n')
+            f.write(str_detector_z + str(y) + '\n')
+            f.write(str_detector_z + str(detZPos) + '\n')
+            f.write(pattern)
+            f.write(str_run + str(runTime) + '\r')
+            f.close()
+        print(y)
+
     #
     # with open(r'C:\Users\X\PycharmProjects\XProject\macScript\9mac.txt', 'w') as f:
     #     str_centre = "/gps/pos/centre "
