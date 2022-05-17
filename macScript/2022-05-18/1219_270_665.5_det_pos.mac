@@ -1,0 +1,24 @@
+/control/verbose 0
+/run/verbose 0
+
+/HPGe_simulation/det/setDetectorMoveX 1219
+/HPGe_simulation/det/setDetectorMoveY 270
+/HPGe_simulation/det/setDetectorMoveZ 665.5
+
+/run/numberOfThreads 16
+/run/initialize
+/gps/particle gamma
+/gps/pos/type Volume
+/gps/pos/shape Para
+/gps/pos/centre 1219 981.5 221.8333 mm
+/gps/pos/halfx 243.8 mm
+/gps/pos/halfy 481.5 mm
+/gps/pos/halfz 221.83 mm
+/gps/ang/type iso
+/gps/ang/mintheta 0 deg
+/gps/ang/maxtheta 180 deg
+/gps/ang/minphi 0 deg
+/gps/ang/maxphi 180 deg
+/gps/energy 1.3325 MeV
+
+/run/beamOn 100000000
