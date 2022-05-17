@@ -1,8 +1,8 @@
 import re
 import pandas as pd
 
-input_file = r'C:\Users\X\PycharmProjects\XProject\log\log.txt'
-output_file = r'C:\Users\X\PycharmProjects\XProject\data\data_9_plane_1.csv'
+input_file = r'../log/log5_17.txt'
+output_file = r'../data/log5_17_detector_front.csv'
 
 with open(input_file, 'r') as f:
     data = f.readlines()
