@@ -145,7 +145,7 @@ if __name__ == '__main__':
         with open(mac_dir, 'w') as f:
             f.write(pattern1)
             f.write(str_detector_x + str(detXPos) + '\n')
-            f.write(str_detector_z + str(y) + '\n')
+            f.write(str_detector_y + str(y) + '\n')
             f.write(str_detector_z + str(detZPos) + '\n')
             f.write(pattern)
             f.write(str_run + str(runTime) + '\r')
