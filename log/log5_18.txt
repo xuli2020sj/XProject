@@ -1,0 +1,366 @@
+### Run 0	2022-05-18 00:17:58	### Run Time: 409.628
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 7.1e-07
+
+### Run 0	2022-05-18 00:24:46	### Run Time: 407.653
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 6e-07
+
+### Run 0	2022-05-18 00:31:30	### Run Time: 402.89
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 9.15e-07
+
+### Run 0	2022-05-18 00:38:15	### Run Time: 405.419
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 6.5e-07
+
+### Run 0	2022-05-18 00:44:59	### Run Time: 403.287
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 7e-07
+
+### Run 0	2022-05-18 00:51:46	### Run Time: 406.536
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.4e-07
+
+### Run 0	2022-05-18 00:58:31	### Run Time: 404.461
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 9.6e-07
+
+### Run 0	2022-05-18 01:05:16	### Run Time: 405.073
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.85e-07
+
+### Run 0	2022-05-18 01:12:04	### Run Time: 406.636
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 9.6e-07
+
+### Run 0	2022-05-18 01:18:49	### Run Time: 405.299
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.35e-07
+
+### Run 0	2022-05-18 01:25:33	### Run Time: 403.217
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.015e-06
+
+### Run 0	2022-05-18 01:32:17	### Run Time: 403.506
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 4.95e-07
+
+### Run 0	2022-05-18 01:39:06	### Run Time: 408.298
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.075e-06
+
+### Run 0	2022-05-18 01:45:50	### Run Time: 404.423
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 4.95e-07
+
+### Run 0	2022-05-18 01:52:37	### Run Time: 406.158
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.06e-06
+
+### Run 0	2022-05-18 01:59:24	### Run Time: 406.409
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.3e-07
+
+### Run 0	2022-05-18 02:06:09	### Run Time: 404.811
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.06e-06
+
+### Run 0	2022-05-18 02:12:55	### Run Time: 405.112
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.1e-07
+
+### Run 0	2022-05-18 02:19:39	### Run Time: 403.472
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.18e-06
+
+### Run 0	2022-05-18 02:26:27	### Run Time: 408.333
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.4e-07
+
+### Run 0	2022-05-18 02:33:10	### Run Time: 402.807
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.185e-06
+
+### Run 0	2022-05-18 02:39:55	### Run Time: 404.287
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 6e-07
+
+### Run 0	2022-05-18 02:46:41	### Run Time: 405.795
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.405e-06
+
+### Run 0	2022-05-18 02:53:26	### Run Time: 404.155
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 6.05e-07
+
+### Run 0	2022-05-18 03:00:10	### Run Time: 403.586
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.495e-06
+
+### Run 0	2022-05-18 03:07:04	### Run Time: 413.541
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 6.25e-07
+
+### Run 0	2022-05-18 03:13:50	### Run Time: 405.466
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 6.3e-07
+
+### Run 0	2022-05-18 03:20:36	### Run Time: 405.813
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 6.45e-07
+
+### Run 0	2022-05-18 03:27:20	### Run Time: 403.867
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.535e-06
+
+### Run 0	2022-05-18 03:34:06	### Run Time: 405.57
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 7.1e-07
+
+### Run 0	2022-05-18 03:40:52	### Run Time: 404.908
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.555e-06
+
+### Run 0	2022-05-18 03:47:37	### Run Time: 404.818
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 6.7e-07
+
+### Run 0	2022-05-18 03:54:22	### Run Time: 404.246
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.835e-06
+
+### Run 0	2022-05-18 04:01:07	### Run Time: 405.266
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 6.4e-07
+
+### Run 0	2022-05-18 04:07:55	### Run Time: 406.8
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.74e-06
+
+### Run 0	2022-05-18 04:14:39	### Run Time: 403.688
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 7.6e-07
+
+### Run 0	2022-05-18 04:21:28	### Run Time: 408.636
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.81e-06
+
+### Run 0	2022-05-18 04:28:15	### Run Time: 406.621
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 6.8e-07
+
+### Run 0	2022-05-18 04:35:01	### Run Time: 406.085
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 1.83e-06
+
+### Run 0	2022-05-18 04:41:47	### Run Time: 405.7
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 7.05e-07
+
+### Run 0	2022-05-18 04:48:35	### Run Time: 407.572
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 2.275e-06
+
+### Run 0	2022-05-18 04:55:21	### Run Time: 404.771
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 7.5e-07
+
+### Run 0	2022-05-18 05:02:10	### Run Time: 409.403
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 2.33e-06
+
+### Run 0	2022-05-18 05:08:56	### Run Time: 404.737
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 7.3e-07
+
+### Run 0	2022-05-18 05:15:43	### Run Time: 406.847
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 2.505e-06
+
+### Run 0	2022-05-18 05:22:29	### Run Time: 406.106
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 8e-07
+
+### Run 0	2022-05-18 05:29:14	### Run Time: 404.514
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 2.3e-06
+
+### Run 0	2022-05-18 05:36:00	### Run Time: 405.127
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 6.5e-07
+
+### Run 0	2022-05-18 05:42:43	### Run Time: 402.694
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.75e-07
+
+### Run 0	2022-05-18 05:49:28	### Run Time: 404.175
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.8e-07
+
+### Run 0	2022-05-18 05:56:12	### Run Time: 403.732
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 6.2e-07
+
+### Run 0	2022-05-18 06:02:59	### Run Time: 406.704
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.45e-07
+
+### Run 0	2022-05-18 06:09:47	### Run Time: 407.492
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 7.25e-07
+
+### Run 0	2022-05-18 06:16:33	### Run Time: 405.806
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.45e-07
+
+### Run 0	2022-05-18 06:23:19	### Run Time: 405.386
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 7.05e-07
+
+### Run 0	2022-05-18 06:30:03	### Run Time: 403.769
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.85e-07
+
+### Run 0	2022-05-18 06:36:49	### Run Time: 405.505
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 8.1e-07
+
+### Run 0	2022-05-18 06:43:33	### Run Time: 404.083
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.85e-07
+
+### Run 0	2022-05-18 06:50:20	### Run Time: 406.065
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 7.7e-07
+
+### Run 0	2022-05-18 06:57:06	### Run Time: 405.745
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 5.9e-07
+
+### Run 0	2022-05-18 07:03:54	### Run Time: 407.384
+Total count: 1e+08
+Source position : (1163.14,902.24,223.015)
+Source energy: 1.3325
+Detection efficiency: 7.7e-07
+
